@@ -26,19 +26,42 @@ Neue Kandidaten/Infos einfach in `01 Inbox` ablegen – der Rest wird von hier a
 Stand der Marktdaten: Juni/Juli 2026
 
 | Coin | Status | Market Cap | Rank | Kurs | ATH-Abstand | 10x-Bewertung | Coin-Datei |
-| ---------------- | ------------- | ---------- | ---- | ---------- | ----------- | ------------- | ---------- |
+| ------------------ | ------------ | ---------- | ---- | ---------- | ----------- | ------------------ | -------------------------------- |
 | Aptos (APT) | Recherchiert | $520 Mio. | #105 | $0,625 | -96,9 % | ⭐⭐⭐⭐⭐ hoch | [[Aptos (APT)]] |
 | Kaspa (KAS) | Recherchiert | $805 Mio. | #77 | $0,0293 | -85,9 % | ⭐⭐⭐⭐ hoch | [[Kaspa (KAS)]] |
 | Render (RENDER) | Recherchiert | $842 Mio. | #72 | $1,626 | -88,2 % | ⭐⭐⭐⭐ mittel-hoch | [[Render (RENDER)]] |
 | Fetch.ai (FET) | Recherchiert | $712 Mio. | #89 | $0,273 | -92,1 %* | ⭐⭐⭐⭐ mittel-hoch | [[Fetch.ai - ASI Alliance (FET)]] |
 | Akash (AKT) | Recherchiert | $177 Mio. | #174 | $0,598 | -94,2 % | ⭐⭐⭐ Lottoschein | [[Akash Network (AKT)]] |
 | Pump.fun (PUMP) | Recherchiert | $791 Mio. | #83 | $0,00199 | -82,7 % | ⭐⭐⭐ hoch/riskant | [[Pump.fun (PUMP)]] |
+| **Bittensor (TAO)** | Recherchiert | $2,04 Mrd.† | #45 | $213,06 | -72,3 % | ⭐⭐⭐ hoch/riskant | [[Bittensor (TAO)]] |
 | Sui (SUI) | Recherchiert | $3,02 Mrd. | #38 | $0,750 | -86,0 % | ⭐⭐ mittel | [[Sui (SUI)]] |
 | Chainlink (LINK) | Recherchiert | $5,05 Mrd. | #24 | $8,05 | -84,8 % | ⭐⭐ mittel | [[Chainlink (LINK)]] |
 | Cardano (ADA) | Recherchiert | $6,27 Mrd. | #19 | $0,162 | -94,8 % | ⭐⭐ mittel | [[Cardano (ADA)]] |
+| **Hedera (HBAR)** | Recherchiert | $2,96 Mrd. | #37 | $0,06765 | -88,1 % | ⭐⭐ mittel | [[Hedera (HBAR)]] |
 | Canton (CC) | Recherchiert | $5,26 Mrd. | #24 | $0,151 | -22,6 % | ⭐ niedrig | [[Canton Network (CC)]] |
+| **Zcash (ZEC)** | Recherchiert | $9,14 Mrd. | #13 | $559,98 | -24,7 %‡ | ⭐ niedrig | [[Zcash (ZEC)]] |
+| **Solana (SOL)** | Recherchiert | $44,34 Mrd. | #7 | $76,11 | -74,1 % | ⭐ niedrig | [[Solana (SOL)]] |
+| **Hyperliquid (HYPE)** | Recherchiert | $22,35 Mrd. | #9 | $66,93 | -12,9 % | ⭐ niedrig | [[Hyperliquid (HYPE)]] |
 
 \* Das FET-ATH stammt aus der Zeit **vor** dem ASI-Merger, als die Supply nur ein Drittel betrug. Die relevante Referenz ist der Post-Merger-Peak (~$1,65) → tatsächlicher Abstand ~-83 %.
+
+† Die TAO-Market-Cap ist unsicher: Coinpaprika impliziert ~9,6 Mio. Circulating, andere Quellen ~11,2 Mio. → tatsächliche MC eher **$2,3–2,4 Mrd.** Vor einem Kauf über taostats.io verifizieren.
+
+‡ Das ZEC-ATH von $5.941,80 (29.10.2016) ist ein Launch-Tag-Artefakt bei quasi null Liquidität. Relevante Referenz ist **$744,13 (07.11.2025)** → Abstand -24,7 %.
+
+### Neu recherchiert am 28.07.2026 – Kurzeinordnung
+
+Die fünf Neuzugänge fallen in eine gemeinsame Kategorie: **es sind überwiegend gute Projekte mit zu hoher Bewertung für ein 10x-Ziel.**
+
+| Coin | Warum interessant | Warum es (nicht) passt |
+|---|---|---|
+| **Bittensor** | Bestes Design des Vaults, hartes 21-Mio.-Cap, kein Pre-Mine, Beta 1,61 | **11,7 % Inflation** – höchster Wert im Vault. Umsatzbasis unbewiesen ($3–172 Mio. Spanne). Vierter AI-Coin |
+| **Hedera** | **Beste 10x-Mathematik der fünf** (10x = nur 1,8x über dem Jan-2025-Peak), MC/FDV 87,6 % | **$2.540 Netzwerkgebühren pro Tag.** Beta 1,37. Enterprise-These seit 7 Jahren ohne Token-Effekt |
+| **Zcash** | 30 % der Supply im Shielded Pool = bester Nutzungsbeleg. Grayscale-ETF beantragt. Beta 1,77 | **Auf Bybit delistet.** MC $9,14 Mrd. ist bereits ein Allzeithoch – das 10x ist gelaufen |
+| **Solana** | Beste Fundamentaldaten überhaupt: $257 Mio. App-Umsatz/Quartal, 9 Quartale #1 | 10x = **$443 Mrd.** Rolle "Qualitätsanker" ist mit Chainlink besetzt |
+| **Hyperliquid** | Bestes Geschäftsmodell des Vaults: $785 Mio. Umsatz, 97 % in Rückkäufe | Nur **-12,9 % vom ATH** in einem -52-%-Markt. MC/FDV **33 %**. 10x = $223 Mrd. |
+
+➡️ **Detaillierte Einordnung und Portfolio-Konsequenz: [[00 Vergleich & Portfolio]]**
 
 ## Marktkontext (Stand Juli 2026)
 
