@@ -1,0 +1,68 @@
+name: Deploy Quartz site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "pages-deploy"
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout vault (main)
+        uses: actions/checkout@v4
+        with:
+          path: vault
+
+      - name: Checkout Quartz
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          path: quartz-app
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Quartz dependencies
+        working-directory: quartz-app
+        run: npm ci
+
+      - name: Copy vault content into Quartz
+        run: |
+          rm -rf quartz-app/content
+          mkdir -p quartz-app/content
+          rsync -av \
+            --exclude='.*' \
+            --exclude='LICENSE' \
+            --exclude='README*' \
+            vault/ quartz-app/content/
+
+      - name: Configure Quartz
+        working-directory: quartz-app
+        run: |
+          cp quartz.config.default.yaml quartz.config.yaml
+          sed -i 's/pageTitle: Quartz 5/pageTitle: Crypto Bullrun Vault/' quartz.config.yaml
+          sed -i 's#baseUrl: quartz.jzhao.xyz#baseUrl: tuerpe.github.io/Crypto-Vault#' quartz.config.yaml
+          sed -i '/provider: plausible/d' quartz.config.yaml
+          sed -i 's/locale: en-US/locale: de-DE/' quartz.config.yaml
+          sed -i '/source: "@quartz-community\/latex"/{n;s/enabled: true/enabled: false/}' quartz.config.yaml
+
+      - name: Build Quartz site
+        working-directory: quartz-app
+        run: npx quartz build
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: quartz-app/public
+          publish_branch: gh-pages
