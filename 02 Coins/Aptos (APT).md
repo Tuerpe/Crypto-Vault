@@ -5,6 +5,8 @@ status: Recherchiert
 kategorie: L1 / PoS / Move-basiert / RWA
 recherche_stand: 2026-07-27
 ---
+Tradingview:
+https://www.tradingview.com/chart/cmAhymgC/
 
 # Aptos (APT)
 

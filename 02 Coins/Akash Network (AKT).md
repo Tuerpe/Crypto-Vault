@@ -15,6 +15,12 @@ recherche_stand: 2026-07-27
 
 ---
 
+Metriken Links:
+https://stats.akash.network/
+
+Tradingview:
+https://www.tradingview.com/chart/cmAhymgC/
+
 ## 0. Kennzahlen auf einen Blick
 
 | Kennzahl | Wert | Quelle/Stand |
