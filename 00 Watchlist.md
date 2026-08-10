@@ -32,6 +32,7 @@ Stand der Marktdaten: Juni/Juli 2026
 | Render (RENDER) | Recherchiert | $842 Mio. | #72 | $1,626 | -88,2 % | ⭐⭐⭐⭐ mittel-hoch | [[Render (RENDER)]] |
 | Fetch.ai (FET) | Recherchiert | $712 Mio. | #89 | $0,273 | -92,1 %* | ⭐⭐⭐⭐ mittel-hoch | [[Fetch.ai - ASI Alliance (FET)]] |
 | Akash (AKT) | Recherchiert | $177 Mio. | #174 | $0,598 | -94,2 % | ⭐⭐⭐ Lottoschein | [[Akash Network (AKT)]] |
+| **JasmyCoin (JASMY)** | Recherchiert | $203 Mio. | #159 | $0,004107 | -98,7 %¶ | ⭐⭐⭐ Lottoschein | [[JasmyCoin (JASMY)]] |
 | Pump.fun (PUMP) | Recherchiert | $791 Mio. | #83 | $0,00199 | -82,7 % | ⭐⭐⭐ hoch/riskant | [[Pump.fun (PUMP)]] |
 | **Bittensor (TAO)** | Recherchiert | $2,04 Mrd.† | #45 | $213,06 | -72,3 % | ⭐⭐⭐ hoch/riskant | [[Bittensor (TAO)]] |
 | Sui (SUI) | Recherchiert | $3,02 Mrd. | #38 | $0,750 | -86,0 % | ⭐⭐ mittel | [[Sui (SUI)]] |
@@ -52,6 +53,8 @@ Stand der Marktdaten: Juni/Juli 2026
 ‡ Das ZEC-ATH von $5.941,80 (29.10.2016) ist ein Launch-Tag-Artefakt bei quasi null Liquidität. Relevante Referenz ist **$744,13 (07.11.2025)** → Abstand -24,7 %.
 
 § Der DOT-Rank ist geschätzt – das Rank- und Market-Cap-Feld bei Coinpaprika ist für DOT defekt (liefert MC = 0). Marktdaten-Stand: 09.08.2026.
+
+¶ Das JASMY-ATH von $0,3245 (03.11.2021) stammt aus einer Zeit, in der nur ein Bruchteil der heutigen Supply zirkulierte – als Referenz unbrauchbar. Relevant ist der **Dezember-2024-Peak von $0,059 (MC >$2 Mrd.)** → tatsächlicher Abstand ~-93 %.
 
 ### Neu recherchiert am 28.07.2026 – Kurzeinordnung
 
@@ -87,6 +90,17 @@ Die fünf Neuzugänge fallen in eine gemeinsame Kategorie: **es sind überwiegen
 | **Dafür** | SEC-Verfahren im **August 2025 endgültig beendet**, XRP im Börsenhandel ausdrücklich **kein Wertpapier**. Ripple mit **OCC-Bankcharter** (Dez. 2025) und **>$2,7 Mrd. Zukäufen** (Hidden Road, Rail, GTreasury). US-Spot-ETFs live mit **$1,4–1,6 Mrd. Zuflüssen** – zogen Kapital an, während BTC- und ETH-Fonds $2 Mrd. verloren. Keine Inflation. **Steuerlich der einfachste Coin des Vaults** (kein Staking → keine Nebeneinkünfte, eine saubere Haltefrist). Über Trade Republic wahrscheinlich direkt kaufbar |
 | **Dagegen** | **10x = $673 Mrd. = 29 % des heutigen Kryptomarkts** – höchster absoluter Zielwert im Vault. **Der Zyklus ist bereits gelaufen:** 7x in 2024/25 auf $3,65, Katalysator eingetreten und eingepreist. **Beta 1,26** (zweitschwächster Hebel). Ripple hält **>39 % der Supply**, Escrow läuft noch ein Jahrzehnt. **$400 Tagesgebühren, $33 Mio. TVL** bei $64,8 Mrd. MC. RLUSD untergräbt die eigene Brückenwährungs-These |
 | **Empfehlung** | **0 % in diesem Portfolio** – aber ausdrücklich wegen der Bewertung, nicht der Qualität. Als **Basisinvestment außerhalb der 10x-Allokation** (Erwartung 2–4x) durchaus sinnvoll, ähnlich wie Bitcoin im Masterplan |
+
+### Neu recherchiert am 10.08.2026 – JasmyCoin (JASMY)
+
+**Die zweitsauberste Supply-Struktur des Vaults trifft auf die schwächste Datenlage.**
+
+| | |
+|---|---|
+| **Dafür** | **10x = nur $2,03 Mrd.** – das Niveau vom Dezember 2024, kein neuer Rekord nötig. **MC/FDV 98,8 %, null Inflation, Vesting seit Oktober 2023 komplett durch.** Zweitkleinste MC im Vault ($203 Mio.) → hoher mechanischer Hebel. **Panasonic liefert seine 2026er-IoT-Geräte mit vorinstallierten Data Lockers aus** – erster echter kommerzieller Datenpunkt. Seit **19.01.2026 Gas-Token der eigenen L2 (JasmyChain)**. Ex-Sony-Führung (Kunitake Ando, früher President/COO). **Bewiesene 9x-Fähigkeit** (2024: $0,0065 → $0,059) |
+| **Dagegen** | **JasmyChain hat kein Entwickler-Ökosystem, keinen TVL, keine Transaktionshistorie.** Keinerlei bewertbare Fundamentaldaten – kein Umsatz, keine Nutzerzahlen. **Vier Jahre Kursverfall** trotz vollständig zirkulierender Supply (= reine Nachfrageschwäche, keine Verwässerungs-Ausrede). **Beta 1,29** – schwacher Marktbeta-Hebel. Liquidität nur 1,8 % der MC. **Die kursierende Apple-/My-Number-Story ist unbestätigt** |
+| **Konkurriert mit** | **Akash** – identische Portfolio-Rolle (kleinster Cap, höchster Hebel, schwächste Substanz). JASMY hat die besseren Tokenomics (0 % vs. 8,94 % Inflation), mehr Liquidität und den konkreteren Katalysator; **Akash das bessere Beta (1,67) und wenigstens messbare Nutzungszahlen** |
+| **Empfehlung** | **4–6 % – als Alternative zu Akash, nicht zusätzlich.** Abbruchbedingung: keine öffentlichen JasmyChain-Transaktionszahlen bis Q2 2027 |
 
 ## Marktkontext (Stand Juli 2026)
 
