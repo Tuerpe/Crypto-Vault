@@ -32,6 +32,14 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 | **XRP** | $1,036 | **$64,81 Mrd.** | **#6** | ~62,5 % | -73,0 % | **1,26** ❌ | **0,90 %** ❌ | **0 %** |
 | **JasmyCoin** | $0,004107 | **$202,9 Mio.** | #159 | **98,8 %** ⭐ | -98,7 %¶ | **1,29** ❌ | 1,8 % ❌ | **0 %** ⭐ |
 | **Jito** | $0,504 | $151–255 Mio.# | ~#175 | **30–50,7 %** ❌ | -90,5 % | **1,68** ⭐ | 4,3–7,2 % | **0 %** ⭐ |
+| **Pendle** 🆕 | $1,379 | $225,8 Mio. | #149 | 63,4 % | -81,7 % | **1,61** | 2,9 % | **~2 %** |
+| **Centrifuge** 🆕 | $0,1629 | $94,0 Mio. | #250 | ~100 %⁑ | -93,1 % | **2,04** ⭐⭐ | 3,9 % | unklar ⚠️ |
+| **Maple** 🆕 | $0,1514 | $180,6 Mio. | #166 | **~99 %** ⭐ | -76,9 % | **1,29** ❌ | **1,3 %** ❌ | ~0 % |
+| **Ondo** 🆕 | $0,344 | $1,676 Mrd. | #47 | **48,7 %** ⚠️ | -83,9 % | 1,54 | 3,1 % | Unlocks |
+| **Quant** 🆕 | $68,87 | $831,4 Mio. | #79 | 81,1 % | -83,8 % | **0,84** ❌ | **0,83 %** ❌ | **0 %** |
+| **Polymesh** 🆕 | $0,0369 | $42,3 Mio. | #406 | **~100 %** ⭐ | -95,1 % | 1,37 | 9,7 % | inflationär ⚠️ |
+| **MANTRA** 🆕 | $0,00522 | $24,9 Mio. | #519 | 48 % | -76,1 %‖ | **1,16** ❌ | 6,9 % | Unlocks |
+| **Plume** 🆕 | $0,01113 | **$22,3 Mio.** | #580 | **~20 %** ❌❌ | -95,5 % | 1,50 | **18,3 %** ⭐ | Unlocks |
 
 \* Das FET-ATH ($3,47, März 2024) stammt aus der Zeit **vor** dem ASI-Merger, der die Supply verdreifacht hat. Relevante Referenz ist der Post-Merger-Peak (~$1,65, Dez. 2024) → tatsächlicher Abstand ~-83 %.
 
@@ -45,6 +53,10 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 
 \# JTO-Circulating widersprüchlich: Coinpaprika ~299 Mio. vs. Vesting-Tracker ~507 Mio. (**70 % Abweichung**). Vor einem Kauf auf DefiLlama verifizieren.
 
+⁑ CFG-Daten bei Coinpaprika inkonsistent (implizierte Circulating > Total Supply). Keine harte Supply-Obergrenze, Inflationsrate nicht belegbar.
+
+‖ MANTRA-ATH bezogen auf den neuen Token nach 1:4-Redenominierung (März 2026). Pre-Crash-Hoch ~$8,99 (OM, Feb. 2025) – **am 13.04.2025 -92 % in einer Stunde, bis heute unaufgeklärt.**
+
 ---
 
 ## 2. Was ein 10x jeweils kosten würde
@@ -56,10 +68,16 @@ Das ist die wichtigste Tabelle. **Ein 10x bei einem $5-Mrd.-Coin ist ein völlig
 | **Polkadot** | $1,38 Mrd. | **$14,1 Mrd.** | **~$54 Mrd. (Nov. 2021)** | ⭐ **nur 26 % des alten Peaks – Bestwert** |
 | **JasmyCoin** | $202,9 Mio. | **$2,03 Mrd.** | **>$2 Mrd. (Dez. 2024)** | ✅ **auf Höhe des letzten Zyklus-Peaks** |
 | **Jito** | $151–255 Mio. | **$5,0 Mrd.** (bei voller Vestung) | MC ~$608 Mio. / **FDV ~$5,3 Mrd.** (Apr. 2024) | ✅ **~95 % der damaligen FDV** – aber 8,3x über der damaligen MC ⚠️ |
+| **Polymesh** 🆕 | $42,3 Mio. | **$423 Mio.** | ~$680 Mio. (2024) | ✅ **nur 62 % des alten Peaks** |
+| **Centrifuge** 🆕 | $94,0 Mio. | **$940 Mio.** | ~$1,0 Mrd. (2021) | ✅ **~auf Peak-Niveau** |
 | **Akash** | $177 Mio. | **$1,8 Mrd.** | ~$1,3–1,9 Mrd. (2024) | ✅ **auf Höhe des alten Peaks** |
 | **Aptos** | $520 Mio. | **$6,3 Mrd.** | ~$7 Mrd. (Dez. 2024) | ✅ **unter dem alten Peak** |
 | **Cardano** | $6,27 Mrd. | $63 Mrd. | ~$95 Mrd. (2021) | ✅ unter dem alten Peak |
+| **Quant** 🆕 | $831,4 Mio. | $8,3 Mrd. | ~$5,1 Mrd. (2021) | ⚠️ 1,6x über dem Peak – **aber Beta 0,84** |
 | **Kaspa** | $805 Mio. | $8,4 Mrd. | ~$5 Mrd. (2024) | ⚠️ 1,7x über dem Peak |
+| **Pendle** 🆕 | $225,8 Mio. | $2,4 Mrd. | ~$1,1 Mrd. (2024) | ⚠️ 2,2x über dem Peak |
+| **Maple** 🆕 | $180,6 Mio. | $1,8 Mrd. | ~$720 Mio. (2025) | ⚠️ 2,5x über dem Peak |
+| **Ondo** 🆕 | $1,676 Mrd. | **$18,9 Mrd.** | ~$3,0 Mrd. MC / $21,4 Mrd. FDV | ⚠️ 6,3x über MC, unter FDV (Low-Float) |
 | **Hedera** | $2,96 Mrd. | **$29,6 Mrd.** | ~$16 Mrd. (Jan. 2025) | ⚠️ **1,8x über dem Peak** |
 | **Fetch.ai** | $712 Mio. | $7,1 Mrd. | ~$4 Mrd. (post-Merger, 2024) | ⚠️ 1,8x über dem Peak |
 | **Render** | $842 Mio. | $8,4 Mrd. | ~$5 Mrd. (2024) | ⚠️ 1,7x über dem Peak |
@@ -73,7 +91,7 @@ Das ist die wichtigste Tabelle. **Ein 10x bei einem $5-Mrd.-Coin ist ein völlig
 | **Hyperliquid** | $22,35 Mrd. | **$223 Mrd.** (FDV $669 Mrd.) | ~$25 Mrd. (Juni 2026) | ❌ **~9x über dem Peak** |
 | **XRP** | $64,81 Mrd. | **$673 Mrd.** ← höchster Wert im Vault | ~$215 Mrd. (Juli 2025) | ❌ **3,1x über dem Peak = 29 % des heutigen Gesamtmarkts** |
 
-**Ergebnis:** Nur bei **Polkadot, JasmyCoin, Akash, Aptos und Cardano** liegt ein 10x auf oder unter einem Bewertungsniveau, das der Markt schon einmal bezahlt hat. Alles andere braucht ein neues Allzeithoch.
+**Ergebnis:** Nur bei **Polkadot, JasmyCoin, Polymesh, Centrifuge, Akash, Aptos und Cardano** liegt ein 10x auf oder unter einem Bewertungsniveau, das der Markt schon einmal bezahlt hat. Alles andere braucht ein neues Allzeithoch.
 **Jito ist ein Sonderfall:** Wegen des winzigen Anfangs-Floats von 2024 führen MC- und FDV-Vergleich zu gegensätzlichen Ergebnissen. Gemessen an der damaligen FDV (~$5,3 Mrd.) liegt ein 10x knapp darunter; gemessen an der damaligen MC (~$608 Mio.) weit darüber. Bei Coins mit sehr niedrigem Startfloat ist die **FDV die ehrlichere Referenz** – die niedrige MC war ein Artefakt künstlicher Verknappung.
 
 **Polkadot setzt sich mit Abstand an die Spitze dieser Tabelle:** 10x = $14,1 Mrd. gegen ein altes ATH-Niveau von ~$54 Mrd. – nur **26 %**. Kein anderer Coin im Vault braucht so wenig relativ zu dem, was der Markt ihm schon einmal zugestanden hat. **Diese Tabelle allein ist aber kein Kaufargument** – bei DOT stehen dem $250.000 Netzwerkumsatz gegen >$80 Mio. Ausgaben gegenüber. Siehe Tier-3-Einordnung.
@@ -103,32 +121,37 @@ Nur **1,16 % Emission** bei **+279 % Burn-Wachstum** → auf dem Weg zur Deflati
 
 ### 🥈 Tier 2 – Beimischung mit klarem Risiko
 
-**4. Fetch.ai (FET)** — *beste Liquidität, ungelöstes Rechtsrisiko*
+**4. Pendle (PENDLE)** — *bester Fundamentalfall des RWA-Sektors* 🆕
+Nach Pump.fun das **zweitgünstigste Umsatzvielfache im gesamten Vault: P/S 5,6x** bei ~$40 Mio. Jahresumsatz und ~$5 Mrd. TVL. **50–60 % Marktanteil im DeFi-Zinshandel** mit selbstverstärkendem Liquiditätsvorteil. Entscheidend: Seit dem Wechsel von vePENDLE auf **sPENDLE fließen 80 % des Protokollumsatzes in Rückkäufe** – das sind **~$32 Mio. Kaufdruck auf $226 Mio. Market Cap = ~14 % Buyback-Rendite p. a.**, gegen nur ~2 % terminale Inflation. Netto **~12 % Kaufdruck pro Jahr.** MC/FDV 63,4 %, Beta 1,61, fünf Jahre ohne Sicherheitsvorfall. Chain-agnostisch: profitiert unabhängig davon, welcher RWA-Emittent gewinnt.
+Aber: **dünne Liquidität** ($6,47 Mio./Tag = 2,9 % der MC), zyklisches Kerngeschäft (hängt am DeFi-Renditeniveau), **ATH im April 2024 – früh im Zyklus**, Boros noch unbewiesen.
+→ ***Der klar stärkste RWA-Kandidat.** 8–10 % als RWA-Kernposition **anstelle von Ondo.** Wichtigster Tracker: Gesamtumsatz über $60 Mio.*
+
+**5. Fetch.ai (FET)** — *beste Liquidität, ungelöstes Rechtsrisiko*
 Tokenomics auf Kaspa-Niveau (harte Obergrenze, MC/FDV 83–96 %, **kein Unlock-Kalender**) und die mit Abstand **beste Liquidität der Liste: 34 % der Market Cap pro Tag**. Echte Enterprise-Verbindungen – **Deutsche Telekom betreibt über T-Systems MMS Validatoren**, dazu Bosch, BMW, Festo und seit Januar 2026 Google Cloud/Gemini. Agent-Transaktionen +340 % YoY, 2,7 Mio. registrierte Agenten. ASI:Chain-Mainnet Ende 2026/Anfang 2027 – genau im Zyklusfenster.
 Aber: **keine veröffentlichten Netzwerkumsätze** (anders als bei Pump.fun oder Chainlink lässt sich nichts berechnen), und der **Rechtsstreit mit Ocean Protocol** (Sammelklage in New York, 286 Mio. FET strittig, 270 Mio. unkonvertierte OCEAN) belastet Reputation und Supply.
 → *Bessere Tokenomics als Render, schlechtere Beweislage. Beide zusammen ergeben eine sinnvolle AI-Doppelposition.*
 
-**5. Pump.fun (PUMP)** — *höchste Asymmetrie*
+**6. Pump.fun (PUMP)** — *höchste Asymmetrie*
 Der **einzige Coin mit echtem, messbarem Umsatz**: ~$300 Mio. annualisiert, P/S nur **2,6x**, 50 % des Umsatzes gesetzlich in Buyback & Burn (~19 % Buyback-Rendite p. a.). Beta 1,89 – höchster Marktbeta-Hebel.
 Aber: Umsatz **-83 % in 6 Monaten**, und **Unlocks (~$240 Mio./Jahr) übersteigen die Buybacks (~$150 Mio./Jahr)**.
 → *Kleine Position, Totalverlust einkalkuliert. Memecoins laufen historisch ganz am Ende eines Zyklus.*
 
-**6. Jito (JTO)** — *bestes Geschäft der Neuzugänge, falsche Korrelation* 🆕
+**7. Jito (JTO)** — *bestes Geschäft der Neuzugänge, falsche Korrelation* 🆕
 Qualitativ der stärkste Neuzugang seit Aptos. **Echte, prüfbare Umsätze: $2,33 Mio. Protokollumsatz in Q1 2026** bei 1,04 Mrd. Transaktionen und $19,85 Mio. Bruttovolumen an Tips – **nur Pump.fun und Hyperliquid haben im Vault ebenfalls eine bewertbare Umsatzbasis.** Dazu klare Marktführerschaft: **53,4 % Liquid-Staking-Marktanteil (Allzeithoch), ~14,5 Mio. SOL, ~$2,92 Mrd. TVL, größtes Protokoll auf Solana.** BAM verdoppelte den Stake-Anteil in einem Quartal auf 28,1 % (Validatoren +56 %), Prognose des Mitgründers: **+$15 Mio. Jahresumsatz.** **P/S 16–27x heute, bei BAM-Erfolg 6–11x.** **Vesting-Ende 07.11.2026** – derselbe Katalysator-Typ wie bei Aptos. **JIP-38** (aktiviert 13.07.2026) schreibt JTO-Rückkäufe und Burns aus JTX-Umsätzen bis Q4 2027 fest. **Beta 1,68.**
 Aber: **JTO wäre die dritte gehebelte Wette auf Solana-Aktivität.** Mit Pump.fun (8 %) und Render (11 %) liegen bereits 19 % des Portfolios in Solana-abhängigen Positionen – und Jitos Tips stammen aus **demselben Handelsvolumen, das Pump.fun erzeugt.** Der Buyback hängt zudem **allein an JTX**, einer Plattform, die seit dem 14.07.2026 existiert und noch keine Volumenzahlen hat; die bestehenden $9,3 Mio. Umsätze fließen **nicht** an Token-Halter, sondern in BAM-Wachstumsanreize. Datenlage widersprüchlich: **Circulating Supply ±70 %**, Vesting-Ende unklar.
 → ***Direkter Konkurrent zu Pump.fun.** Pump.fun = Memecoin-Spekulation (zyklisch, fragil, **P/S 2,6x**), Jito = Solana-Infrastruktur (robuster, breiter, teurer). **Meine Tendenz: Pump.fun behalten** (bessere 10x-Asymmetrie), **JTO auf die Beobachtungsliste** – Einstieg nach dem Vesting-Ende im November 2026, sobald JTX-Volumenzahlen vorliegen. Falls doch: 5–7 % **als Teiltausch, nicht zusätzlich.**
 
-**7. JasmyCoin (JASMY)** — *sauberste Supply, dünnste Datenlage* 🆕
+**8. JasmyCoin (JASMY)** — *sauberste Supply, dünnste Datenlage* 🆕
 **10x = nur $2,03 Mrd. – exakt das Niveau vom Dezember 2024**, kein neuer Rekord nötig. Dazu die zweitsauberste Angebotsseite im Vault: **MC/FDV 98,8 %, null Inflation, Vesting seit Oktober 2023 vollständig durch, kein Minting-Mechanismus.** Zweitkleinste Market Cap ($203 Mio.) → hoher mechanischer Hebel. Seit **19.01.2026 Gas-Token der eigenen L2 (JasmyChain, Arbitrum Orbit)**, und **Panasonic liefert seine 2026er-IoT-Geräte mit vorinstallierten Data Lockers aus** – der erste echte kommerzielle Datenpunkt nach Jahren in Demo-Phasen. Ex-Sony-Führung (Kunitake Ando, früher President und COO von Sony). **Bewiesene 9x-Fähigkeit** (2024: $0,0065 → $0,059).
 Aber: **JasmyChain hat kein Entwickler-Ökosystem, keinen nennenswerten TVL und minimale Transaktionshistorie** – und konkurriert gegen Arbitrum, Optimism und Base. Es existieren **keinerlei bewertbare Fundamentaldaten** (kein Umsatz, keine Nutzerzahlen, keine On-Chain-Metriken). **Vier Jahre Kursverfall bei vollständig zirkulierender Supply** heißt: reine Nachfrageschwäche, keine Verwässerungs-Ausrede. **Beta nur 1,29**, Liquidität 1,8 % der MC. Die kursierende **Apple-/My-Number-Story ist unbestätigt** und genau die Art Gerücht, die bei $200-Mio.-Retail-Coins Schaden anrichtet.
 → ***Direkter Konkurrent zu Akash** – identische Rolle im Portfolio. JASMY hat die besseren Tokenomics (0 % vs. 8,94 % Inflation), mehr Liquidität und den konkreteren Katalysator; **Akash das bessere Beta (1,67) und wenigstens messbare, wenn auch schwache Nutzungszahlen.** 4–6 %, als Alternative zu Akash, nicht zusätzlich.*
 
-**8. Akash (AKT)** — *reiner Lottoschein*
+**9. Akash (AKT)** — *reiner Lottoschein*
 Kleinste MC der Liste ($177 Mio.) → geringster Kapitalbedarf für 10x, und 10x liegt exakt auf dem 2024er-Peak. Echter Kostenvorteil (H100 für $1,20–1,80 statt $4,50–5,50 bei AWS).
 Aber die Zahlen sind schwach: **Ø 84 GPUs in Nutzung, 58 aktive Provider (Allzeittief), 8,94 % Inflation gegen 0,73 % Burn.**
 → *Nur als kleine Beimischung – oder ganz auslassen zugunsten von Render.*
 
-**9. Bittensor (TAO)** — *bestes Design, schlechteste Inflation* 🆕
+**10. Bittensor (TAO)** — *bestes Design, schlechteste Inflation* 🆕
 Das intellektuell überzeugendste Projekt der Liste: >120 Subnetze, die um Emissionen konkurrieren, indem sie messbare KI-Leistung erbringen. Hartes 21-Mio.-Cap, **kein Pre-Mine, keine VCs, kein Vesting** – auf Kaspa-Niveau. Erstes Halving am 12.12.2025 (7.200 → 3.600 TAO/Tag), 72–75 % gestakt, Grayscale-ETF beantragt, Staked-TAO-ETP an der Euronext Paris.
 Aber: **~11,7 % Inflation p. a. – der höchste Wert im gesamten Vault**, höher als Akash. Und die entscheidende Zahl fehlt: **$280–328 Mio. Jahresemission gegen einen geschätzten externen Kundenumsatz von $3–172 Mio.** Die Spanne zwischen bester und schlechtester Quelle beträgt Faktor 57.
 Dazu: dTAO-Alpha-Tokens konkurrieren mit TAO um dasselbe Kapital, und Covenant AI hat das Ökosystem mit Zentralisierungsvorwürfen verlassen.
@@ -136,55 +159,72 @@ Dazu: dTAO-Alpha-Tokens konkurrieren mit TAO um dasselbe Kapital, und Covenant A
 
 ### 🥉 Tier 3 – Qualität, aber kein 10x
 
-**10. Chainlink (LINK)** — *die Versicherungsposition*
+**11. Chainlink (LINK)** — *die Versicherungsposition*
 Chain-agnostisch: gewinnt unabhängig davon, welche L1 sich durchsetzt. $28 Bio. abgesicherter Wert, CCIP +1.972 %, JPMorgan live, **zwei US-Spot-ETFs bereits handelnd**. Reserve-Buybacks laufen.
 Aber: P/S **67x** und zwei Zyklen in Folge Underperformance trotz exzellenter Fundamentaldaten.
 → *3–6x-Kandidat. Der Coin, der am wahrscheinlichsten in 5 Jahren noch existiert.*
 
-**11. Cardano (ADA)** — *bestes Risk/Reward der Großen*
+**12. Cardano (ADA)** — *bestes Risk/Reward der Großen*
 10x liegt **unter** dem alten ATH-MC. Exzellente Liquidität, keine Unlocks, zwei terminierte Katalysatoren (Spot-ETF H2 2026, Leios spät 2026/27).
 Aber: **TVL -80 % auf $62–137 Mio.**, nur 12–16k tägliche aktive Adressen, zwei Zyklen ohne neues ATH.
 → *3–5x realistisch, 10x nur bei perfektem Verlauf.*
 
-**12. Sui (SUI)** — *gute Technik, falsche Tokenomics*
+**13. Sui (SUI)** — *gute Technik, falsche Tokenomics*
 Beste Liquidität der Liste (10,6 % der MC), Beta 1,81, Blue-Chip-Team aus Metas Diem.
 Aber: **~64 Mio. SUI unlocken monatlich = ~$576 Mio. Jahresverkaufsdruck auf $3 Mrd. MC (19 %).** TVL von $2,6 Mrd. auf ~$440 Mio. gefallen.
 → *Falls überhaupt: erst ab Q4 2026 kaufen, wenn die Insider-Cliffs auslaufen.*
 
-**13. Hedera (HBAR)** — *beste 10x-Mathematik, schwächste Ökonomie* 🆕
+**14. Hedera (HBAR)** — *beste 10x-Mathematik, schwächste Ökonomie* 🆕
 Die günstigste 10x-Rechnung der fünf Neuzugänge: **10x = $29,6 Mrd. = nur 1,8x über dem Januar-2025-Peak.** MC/FDV 87,6 %, Vesting durch, keine Emission, nur ~1,7–2 % Verwässerung aus Treasury-Freigaben. Council aus Google, IBM, Boeing, Deutsche Telekom, FedEx (Feb. 2026), Accenture (Mai 2026). $10 Mrd. abgewickelte RWA-Transaktionen, £10-Mrd.-FX-Pilot mit Lloyds/Archax, SEC/CFTC-Einstufung als "digital commodity", Canary-Spot-ETF live.
 Aber die On-Chain-Ökonomie ist verheerend: **~$2.540 Netzwerkgebühren pro Tag** (= ~$927.000 im Jahr bei $2,96 Mrd. MC → P/S über 3.000x), **DeFi-TVL $24,4 Mio.** nach dem Bonzo-Lend-Exploit (11.07.2026, -40 %), **Beta 1,37**.
 Die Enterprise-These ist seit 2018 dieselbe und hat in sieben Jahren keine Token-Nachfrage erzeugt.
 → ***Die bessere Version von Canton – in jeder Bewertungskennzahl.** Falls RWA/Enterprise ins Portfolio soll: HBAR statt Canton. Realistisch 3–5x.*
 
-**14. Polkadot (DOT)** — *beste 10x-Mathematik, schlechteste Trendindikatoren* 🆕
+**15. Polkadot (DOT)** — *beste 10x-Mathematik, schlechteste Trendindikatoren* 🆕
 **Die günstigste 10x-Rechnung des gesamten Vaults: 10x = $14,1 Mrd. = nur 26 % des alten ATH-Niveaus (~$54 Mrd., Nov. 2021).** Kein anderer Coin braucht so wenig relativ zu dem, was der Markt ihm schon einmal zugestanden hat. Dazu der Tokenomics-Umbau vom **14.03.2026**: harte Obergrenze bei **2,1 Mrd. DOT**, Emission von 120 Mio. auf 56,88 Mio. p. a. halbiert, **Inflation von 7–10 % auf ~3 %**, MC/FDV 81 %, keine Unlocks. Gavin Wood, bestes Chain-Framework der Branche, funktionierende On-Chain-Governance, Grayscale-ETF-Verfahren seit Februar 2026. **-98,5 % vom ATH – der tiefste Drawdown im Vault.**
 Aber die Ökonomie ist schlechter als bei Hedera: **~$250.000 Netzwerkumsatz gegen >$80 Mio. Ausgaben** (Verhältnis 1:320, P/S ~2.800x), TVL-Marktanteil von 3,5 % auf **1,8 %** gefallen, **DefiLlama-TVL ~$81 Mio.** gegen Cosmos $1,3 Mrd. Dazu eine öffentlich dokumentierte Ökosystem-Erosion: **Polkassembly eingestellt**, **Hyperbridge exploitet**, Ex-Insider-Vorwürfe zu Führung und Treasury (The Defiant, Mai 2026). **JAM hängt seit zwei Jahren im Testnet.** Beta nur **1,49**, zwei Zyklen massive Underperformance (2024/25 nur 21 % des alten ATH).
 → ***Direkter Konkurrent zu Cardano** – gleiche Kategorie, gleiches Muster. DOT hat die bessere 10x-Mathematik und die niedrigere Inflation, **ADA den besseren TVL, 2,3x mehr Liquidität, 1,3 Mio. aktive Staker und den weiter fortgeschrittenen ETF.** Wenn nur eine dieser Positionen ins Portfolio soll: ADA. Realistisch 2,7–4x, Bull-Case 7,5–10x.*
 
 ### ❌ Tier 4 – passt nicht zum Ziel
 
-**15. Canton (CC)** — *gutes Projekt, falsches Portfolio*
+**15b. Centrifuge (CFG)** — *höchstes Beta im Vault, größte Bewertungslücke* 🆕
+**Beta 2,04 – der höchste Wert im gesamten Vault** (vor Pump.fun 1,89 und Sui/Render 1,81). Dazu die auffälligste Bewertungsrelation des RWA-Sektors: **MC/TVL 0,055 gegen Ondos 0,49** – Centrifuge verwaltet halb so viel Kapital wie Ondo und wird mit einem Achtzehntel bewertet. **10x liegt auf dem alten ATH-MC-Niveau (~$1,0 Mrd.).** Echte Produkte: **JAAA** (Janus Henderson AAA CLO Fund, >$653 Mio. on-chain, $1 Mrd. Grove-Allokation) und **deSPXA** – der **erste lizenzierte tokenisierte S&P-500-Indexfonds**, unter Lizenz von S&P Dow Jones. **Coinbase hat im Mai 2026 investiert.** Neun Jahre Durchhaltehistorie.
+Aber: **kein Fee-Sharing, kein Buyback** – dieselbe Schwäche wie bei Ondo. **Keine harte Supply-Obergrenze**, Inflationsrate nicht belegbar. TVL-Konzentration auf Janus Henderson und die Grove-Allokation. Dünne Liquidität (3,9 % der MC). Zwei Zyklen Underperformance.
+→ ***Die Bewertungslücken-Wette mit maximalem Hebel.** 5–7 % als Beimischung zu Pendle. Trigger: ein Governance-Beschluss zu CFG-Buybacks.*
+
+**16. Canton (CC)** — *gutes Projekt, falsches Portfolio*
 Beste Substanz der Liste (DTCC, Euroclear, BlackRock, echte Treasuries on-chain seit Juli 2026). Aber: MC **$5,26 Mrd. auf Rank #24**, nur **-23 % vom ATH** in einem Markt, der -53 % steht, **Beta 0,49** und **0,13 % Tagesvolumen** – die dünnste Liquidität bei der zweithöchsten Bewertung.
 10x würde **$53 Mrd.** bedeuten.
 → *Für ein 10x-Portfolio der schwächste Kandidat. Wenn du RWA willst, nimm Chainlink – oder Hedera für den Hebel.*
 
-**16. Zcash (ZEC)** — *das 10x ist bereits passiert* 🆕
+**17. Zcash (ZEC)** — *das 10x ist bereits passiert* 🆕
 Der stärkste der fünf Neuzugänge und trotzdem Tier 4. **30 % der Circulating Supply liegen im Shielded Pool** – der beste Nutzungsbeleg im gesamten Vault. Hartes 21-Mio.-Cap, keine VCs, kein Vesting, **Beta 1,77** (zweithöchster Wert). Ironwood/NU7 (Ende Juli 2026) verdreifacht den Shielded-Durchsatz, Project Tachyon arbeitet am formalen Beweis gegen unentdeckbare Fälschungsfehler, **Grayscale hat den ersten Privacy-Coin-ETF beantragt (ZCSH)**.
 Aber: ZEC stieg 2025 von ~$50 auf **$744 (+1.200 %)** und steht heute bei $560 – **MC $9,14 Mrd. ist ein Allzeithoch.** 10x = $91 Mrd. = 7,6x über dem Peak. Und: **Bybit hat ZEC delistet**, ebenso OKX teilweise und Bit2Me.
 → *Wertvoll als Absicherung gegen ein Überwachungs-/Regulierungsszenario, nicht als Renditetreiber. **Kaufzone eher $250–350.** Preis-Alarm setzen.*
 
-**17. Solana (SOL)** — *bester Coin, falsches Ziel* 🆕
+**18. Solana (SOL)** — *bester Coin, falsches Ziel* 🆕
 Die stärksten belegbaren Kennzahlen des gesamten Vaults: **$257 Mio. App-Umsatz in Q2 2026, neun Quartale in Folge #1 aller Chains**, $1,95 Bio. DEX-Volumen 2025, ~$14,85 Mrd. Stablecoins, Firedancer seit Dez. 2025 live, Alpenglow mit 150-ms-Finalität im Rollout, **MC/FDV ~99 % ohne jeden Unlock-Kalender**.
 Aber: **10x = $443 Mrd.** = 3,1x über dem Januar-2025-Peak. Keine einzige seriöse Prognose sieht SOL 2027 über ~$500. Dazu zwei versteckte Probleme: **Pump.fun stellte 36 % des Q1-2026-App-Umsatzes** (du hältst PUMP bereits – das ist eine Doppelposition), und die **DAT-Treasuries** (Forward Industries: $283 Mio. Verlust in Q1) sind ein neuer prozyklischer Verkäufer.
 → *Die Rolle "Qualitätsanker" ist mit Chainlink besetzt. 0 %, oder max. 5–8 % anstelle eines Teils von LINK.*
 
-**18. XRP** — *sauberster Regulierungsstatus, unmöglichste Arithmetik* 🆕
+**19. XRP** — *sauberster Regulierungsstatus, unmöglichste Arithmetik* 🆕
 Regulatorisch die beste Position im gesamten Vault: **SEC-Verfahren im August 2025 endgültig beendet**, XRP im Börsenhandel ausdrücklich kein Wertpapier, Ripple mit **OCC-Bankcharter** und **>$2,7 Mrd. Zukäufen** (Hidden Road, Rail, GTreasury). **US-Spot-ETFs live mit $1,4–1,6 Mrd. Zuflüssen** – schnellster Weg zur ersten Milliarde seit dem ETH-ETF, und im Mai 2026 zogen sie Kapital an, während BTC- und ETH-Fonds $2 Mrd. verloren. Keine Inflation, 3 Mio. Tagestransaktionen, **steuerlich der einfachste Coin des Vaults** (kein Staking).
 Aber: **10x = $673 Mrd. = 29 % des heutigen Kryptomarkts** – der höchste absolute Zielwert im Vault, noch über Hyperliquids FDV-Rechnung. Und anders als bei den anderen Tier-4-Coins ist der **Zyklus bereits gelaufen**: 7x von $0,50 auf $3,65 in 2024/25, getrieben von SEC-Ende, US-Wahl und ETFs – der Katalysator ist eingetreten und eingepreist. Dazu **Beta 1,26** (zweitschwächster Hebel), Ripple hält **>39 % der Supply**, und **$400 Tagesgebühren bei $33 Mio. TVL** ergeben ein P/S von ~337.000x. Ripples eigener Stablecoin **RLUSD** untergräbt die Brückenwährungs-These zusätzlich.
 → ***0 % in diesem Portfolio – wegen der Bewertung, nicht der Qualität.** Für ein anderes Ziel ("solides Basisinvestment mit regulatorischer Sicherheit, 2–4x") wäre XRP besser geeignet als Cardano oder Polkadot. **Falls gewünscht: als Stabilitätsbaustein außerhalb der 10x-Allokation führen**, analog zu Bitcoin im Masterplan.*
 
-**19. Hyperliquid (HYPE)** — *bestes Geschäftsmodell, schlechtester Einstiegspreis* 🆕
+**20. RWA-Sammelposten: Ondo, Maple, Plume, Polymesh, Quant, MANTRA** 🆕
+Sechs weitere RWA-Token, alle mit demselben Grundproblem in unterschiedlicher Ausprägung. Ausführlich: [[03 RWA – Token-Vergleich]]
+
+| Token | Stärke | Warum nicht ins Portfolio |
+|---|---|---|
+| **Maple** | AUM +81 %, Kredite +123 %, TVL 10x in einem Jahr, MC/FDV 99 % | **Beta 1,29**, dünnste Liquidität der Gruppe (1,3 %), P/S 13,6x, echtes Kreditrisiko → **0–4 %** |
+| **Ondo** | Marktführer, $3,43 Mrd. AUM, tokenisierte Aktien >$1 Mrd. | **Kein Fee-Sharing**, MC/FDV 48,7 %, Bewertung = 49 % des AUM → **0–5 %** |
+| **Polymesh** | MC/FDV ~100 %, 10x = nur 62 % des ATH-MC | **Kein Sekundärmarkt, kein DeFi** nach 4 Jahren Mainnet, Inflation ohne Obergrenze → **0–3 %** |
+| **Plume** | Kleinste MC im Vault, WisdomTree (14 Fonds), Securitize | **MC/FDV 20 % – schlechtester Wert im Vault**, TVL seit einem Jahr stagnierend → **0–3 %** |
+| **Quant** | GBTD mit HSBC/Barclays/Lloyds, ISO-Standardautor | **P/S ~277x**, **Beta 0,84**, 0,83 % Tagesvolumen → **0 %** |
+| **MANTRA** ⛔ | VARA-Lizenz, DAMAC $1 Mrd. | **Unaufgeklärter 92-%-Crash in einer Stunde.** Keine Fundamentaldaten → **0 %, abgeraten** |
+
+**21. Hyperliquid (HYPE)** — *bestes Geschäftsmodell, schlechtester Einstiegspreis* 🆕
 Wahrscheinlich das beste Krypto-Unternehmen der Liste: **~$785 Mio.–1,0 Mrd. Protokollumsatz p. a., davon 97 % über den Assistance Fund in automatische HYPE-Rückkäufe** (>$1,3 Mrd. bis Mai 2026). 66–73 % Anteil am Perp-DEX-Volumen, $9,57 Mrd. Open Interest, kein Venture-Funding.
 Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/FDV 33 % – der schlechteste Wert des gesamten Vaults**, ~666 Mio. HYPE (67 %) stehen noch aus, monatlich am 6. Beta **1,35**, Token-Volumen nur **0,70 % der MC**. 10x = $223 Mrd. MC / $669 Mrd. FDV.
 → *Widerspricht der Portfolio-Grundthese ("billig in der Akkumulationsphase einsammeln") direkt. **Watchlist, nicht kaufen. Preis-Alarm bei $30.***
@@ -218,6 +258,9 @@ Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/F
 | **XRP** 🆕 | 0 % | Basisinvestment außerhalb der 10x-Allokation, falls gewünscht |
 | **JasmyCoin** 🆕 | 0 % | **Alternative zu Akash (5 %)** – siehe Hinweis unten |
 | **Jito** 🆕 | 0 % | **Beobachtungsliste** – Einstieg nach Vesting-Ende 11/2026, nur als Teiltausch gegen Pump.fun |
+| **Pendle** 🆕 | 0 % | ⭐ **siehe Variante D – stärkster RWA-Kandidat** |
+| **Centrifuge** 🆕 | 0 % | ⭐ **siehe Variante D – höchstes Beta im Vault** |
+| **Maple / Ondo / Plume / Polymesh / Quant / MANTRA** 🆕 | 0 % | siehe [[03 RWA – Token-Vergleich]] |
 
 *AI-Block gesamt (Render + Fetch.ai + Akash): 27 %. Wer nur einen AI-Coin will: Render bei Fokus auf belegbare Nutzung, Fetch.ai bei Fokus auf Tokenomics und Handelbarkeit.*
 
@@ -269,6 +312,33 @@ Falls du Hedera und/oder Bittensor aufnehmen willst: **als Tausch, nicht als Erg
 **Bittensor bleibt bei 0 %,** weil der AI-Block mit Render + Fetch.ai bereits bei 22 % liegt und TAOs 11,7 % Inflation den Vorteil des besseren Designs über drei Jahre aufzehrt. **Wer TAO trotzdem will: 5 %, und dann Fetch.ai oder Render um denselben Betrag reduzieren.**
 
 *Erwartungswert unverändert bei ~3–4x auf das Gesamtportfolio – Variante C tauscht Akashs Lotterie-Hebel gegen Hederas breitere Basis.*
+
+### Variante D – Mit RWA-Allokation 🆕
+
+Die RWA-Recherche vom 10.08.2026 hat zwei Kandidaten hervorgebracht, die stark genug für eine Position sind: **Pendle** (bester Fundamentalfall) und **Centrifuge** (höchstes Beta im Vault). Auch hier gilt: **als Tausch, nicht als Ergänzung.**
+
+| Coin | Variante A | **Variante D** | Änderung |
+|---|---|---|---|
+| **Aptos** | 18 % | **17 %** | -1 |
+| **Kaspa** | 16 % | **15 %** | -1 |
+| **Chainlink** | 14 % | **8 %** | **-6** (RWA-Rolle wird von Pendle/CFG übernommen) |
+| **Render** | 11 % | **10 %** | -1 |
+| **Fetch.ai** | 11 % | **10 %** | -1 |
+| **Cardano** | 10 % | **8 %** | -2 |
+| **⭐ Pendle** 🆕 | 0 % | **9 %** | **+9** |
+| **Pump.fun** | 8 % | **8 %** | – |
+| **⭐ Centrifuge** 🆕 | 0 % | **6 %** | **+6** |
+| **Sui** | 7 % | **5 %** | -2 |
+| **Akash** | 5 % | **4 %** | -1 |
+
+*Rationale:* **Pendle** ist der einzige RWA-Token mit echtem Cashflow *und* echtem Buyback (P/S 5,6x, 80 % Revenue-Rückkauf, ~14 % Buyback-Rendite). **Centrifuge** liefert mit **Beta 2,04** den höchsten Marktbeta-Hebel des gesamten Vaults und eine Bewertungslücke von Faktor 9 gegenüber Ondo.
+Die Kürzung bei **Chainlink** ist bewusst: LINK war bisher die defensive RWA-Position. Pendle und Centrifuge decken dieselbe These mit deutlich mehr Hebel ab. LINK bleibt als Qualitätsanker drin, aber kleiner.
+
+> [!warning] Sektor-Klumpenrisiko prüfen
+> **Chainlink (8 %) + Pendle (9 %) + Centrifuge (6 %) = 23 % RWA-Exposure.** Dazu kommt indirekt **Aptos (17 %)**, das mit $1,93 Mrd. Stablecoins und $1,2 Mrd. RWA on-chain faktisch eine der stärksten RWA-Chains ist.
+> **Der RWA-Sektor ist im Kern eine Zinswette:** 80 % des tokenisierten Werts liegen in Staatsanleihen. Fallen die US-Zinsen deutlich, verliert das Leitsegment seine Attraktivität. Diese Positionierung sollte bewusst erfolgen, nicht versehentlich. Siehe [[00 RWA – Sektorüberblick]].
+
+*Erwartungswert: leicht höher als Variante A, weil Pendle das zweitbeste P/S im Vault mitbringt und Centrifuge den höchsten Beta-Hebel.*
 
 ---
 
@@ -322,6 +392,11 @@ Bei 10x-Wetten ist der häufigste Fehler nicht der Einstieg, sondern das Halten 
 | **Jito** 🆕 | **JTX-Handelsvolumen** | ohne Volumen kein Buyback – die gesamte JIP-38-These hängt daran |
 | **Jito** 🆕 | Tatsächlich verbrannte JTO-Menge (Rev Splitter) | on-chain nachvollziehbar |
 | **Jito** 🆕 | BAM-Stake-Anteil (aktuell 28,1 %) | erreicht Bruders $15-Mio.-Prognose? |
+| **Pendle** 🆕 | **Gesamtumsatz p. a.** (aktuell ~$40 Mio.) | **>$60 Mio. = These bestätigt** |
+| **Pendle** 🆕 | Boros-Handelsvolumen | entkoppelt der Umsatz sich vom TVL-Zyklus? |
+| **Centrifuge** 🆕 | **Governance-Vorschläge zu Fee-Sharing/Buyback** | der eine Trigger, der die These dreht |
+| **Centrifuge** 🆕 | TVL (aktuell ~$1,7 Mrd.) und MC/TVL vs. Ondo | schließt sich die Lücke von 0,055 zu 0,49? |
+| **RWA-Sektor** 🆕 | **US-Zinsniveau** | 80 % des Sektorwerts sind Staatsanleihen – fallende Zinsen treffen alles |
 | **JasmyCoin** 🆕 | **JasmyChain-Transaktionen & aktive Adressen** | keine öffentlichen Zahlen bis Q2 2027 = **These gescheitert** |
 | **JasmyCoin** 🆕 | Panasonic-Rollout → On-Chain-Aktivität | kommen weitere Hersteller dazu? |
 | **JasmyCoin** 🆕 | Apple-/My-Number-Story | **nur auf Bestätigung durch Apple oder die japanische Digital Agency reagieren** |
@@ -375,6 +450,11 @@ Bittensor: 11,7 % p. a. Akash: 8,94 %. Über drei Jahre sind das 39 % bzw. 29 % 
 Bei Zcash führt das offizielle ATH ($5.941,80 vom Launch-Tag 2016) zu einem scheinbaren Abstand von -90,6 % – tatsächlich sind es -24,7 %. Bei Fetch.ai dasselbe Problem durch den ASI-Merger. **Bei jedem neuen Kandidaten prüfen, ob das ATH aus einer vergleichbaren Marktphase mit vergleichbarer Supply stammt.**
 Bei XRP zeigt sich eine dritte Variante desselben Fehlers: Das Preis-ATH ($3,84, Januar 2018) klingt nach -73 % Aufholpotenzial – aber die **Market Cap** war beim Zweitpeak von Juli 2025 ($3,65) mit ~$215 Mrd. deutlich **höher** als 2018 (~$149 Mrd.), weil zwischenzeitlich 24 Mrd. XRP aus dem Escrow in Umlauf kamen. **Bei Coins mit laufender Supply-Freigabe ist der Preis-Abstand systematisch zu optimistisch. Immer die Market Cap vergleichen, nie den Preis.**
 
-**5. Bei Large Caps ist der Market-Cap-Test wichtiger als jede Chartanalyse.** *(neu, 10.08.2026)*
+**5. Wertabschöpfung ist die entscheidende Frage – nicht Adoption.** *(neu, 10.08.2026, aus der RWA-Recherche)*
+Von acht recherchierten RWA-Token haben **nur zwei einen funktionierenden Buyback-Mechanismus** (Pendle 80 %, Maple 10–30 %). Bei sechs fließt **kein Cent** der Erträge an Token-Halter – obwohl sie zusammen zweistellige Milliardenbeträge verwalten.
+**Der Präzedenzfall ist Chainlink:** sechs Jahre fundamental erfolgreich, als Investment enttäuschend – bis 2025 die Reserve kam. Genau in dieser Phase stehen heute Ondo, Centrifuge, Quant, Plume und Polymesh.
+**Regel:** Bei jedem neuen Kandidaten zuerst fragen, ob es einen Mechanismus gibt, der Protokollumsatz in Token-Nachfrage übersetzt – und wie hoch die Buyback-Rendite in Prozent der Market Cap ist. Unter 2 % ist symbolisch, über 10 % relevant. Details: [[01 RWA – Die Wertabschöpfungs-Frage]]
+
+**6. Bei Large Caps ist der Market-Cap-Test wichtiger als jede Chartanalyse.** *(neu, 10.08.2026)*
 Die XRP-Recherche hat zwei prominente Analystenziele geliefert, die den Test nicht bestehen: **$48 (Ali Martinez)** entspräche einer Market Cap von **$3,1 Bio.** – mehr als der gesamte heutige Kryptomarkt von einem einzigen Asset. **$21–27 (Egrag Crypto)** wären $1,4–1,8 Bio. bzw. 60–77 % des Gesamtmarkts. Beide stammen aus reiner Chartmuster-Extrapolation.
 **Regel:** Jedes Kursziel für einen Top-20-Coin gegen die implizierte Market Cap **und** gegen den Gesamtmarkt prüfen. Ein Ziel, das ein Asset auf über 20 % des Gesamtmarkts hebt, ist keine Prognose, sondern eine gezeichnete Linie.

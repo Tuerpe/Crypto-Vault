@@ -6,7 +6,7 @@
 
 - **01 Inbox** – Rohmaterial: Video-Zusammenfassungen, Artikel, Ideen, Links. Wird von Claude abgearbeitet und in die passenden Dateien eingepflegt.
 - **02 Coins** – Eine Datei pro Coin, angelegt erst sobald tatsächlich recherchiert wird. Struktur folgt der Vorlage in `04 Vorlagen`.
-- **03 Wissen** – Dauerhaftes Hintergrundwissen (z. B. Video-Zusammenfassungen), das noch nicht coin-spezifisch aufbereitet ist, aber als Quelle für die Coin-Dateien dient.
+- **03 Wissen** – Dauerhaftes Hintergrundwissen (z. B. Video-Zusammenfassungen), das noch nicht coin-spezifisch aufbereitet ist, aber als Quelle für die Coin-Dateien dient. Enthält seit 08/2026 den **Sektor-Wissensbereich [[00 RWA – Sektorüberblick|RWA]]**.
 - **04 Vorlagen** – Die Recherchepunkte, nach denen jeder Coin bewertet wird.
 
 Neue Kandidaten/Infos einfach in `01 Inbox` ablegen – der Rest wird von hier aus einsortiert.
@@ -35,6 +35,14 @@ Stand der Marktdaten: Juni/Juli 2026
 | **JasmyCoin (JASMY)** | Recherchiert | $203 Mio. | #159 | $0,004107 | -98,7 %¶ | ⭐⭐⭐ Lottoschein | [[JasmyCoin (JASMY)]] |
 | Pump.fun (PUMP) | Recherchiert | $791 Mio. | #83 | $0,00199 | -82,7 % | ⭐⭐⭐ hoch/riskant | [[Pump.fun (PUMP)]] |
 | **Jito (JTO)** | Recherchiert | $151–255 Mio.# | ~#175 | $0,504 | -90,5 % | ⭐⭐⭐⭐ hoch* | [[Jito (JTO)]] |
+| **Pendle (PENDLE)** 🆕 | Recherchiert | $226 Mio. | #149 | $1,379 | -81,7 % | ⭐⭐⭐⭐ hoch | [[Pendle (PENDLE)]] |
+| **Centrifuge (CFG)** 🆕 | Recherchiert | $94 Mio. | #250 | $0,1629 | -93,1 % | ⭐⭐⭐⭐ hoch | [[Centrifuge (CFG)]] |
+| **Maple (SYRUP)** 🆕 | Recherchiert | $181 Mio. | #166 | $0,1514 | -76,9 % | ⭐⭐⭐ mittel | [[Maple Finance (SYRUP)]] |
+| **Ondo (ONDO)** 🆕 | Recherchiert | $1,68 Mrd. | #47 | $0,344 | -83,9 % | ⭐⭐ niedrig-mittel | [[Ondo (ONDO)]] |
+| **Plume (PLUME)** 🆕 | Recherchiert | $22 Mio. | #580 | $0,01113 | -95,5 % | ⭐⭐ Lottoschein | [[Plume (PLUME)]] |
+| **Polymesh (POLYX)** 🆕 | Recherchiert | $42 Mio. | #406 | $0,03693 | -95,1 % | ⭐⭐ mittel | [[Polymesh (POLYX)]] |
+| **Quant (QNT)** 🆕 | Recherchiert | $831 Mio. | #79 | $68,87 | -83,8 % | ⭐ sehr niedrig | [[Quant (QNT)]] |
+| **MANTRA** 🆕 | Recherchiert | $25 Mio. | #519 | $0,00522 | -76,1 %‖ | ⛔ abgeraten | [[MANTRA (MANTRA)]] |
 | **Bittensor (TAO)** | Recherchiert | $2,04 Mrd.† | #45 | $213,06 | -72,3 % | ⭐⭐⭐ hoch/riskant | [[Bittensor (TAO)]] |
 | Sui (SUI) | Recherchiert | $3,02 Mrd. | #38 | $0,750 | -86,0 % | ⭐⭐ mittel | [[Sui (SUI)]] |
 | Chainlink (LINK) | Recherchiert | $5,05 Mrd. | #24 | $8,05 | -84,8 % | ⭐⭐ mittel | [[Chainlink (LINK)]] |
@@ -59,6 +67,8 @@ Stand der Marktdaten: Juni/Juli 2026
 
 \# Die JTO-Market-Cap ist unsicher: Coinpaprika impliziert ~299 Mio. Circulating ($150,6 Mio. MC), die Vesting-Tracker ~507 Mio. ($255 Mio. MC) – **70 % Abweichung.** Vor einem Kauf auf DefiLlama verifizieren.
 Die 10x-Bewertung gilt **fundamental** (echte Umsätze, Marktführerschaft) – **portfoliotechnisch ist JTO wegen des Solana-Klumpenrisikos problematisch.** Siehe Kurzeinordnung.
+
+‖ Bezogen auf den neuen MANTRA-Token nach der 1:4-Redenominierung (März 2026). Das Pre-Crash-Hoch lag bei ~$8,99 (OM, Feb. 2025) – **am 13.04.2025 fiel der Kurs in einer Stunde um 92 %.** Der Vorfall ist bis heute unaufgeklärt.
 
 ### Neu recherchiert am 28.07.2026 – Kurzeinordnung
 
@@ -116,6 +126,27 @@ Die fünf Neuzugänge fallen in eine gemeinsame Kategorie: **es sind überwiegen
 | **Dagegen** | **⚠️ Drittes Solana-Investment.** Mit Pump.fun (8 %) und Render (11 %) hältst du bereits 19 % in Solana-abhängigen Positionen – und Jitos Tips stammen aus **demselben Handelsvolumen**, das Pump.fun erzeugt. Das ist keine Diversifikation. Der Buyback hängt **allein an JTX**, einer Plattform, die seit dem 14.07.2026 existiert und noch keine Volumenzahlen hat. Die bestehenden $9,3 Mio. Umsätze fließen **nicht** an Token-Halter. **Datenlage widersprüchlich** (Circulating Supply ±70 %, Vesting-Ende unklar) |
 | **Konkurriert mit** | **Pump.fun** – beide sind Wetten auf Solana-Aktivität. Pump.fun = Memecoin-Spekulation (zyklisch, fragil, **P/S 2,6x**), Jito = Solana-Infrastruktur (robuster, breiter, teurer) |
 | **Empfehlung** | **5–7 %, aber nur als Teiltausch gegen Pump.fun – nicht zusätzlich.** Meine Tendenz: **Pump.fun behalten** (bessere 10x-Asymmetrie), **JTO auf die Beobachtungsliste** mit Einstieg nach dem Vesting-Ende im November 2026, sobald JTX-Volumenzahlen vorliegen |
+
+### Neu recherchiert am 10.08.2026 – RWA-Sektor (8 Token)
+
+➡️ **Vollständiger Wissensbereich: [[00 RWA – Sektorüberblick]]** · [[01 RWA – Die Wertabschöpfungs-Frage]] · [[02 RWA – Emittenten und Plattformen]] · [[03 RWA – Token-Vergleich]]
+
+**Der Sektor wächst um +263 % im Jahr – und die meisten seiner Token partizipieren daran nicht.**
+Von acht recherchierten RWA-Token haben **nur zwei einen funktionierenden Buyback-Mechanismus.** Bei fünf gibt es nicht einmal veröffentlichte Umsatzzahlen.
+
+| Coin | Warum interessant | Warum es (nicht) passt |
+|---|---|---|
+| **Pendle** ⭐ | **P/S 5,6x**, **80 % des Umsatzes in Rückkäufe (~14 % Rendite p. a.)**, ~2 % Inflation, 50–60 % Marktanteil im DeFi-Zinshandel | Dünne Liquidität (2,9 % der MC), zyklisches Kerngeschäft, ATH früh im letzten Zyklus |
+| **Centrifuge** ⭐ | **Beta 2,04 – höchster Wert im ganzen Vault.** MC/TVL **0,055** gegen Ondos 0,49. deSPXA = erster lizenzierter tokenisierter S&P 500. Coinbase-Investment | Kein Fee-Sharing, keine Supply-Obergrenze, unklare Inflation, zwei Zyklen Underperformance |
+| **Maple** | Schnellstes Wachstum des Sektors: **AUM +81 %, Kredite +123 %, TVL 10x in einem Jahr.** MC/FDV **99 %** | **Beta 1,29**, dünnste Liquidität der Gruppe (1,3 %), P/S 13,6x, echtes Kreditrisiko |
+| **Ondo** | Marktführer: **$3,43 Mrd. AUM**, tokenisierte Aktien >$1 Mrd., Mirae + SBI, beste Liquidität | **Kein Fee-Sharing**, **MC/FDV 48,7 %**, Bewertung = 49 % des AUM, AUM seit Mai rückläufig |
+| **Plume** | Kleinste MC im Vault ($22 Mio.), **WisdomTree (14 Fonds)** und **Securitize** als echte Partner, ADGM-Lizenz | **MC/FDV 20 % – schlechtester Wert im Vault.** TVL seit einem Jahr stagnierend |
+| **Polymesh** | **MC/FDV ~100 %**, 10x = nur 62 % des alten ATH-MC, technisch beste Compliance-Umsetzung | **Kein Sekundärmarkt, kein DeFi, kleines Ökosystem** nach 4 Jahren Mainnet. Inflation ohne Obergrenze |
+| **Quant** | Beste institutionelle Position: **GBTD mit HSBC, Barclays, Lloyds**, ISO-Standardautor, BoE/BIS | **P/S ~277x** bei $3 Mio. Umsatz. **Beta 0,84** (zweitniedrigster im Vault). 0,83 % Tagesvolumen |
+| **MANTRA** ⛔ | VARA-Lizenz, DAMAC $1 Mrd. | **Unaufgeklärter 92-%-Crash in einer Stunde** (13.04.2025). Keine Fundamentaldaten. Beta 1,16 |
+
+**Portfolio-Konsequenz:** **Pendle 8 % + Centrifuge 6 %** als RWA-Allokation. Alles andere 0–4 %.
+⚠️ Zusammen mit [[Chainlink (LINK)]] (14 %) ergäbe das **~28 % Sektorexposure** – vertretbar, aber bewusst zu entscheiden, weil der Sektor im Kern eine **Zinswette** ist (80 % des Werts liegen in Staatsanleihen).
 
 ## Marktkontext (Stand Juli 2026)
 

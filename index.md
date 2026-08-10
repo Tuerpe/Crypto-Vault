@@ -10,5 +10,6 @@ Recherche-Vault für den nächsten Crypto-Bullrun.
 - [[00 Vergleich & Portfolio|Vergleich & Portfolio-Vorschlag]] – Ranking und Gewichtungsvorschlag
 - [[02 Coins|Coin-Recherchen]] – detaillierte Analyse pro Coin
 - [[00 Airdrop-Farming – Kandidaten|Airdrop-Farming]] – Hebel 3 aus dem Masterplan, konkretisiert
+- [[00 RWA – Sektorüberblick|RWA-Wissensbereich]] – Real World Assets: Markt, Segmente, Wertabschöpfung, Token-Vergleich
 
 Dieser Vault wird laufend aktualisiert.
