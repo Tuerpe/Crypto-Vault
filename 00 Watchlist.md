@@ -42,6 +42,7 @@ Stand der Marktdaten: Juni/Juli 2026
 | Canton (CC) | Recherchiert | $5,26 Mrd. | #24 | $0,151 | -22,6 % | ⭐ niedrig | [[Canton Network (CC)]] |
 | **Zcash (ZEC)** | Recherchiert | $9,14 Mrd. | #13 | $559,98 | -24,7 %‡ | ⭐ niedrig | [[Zcash (ZEC)]] |
 | **Solana (SOL)** | Recherchiert | $44,34 Mrd. | #7 | $76,11 | -74,1 % | ⭐ niedrig | [[Solana (SOL)]] |
+| **XRP** | Recherchiert | $64,81 Mrd. | #6 | $1,036 | -73,0 % | ⭐ sehr niedrig | [[XRP (XRP)]] |
 | **Hyperliquid (HYPE)** | Recherchiert | $22,35 Mrd. | #9 | $66,93 | -12,9 % | ⭐ niedrig | [[Hyperliquid (HYPE)]] |
 
 \* Das FET-ATH stammt aus der Zeit **vor** dem ASI-Merger, als die Supply nur ein Drittel betrug. Die relevante Referenz ist der Post-Merger-Peak (~$1,65) → tatsächlicher Abstand ~-83 %.
@@ -76,6 +77,16 @@ Die fünf Neuzugänge fallen in eine gemeinsame Kategorie: **es sind überwiegen
 | **Dagegen** | **$250.000 Netzwerkumsatz gegen >$80 Mio. Ausgaben** (Verhältnis 1:320, P/S ~2.800x). Ökosystem-Erosion mit öffentlichen Belegen: Polkassembly eingestellt, Hyperbridge exploitet, Ex-Insider-Vorwürfe (The Defiant, Mai 2026). **Kein Narrativ.** JAM hängt seit zwei Jahren im Testnet. Beta nur **1,49**. Zwei Zyklen massive Underperformance |
 | **Konkurriert mit** | **Cardano** – gleiche Kategorie (alter Large Cap, gutes Engineering, schwache On-Chain-Ökonomie). DOT hat die bessere 10x-Mathematik, **ADA den besseren TVL, 4x mehr Liquidität und den weiter fortgeschrittenen ETF** |
 | **Empfehlung** | **3–5 % oder auslassen.** Abbruchbedingung: JAM nicht auf Mainnet bis Q2 2027 **oder** Coretime-Einnahmen decken bis Ende 2026 nicht die Treasury-Ausgaben |
+
+### Neu recherchiert am 10.08.2026 – XRP
+
+**Regulatorisch der sauberste Coin des Vaults – und der mit dem höchsten absoluten 10x-Zielwert.**
+
+| | |
+|---|---|
+| **Dafür** | SEC-Verfahren im **August 2025 endgültig beendet**, XRP im Börsenhandel ausdrücklich **kein Wertpapier**. Ripple mit **OCC-Bankcharter** (Dez. 2025) und **>$2,7 Mrd. Zukäufen** (Hidden Road, Rail, GTreasury). US-Spot-ETFs live mit **$1,4–1,6 Mrd. Zuflüssen** – zogen Kapital an, während BTC- und ETH-Fonds $2 Mrd. verloren. Keine Inflation. **Steuerlich der einfachste Coin des Vaults** (kein Staking → keine Nebeneinkünfte, eine saubere Haltefrist). Über Trade Republic wahrscheinlich direkt kaufbar |
+| **Dagegen** | **10x = $673 Mrd. = 29 % des heutigen Kryptomarkts** – höchster absoluter Zielwert im Vault. **Der Zyklus ist bereits gelaufen:** 7x in 2024/25 auf $3,65, Katalysator eingetreten und eingepreist. **Beta 1,26** (zweitschwächster Hebel). Ripple hält **>39 % der Supply**, Escrow läuft noch ein Jahrzehnt. **$400 Tagesgebühren, $33 Mio. TVL** bei $64,8 Mrd. MC. RLUSD untergräbt die eigene Brückenwährungs-These |
+| **Empfehlung** | **0 % in diesem Portfolio** – aber ausdrücklich wegen der Bewertung, nicht der Qualität. Als **Basisinvestment außerhalb der 10x-Allokation** (Erwartung 2–4x) durchaus sinnvoll, ähnlich wie Bitcoin im Masterplan |
 
 ## Marktkontext (Stand Juli 2026)
 

@@ -29,6 +29,7 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 | **Solana** | $76,11 | $44,34 Mrd. | #7 | **~99 %** | -74,1 % | 1,57 | 1,86 % | ~3,7–4 % |
 | **Hyperliquid** | $66,93 | $22,35 Mrd. | #9 | **33 %** ❌ | **-12,9 %** ❌ | **1,35** ❌ | **0,70 %** ❌ | keine Emission |
 | **Polkadot** | $0,805 | $1,38 Mrd. | ~#55§ | **~81 %** | **-98,5 %** ⭐ | 1,49 | 2,7 % | **~3 %** (vorher 7–10 %) |
+| **XRP** | $1,036 | **$64,81 Mrd.** | **#6** | ~62,5 % | -73,0 % | **1,26** ❌ | **0,90 %** ❌ | **0 %** |
 
 \* Das FET-ATH ($3,47, März 2024) stammt aus der Zeit **vor** dem ASI-Merger, der die Supply verdreifacht hat. Relevante Referenz ist der Post-Merger-Peak (~$1,65, Dez. 2024) → tatsächlicher Abstand ~-83 %.
 
@@ -62,6 +63,7 @@ Das ist die wichtigste Tabelle. **Ein 10x bei einem $5-Mrd.-Coin ist ein völlig
 | **Zcash** | $9,14 Mrd. | **$91 Mrd.** | ~$12,1 Mrd. (Nov. 2025) | ❌ **7,6x über dem Peak** |
 | **Canton** | $5,26 Mrd. | **$53 Mrd.** | $6,8 Mrd. (2026) | ❌ **7,8x über dem Peak** |
 | **Hyperliquid** | $22,35 Mrd. | **$223 Mrd.** (FDV $669 Mrd.) | ~$25 Mrd. (Juni 2026) | ❌ **~9x über dem Peak** |
+| **XRP** | $64,81 Mrd. | **$673 Mrd.** ← höchster Wert im Vault | ~$215 Mrd. (Juli 2025) | ❌ **3,1x über dem Peak = 29 % des heutigen Gesamtmarkts** |
 
 **Ergebnis:** Nur bei **Polkadot, Akash, Aptos und Cardano** liegt ein 10x auf oder unter einem Bewertungsniveau, das der Markt schon einmal bezahlt hat. Alles andere braucht ein neues Allzeithoch.
 
@@ -158,7 +160,12 @@ Die stärksten belegbaren Kennzahlen des gesamten Vaults: **$257 Mio. App-Umsatz
 Aber: **10x = $443 Mrd.** = 3,1x über dem Januar-2025-Peak. Keine einzige seriöse Prognose sieht SOL 2027 über ~$500. Dazu zwei versteckte Probleme: **Pump.fun stellte 36 % des Q1-2026-App-Umsatzes** (du hältst PUMP bereits – das ist eine Doppelposition), und die **DAT-Treasuries** (Forward Industries: $283 Mio. Verlust in Q1) sind ein neuer prozyklischer Verkäufer.
 → *Die Rolle "Qualitätsanker" ist mit Chainlink besetzt. 0 %, oder max. 5–8 % anstelle eines Teils von LINK.*
 
-**16. Hyperliquid (HYPE)** — *bestes Geschäftsmodell, schlechtester Einstiegspreis* 🆕
+**16. XRP** — *sauberster Regulierungsstatus, unmöglichste Arithmetik* 🆕
+Regulatorisch die beste Position im gesamten Vault: **SEC-Verfahren im August 2025 endgültig beendet**, XRP im Börsenhandel ausdrücklich kein Wertpapier, Ripple mit **OCC-Bankcharter** und **>$2,7 Mrd. Zukäufen** (Hidden Road, Rail, GTreasury). **US-Spot-ETFs live mit $1,4–1,6 Mrd. Zuflüssen** – schnellster Weg zur ersten Milliarde seit dem ETH-ETF, und im Mai 2026 zogen sie Kapital an, während BTC- und ETH-Fonds $2 Mrd. verloren. Keine Inflation, 3 Mio. Tagestransaktionen, **steuerlich der einfachste Coin des Vaults** (kein Staking).
+Aber: **10x = $673 Mrd. = 29 % des heutigen Kryptomarkts** – der höchste absolute Zielwert im Vault, noch über Hyperliquids FDV-Rechnung. Und anders als bei den anderen Tier-4-Coins ist der **Zyklus bereits gelaufen**: 7x von $0,50 auf $3,65 in 2024/25, getrieben von SEC-Ende, US-Wahl und ETFs – der Katalysator ist eingetreten und eingepreist. Dazu **Beta 1,26** (zweitschwächster Hebel), Ripple hält **>39 % der Supply**, und **$400 Tagesgebühren bei $33 Mio. TVL** ergeben ein P/S von ~337.000x. Ripples eigener Stablecoin **RLUSD** untergräbt die Brückenwährungs-These zusätzlich.
+→ ***0 % in diesem Portfolio – wegen der Bewertung, nicht der Qualität.** Für ein anderes Ziel ("solides Basisinvestment mit regulatorischer Sicherheit, 2–4x") wäre XRP besser geeignet als Cardano oder Polkadot. **Falls gewünscht: als Stabilitätsbaustein außerhalb der 10x-Allokation führen**, analog zu Bitcoin im Masterplan.*
+
+**17. Hyperliquid (HYPE)** — *bestes Geschäftsmodell, schlechtester Einstiegspreis* 🆕
 Wahrscheinlich das beste Krypto-Unternehmen der Liste: **~$785 Mio.–1,0 Mrd. Protokollumsatz p. a., davon 97 % über den Assistance Fund in automatische HYPE-Rückkäufe** (>$1,3 Mrd. bis Mai 2026). 66–73 % Anteil am Perp-DEX-Volumen, $9,57 Mrd. Open Interest, kein Venture-Funding.
 Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/FDV 33 % – der schlechteste Wert des gesamten Vaults**, ~666 Mio. HYPE (67 %) stehen noch aus, monatlich am 6. Beta **1,35**, Token-Volumen nur **0,70 % der MC**. 10x = $223 Mrd. MC / $669 Mrd. FDV.
 → *Widerspricht der Portfolio-Grundthese ("billig in der Akkumulationsphase einsammeln") direkt. **Watchlist, nicht kaufen. Preis-Alarm bei $30.***
@@ -189,6 +196,7 @@ Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/F
 | **Solana** 🆕 | 0 % | Rolle mit Chainlink besetzt |
 | **Hyperliquid** 🆕 | 0 % | Watchlist, Preis-Alarm $30 |
 | **Polkadot** 🆕 | 0 % | Alternative zu Cardano, nicht zusätzlich |
+| **XRP** 🆕 | 0 % | Basisinvestment außerhalb der 10x-Allokation, falls gewünscht |
 
 *AI-Block gesamt (Render + Fetch.ai + Akash): 27 %. Wer nur einen AI-Coin will: Render bei Fokus auf belegbare Nutzung, Fetch.ai bei Fokus auf Tokenomics und Handelbarkeit.*
 
@@ -284,6 +292,8 @@ Bei 10x-Wetten ist der häufigste Fehler nicht der Einstieg, sondern das Halten 
 | **Polkadot** 🆕 | **Coretime-Einnahmen pro Quartal** | decken sie die Treasury-Ausgaben? Einzige Kennzahl, die zählt |
 | **Polkadot** 🆕 | JAM-Mainnet (nicht Testnet) | **nicht live bis Q2 2027 = These gescheitert** |
 | **Polkadot** 🆕 | Treasury-Nettofluss & Runway | schrumpft weiter? |
+| **XRP** 🆕 | Kumulierte ETF-Zuflüsse | aktuell $1,4–1,6 Mrd. → **>$5 Mrd. = These bestätigt** |
+| **XRP** 🆕 | Benanntes ODL-Volumen bei Großbanken | echte Durchsätze oder nur Pilotprojekte? |
 
 ### Preis-Alarme setzen
 
@@ -330,3 +340,8 @@ Bittensor: 11,7 % p. a. Akash: 8,94 %. Über drei Jahre sind das 39 % bzw. 29 % 
 
 **4. Der ATH-Abstand ist nur so gut wie das ATH.**
 Bei Zcash führt das offizielle ATH ($5.941,80 vom Launch-Tag 2016) zu einem scheinbaren Abstand von -90,6 % – tatsächlich sind es -24,7 %. Bei Fetch.ai dasselbe Problem durch den ASI-Merger. **Bei jedem neuen Kandidaten prüfen, ob das ATH aus einer vergleichbaren Marktphase mit vergleichbarer Supply stammt.**
+Bei XRP zeigt sich eine dritte Variante desselben Fehlers: Das Preis-ATH ($3,84, Januar 2018) klingt nach -73 % Aufholpotenzial – aber die **Market Cap** war beim Zweitpeak von Juli 2025 ($3,65) mit ~$215 Mrd. deutlich **höher** als 2018 (~$149 Mrd.), weil zwischenzeitlich 24 Mrd. XRP aus dem Escrow in Umlauf kamen. **Bei Coins mit laufender Supply-Freigabe ist der Preis-Abstand systematisch zu optimistisch. Immer die Market Cap vergleichen, nie den Preis.**
+
+**5. Bei Large Caps ist der Market-Cap-Test wichtiger als jede Chartanalyse.** *(neu, 10.08.2026)*
+Die XRP-Recherche hat zwei prominente Analystenziele geliefert, die den Test nicht bestehen: **$48 (Ali Martinez)** entspräche einer Market Cap von **$3,1 Bio.** – mehr als der gesamte heutige Kryptomarkt von einem einzigen Asset. **$21–27 (Egrag Crypto)** wären $1,4–1,8 Bio. bzw. 60–77 % des Gesamtmarkts. Beide stammen aus reiner Chartmuster-Extrapolation.
+**Regel:** Jedes Kursziel für einen Top-20-Coin gegen die implizierte Market Cap **und** gegen den Gesamtmarkt prüfen. Ein Ziel, das ein Asset auf über 20 % des Gesamtmarkts hebt, ist keine Prognose, sondern eine gezeichnete Linie.
