@@ -40,6 +40,22 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 | **Polymesh** 🆕 | $0,0369 | $42,3 Mio. | #406 | **~100 %** ⭐ | -95,1 % | 1,37 | 9,7 % | inflationär ⚠️ |
 | **MANTRA** 🆕 | $0,00522 | $24,9 Mio. | #519 | 48 % | -76,1 %‖ | **1,16** ❌ | 6,9 % | Unlocks |
 | **Plume** 🆕 | $0,01113 | **$22,3 Mio.** | #580 | **~20 %** ❌❌ | -95,5 % | 1,50 | **18,3 %** ⭐ | Unlocks |
+| **Grass** 🆕 | $0,2990 | $195,7 Mio. | #158 | 65,5 % | -92,3 % | **1,74** ⭐ | 4,8 % | – |
+| **Aethir** 🆕 | $0,004113 | $82,8 Mio. | #261 | 48 % ⚠️ | -94,0 % | 1,57 | 6,7 % | keine |
+| **Arweave** 🆕 | $1,798 | $118,0 Mio. | #219 | **99,5 %** ⭐⭐ | -98,2 % | 1,47 | 3,5 % | **~0 %** ⭐ |
+| **Filecoin** 🆕 | $0,700 | $573,1 Mio. | #92 | 42 % ⚠️ | **-99,7 %** | 1,53 | 4,7 % | bis 2036 ⚠️ |
+| **Helium** 🆕 | $0,1862 | $33,0 Mio. | #450 | 79,6 % | -99,66 % | **1,15** ❌ | 3,0 % | Burn-Modell |
+| **Celestia** 🆕 | $0,32323 | $201,7 Mio. | #156 | 57 % ⚠️ | -98,45 % | **1,78** ⭐ | **8,4 %** ⭐ | ~8 %, keine Obergrenze |
+| **The Graph** 🆕 | $0,014666 | $140,0 Mio. | #194 | **88,5 %** ⭐ | **-99,45 %** | **1,33** ❌ | 3,3 % | ~3 % |
+| **Pyth** 🆕 | $0,030858 | $111,9 Mio. | #227 | 36 % ❌ | -97,3 % | **1,69** ⭐ | 5,4 % | – |
+| **Arbitrum** 🆕 | $0,079571 | $526,3 Mio. | #98 | 66 % | -96,7 % | 1,64 | 5,4 % | – |
+| **Optimism** 🆕 | $0,09087 | $207,8 Mio. | #155 | 53 % ⚠️ | -98,1 % | **1,69** ⭐ | **7,4 %** ⭐ | Förderausschüttungen |
+| **Livepeer** 🆕 | $1,2565 | $62,4 Mio. | #310 | ⚠️ inkonsistent | -98,7 % | 1,37 | 3,9 % | inflationär |
+| **io.net** 🆕 | $0,1234 | $46,7 Mio. | #361 | 47 % ⚠️ | -98,1 %†† | 1,59 | **12,5 %** ⭐ | keine |
+| **Peaq** 🆕 | $0,02103 | $46,0 Mio. | #392 | ~51 % ⚠️ | -95,1 %†† | **1,73** ⭐ | 2,9 % | keine Obergrenze |
+| **EigenLayer** 🆕 | $0,175047 | $42,8 Mio. | #375 | **14 %** ❌❌ | -96,9 % | **1,92** ⭐⭐ | **9,7 %** ⭐ | keine Obergrenze |
+| **Walrus** 🆕 | $0,029097 | $36,4 Mio. | #430 | **25 %** ❌ | -96,2 % | **1,72** ⭐ | 6,8 % | – |
+| **Hivemapper** 🆕 | $0,0016258 | **$9,49 Mio.** | #854 | 58,4 % | -99,33 % | **1,05** ❌❌ | **0,8 %** ❌❌ | – |
 
 \* Das FET-ATH ($3,47, März 2024) stammt aus der Zeit **vor** dem ASI-Merger, der die Supply verdreifacht hat. Relevante Referenz ist der Post-Merger-Peak (~$1,65, Dez. 2024) → tatsächlicher Abstand ~-83 %.
 
@@ -55,6 +71,8 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 
 ⁑ CFG-Daten bei Coinpaprika inkonsistent (implizierte Circulating > Total Supply). Keine harte Supply-Obergrenze, Inflationsrate nicht belegbar.
 
+†† ATH am **Launch-Tag** erreicht (io.net 12.06.2024, Peaq 19.01.2025) – als Bewertungsreferenz unbrauchbar.
+
 ‖ MANTRA-ATH bezogen auf den neuen Token nach 1:4-Redenominierung (März 2026). Pre-Crash-Hoch ~$8,99 (OM, Feb. 2025) – **am 13.04.2025 -92 % in einer Stunde, bis heute unaufgeklärt.**
 
 ---
@@ -68,7 +86,11 @@ Das ist die wichtigste Tabelle. **Ein 10x bei einem $5-Mrd.-Coin ist ein völlig
 | **Polkadot** | $1,38 Mrd. | **$14,1 Mrd.** | **~$54 Mrd. (Nov. 2021)** | ⭐ **nur 26 % des alten Peaks – Bestwert** |
 | **JasmyCoin** | $202,9 Mio. | **$2,03 Mrd.** | **>$2 Mrd. (Dez. 2024)** | ✅ **auf Höhe des letzten Zyklus-Peaks** |
 | **Jito** | $151–255 Mio. | **$5,0 Mrd.** (bei voller Vestung) | MC ~$608 Mio. / **FDV ~$5,3 Mrd.** (Apr. 2024) | ✅ **~95 % der damaligen FDV** – aber 8,3x über der damaligen MC ⚠️ |
+| **Helium** 🆕 | $33,0 Mio. | **$330 Mio.** | ~$5,5 Mrd. (2021) | ⭐ **nur ~6 % des Peaks – Bestwert des Vaults** |
+| **Arweave** 🆕 | $118,0 Mio. | **$1,18 Mrd.** | ~$3,2 Mrd. (2021) | ✅ **~37 % des Peaks** |
+| **The Graph** 🆕 | $140,0 Mio. | **$1,40 Mrd.** | ~$3,3 Mrd. (2021) | ✅ **~42 % des Peaks** |
 | **Polymesh** 🆕 | $42,3 Mio. | **$423 Mio.** | ~$680 Mio. (2024) | ✅ **nur 62 % des alten Peaks** |
+| **Celestia** 🆕 | $201,7 Mio. | $2,42 Mrd. | ~$3,1 Mrd. (2024) | ✅ ~78 % des Peaks |
 | **Centrifuge** 🆕 | $94,0 Mio. | **$940 Mio.** | ~$1,0 Mrd. (2021) | ✅ **~auf Peak-Niveau** |
 | **Akash** | $177 Mio. | **$1,8 Mrd.** | ~$1,3–1,9 Mrd. (2024) | ✅ **auf Höhe des alten Peaks** |
 | **Aptos** | $520 Mio. | **$6,3 Mrd.** | ~$7 Mrd. (Dez. 2024) | ✅ **unter dem alten Peak** |
@@ -91,7 +113,10 @@ Das ist die wichtigste Tabelle. **Ein 10x bei einem $5-Mrd.-Coin ist ein völlig
 | **Hyperliquid** | $22,35 Mrd. | **$223 Mrd.** (FDV $669 Mrd.) | ~$25 Mrd. (Juni 2026) | ❌ **~9x über dem Peak** |
 | **XRP** | $64,81 Mrd. | **$673 Mrd.** ← höchster Wert im Vault | ~$215 Mrd. (Juli 2025) | ❌ **3,1x über dem Peak = 29 % des heutigen Gesamtmarkts** |
 
-**Ergebnis:** Nur bei **Polkadot, JasmyCoin, Polymesh, Centrifuge, Akash, Aptos und Cardano** liegt ein 10x auf oder unter einem Bewertungsniveau, das der Markt schon einmal bezahlt hat. Alles andere braucht ein neues Allzeithoch.
+**Ergebnis:** Nur bei **Helium, Polkadot, Arweave, The Graph, JasmyCoin, Polymesh, Celestia, Centrifuge, Akash, Aptos und Cardano** liegt ein 10x auf oder unter einem Bewertungsniveau, das der Markt schon einmal bezahlt hat. Alles andere braucht ein neues Allzeithoch.
+
+**Helium führt die Tabelle jetzt an:** 10x = $330 Mio. gegen ein altes ATH-Niveau von ~$5,5 Mrd. – nur **~6 %.** Das ist der günstigste Wert im gesamten Vault. **Aber Beta 1,15** macht daraus keine gute Wette: Ein Coin, der sich kaum mit dem Markt bewegt, erreicht auch ein niedrig gelegenes Ziel nicht.
+**Das ist die Lehre aus dieser Tabelle: Günstige 10x-Mathematik ohne Beta ist wertlos.**
 **Jito ist ein Sonderfall:** Wegen des winzigen Anfangs-Floats von 2024 führen MC- und FDV-Vergleich zu gegensätzlichen Ergebnissen. Gemessen an der damaligen FDV (~$5,3 Mrd.) liegt ein 10x knapp darunter; gemessen an der damaligen MC (~$608 Mio.) weit darüber. Bei Coins mit sehr niedrigem Startfloat ist die **FDV die ehrlichere Referenz** – die niedrige MC war ein Artefakt künstlicher Verknappung.
 
 **Polkadot setzt sich mit Abstand an die Spitze dieser Tabelle:** 10x = $14,1 Mrd. gegen ein altes ATH-Niveau von ~$54 Mrd. – nur **26 %**. Kein anderer Coin im Vault braucht so wenig relativ zu dem, was der Markt ihm schon einmal zugestanden hat. **Diese Tabelle allein ist aber kein Kaufargument** – bei DOT stehen dem $250.000 Netzwerkumsatz gegen >$80 Mio. Ausgaben gegenüber. Siehe Tier-3-Einordnung.
@@ -126,6 +151,12 @@ Nach Pump.fun das **zweitgünstigste Umsatzvielfache im gesamten Vault: P/S 5,6x
 Aber: **dünne Liquidität** ($6,47 Mio./Tag = 2,9 % der MC), zyklisches Kerngeschäft (hängt am DeFi-Renditeniveau), **ATH im April 2024 – früh im Zyklus**, Boros noch unbewiesen.
 → ***Der klar stärkste RWA-Kandidat.** 8–10 % als RWA-Kernposition **anstelle von Ondo.** Wichtigster Tracker: Gesamtumsatz über $60 Mio.*
 
+**4b. Grass (GRASS)** — *bester belegter Fall des DePIN-Sektors* 🆕
+Umsatz **$17 Mio. (2025) → $18 Mio. allein im H1 2026** – das ist **~7x gegenüber H1 2025**. Projektion FY 2026: **$65–75 Mio.** Daraus ein **P/S von ~2,7x** – nach Pump.fun (2,6x), Aethir (0,5x) und Pendle (5,6x) einer der günstigsten Werte im Vault. Dazu **Beta 1,74** (oberes Drittel), MC/FDV 65,5 %, harte Obergrenze und **8,5 Mio. Nutzer** – die größte DePIN-Nutzerbasis im Vault.
+**Der strategische Punkt: Grass ist kein GPU-Projekt.** Es sitzt auf der Daten-Ebene der AI-Kette, nicht auf der Compute-Ebene. Im Portfolio, das bereits Render und Fetch.ai enthält, ist das echte Diversifikation statt Häufung.
+Aber: **Rechtsrisiko beim Web-Scraping** – das Geschäftsmodell beruht darauf, das offene Web über Privatanschlüsse abzurufen, und mehrere Rechtsstreitigkeiten zu AI-Trainingsdaten laufen. Kundenkonzentration unbekannt. **Der Ausgang der Revenue-Capture-Abstimmung vom 07.07.2026 ist ungeklärt** – bei 50 % Buyback läge die Rendite bei 17,9 % der MC, dem höchsten Wert im Vault.
+→ ***Bester DePIN-Kandidat. 5–7 %, als Ersatz für Akash.***
+
 **5. Fetch.ai (FET)** — *beste Liquidität, ungelöstes Rechtsrisiko*
 Tokenomics auf Kaspa-Niveau (harte Obergrenze, MC/FDV 83–96 %, **kein Unlock-Kalender**) und die mit Abstand **beste Liquidität der Liste: 34 % der Market Cap pro Tag**. Echte Enterprise-Verbindungen – **Deutsche Telekom betreibt über T-Systems MMS Validatoren**, dazu Bosch, BMW, Festo und seit Januar 2026 Google Cloud/Gemini. Agent-Transaktionen +340 % YoY, 2,7 Mio. registrierte Agenten. ASI:Chain-Mainnet Ende 2026/Anfang 2027 – genau im Zyklusfenster.
 Aber: **keine veröffentlichten Netzwerkumsätze** (anders als bei Pump.fun oder Chainlink lässt sich nichts berechnen), und der **Rechtsstreit mit Ocean Protocol** (Sammelklage in New York, 286 Mio. FET strittig, 270 Mio. unkonvertierte OCEAN) belastet Reputation und Supply.
@@ -145,6 +176,17 @@ Aber: **JTO wäre die dritte gehebelte Wette auf Solana-Aktivität.** Mit Pump.f
 **10x = nur $2,03 Mrd. – exakt das Niveau vom Dezember 2024**, kein neuer Rekord nötig. Dazu die zweitsauberste Angebotsseite im Vault: **MC/FDV 98,8 %, null Inflation, Vesting seit Oktober 2023 vollständig durch, kein Minting-Mechanismus.** Zweitkleinste Market Cap ($203 Mio.) → hoher mechanischer Hebel. Seit **19.01.2026 Gas-Token der eigenen L2 (JasmyChain, Arbitrum Orbit)**, und **Panasonic liefert seine 2026er-IoT-Geräte mit vorinstallierten Data Lockers aus** – der erste echte kommerzielle Datenpunkt nach Jahren in Demo-Phasen. Ex-Sony-Führung (Kunitake Ando, früher President und COO von Sony). **Bewiesene 9x-Fähigkeit** (2024: $0,0065 → $0,059).
 Aber: **JasmyChain hat kein Entwickler-Ökosystem, keinen nennenswerten TVL und minimale Transaktionshistorie** – und konkurriert gegen Arbitrum, Optimism und Base. Es existieren **keinerlei bewertbare Fundamentaldaten** (kein Umsatz, keine Nutzerzahlen, keine On-Chain-Metriken). **Vier Jahre Kursverfall bei vollständig zirkulierender Supply** heißt: reine Nachfrageschwäche, keine Verwässerungs-Ausrede. **Beta nur 1,29**, Liquidität 1,8 % der MC. Die kursierende **Apple-/My-Number-Story ist unbestätigt** und genau die Art Gerücht, die bei $200-Mio.-Retail-Coins Schaden anrichtet.
 → ***Direkter Konkurrent zu Akash** – identische Rolle im Portfolio. JASMY hat die besseren Tokenomics (0 % vs. 8,94 % Inflation), mehr Liquidität und den konkreteren Katalysator; **Akash das bessere Beta (1,67) und wenigstens messbare, wenn auch schwache Nutzungszahlen.** 4–6 %, als Alternative zu Akash, nicht zusätzlich.*
+
+**8b. Aethir (ATH)** — *günstigste Bewertung im Vault, unter Vorbehalt* 🆕
+**P/S ~0,5x** – das ist der niedrigste Umsatzmultiplikator, den ich in diesem Vault gefunden habe, deutlich unter Pump.fun (2,6x). Aethir meldet **$166 Mio. Annual Recurring Revenue** (Q3 2025) bei **440.000+ GPU-Containern in 94 Ländern** – und die Zahlen sind **on-chain abgeglichen**, anders als bei io.net. Harte Supply-Obergrenze (42 Mrd.), keine Inflation.
+Im direkten Vergleich hat Aethir die mit Abstand besten Nutzungszahlen des GPU-Segments: **Akash liegt bei Ø 84 genutzten GPUs, io.net bei 2 % Auslastung.**
+Aber: **Die $166-Mio.-Zahl ist unverifiziert und trägt die gesamte These.** Sie könnte "gebucht" statt realisiert sein, oder ein Großteil könnte an GPU-Anbieter durchgereicht werden (wie bei Maple: $107 Mio. Gebühren, $13 Mio. Protokollumsatz). **Kein bekannter Buyback-Mechanismus.** MC/FDV 48 %, Token erst seit Februar 2025.
+→ ***3–5 % – aber erst nach Verifikation der Umsatzzahl. Ohne Bestätigung: 0 %.** Als Ersatz für Akash geeignet, dessen Zahlen um Größenordnungen schlechter sind.*
+
+**8c. Arweave (AR)** — *beste Angebotsseite des DePIN-Sektors* 🆕
+**MC/FDV 99,5 %** – der beste Wert im gesamten DePIN-Bereich und einer der besten im Vault überhaupt. Praktisch null Inflation, harte Obergrenze, kein Unlock-Kalender. **10x = nur ~37 % des alten ATH-Niveaus.** Acht Jahre durchgehender Betrieb, einzigartiges Produkt (permanenter Speicher gegen Einmalzahlung), **steuerlich sauber** (kein Staking → keine sonstigen Einkünfte).
+Aber: **keine veröffentlichten Nutzungs- oder Umsatzzahlen** für 2026 – man kann nicht rechnen, nur glauben. Das Endowment-Modell hängt rechnerisch an dauerhaft fallenden Speicherkosten. Einmalzahlungen sind ein schwächeres Geschäftsmodell als wiederkehrende Umsätze. Zwei Zyklen Underperformance, dünne Liquidität, eingeschränkte Ledger-Unterstützung.
+→ ***2–4 %. Im DePIN-Feld das Gegenstück zu Kaspa: hervorragende Angebotsseite, unbewiesene Nachfrageseite.***
 
 **9. Akash (AKT)** — *reiner Lottoschein*
 Kleinste MC der Liste ($177 Mio.) → geringster Kapitalbedarf für 10x, und 10x liegt exakt auf dem 2024er-Peak. Echter Kostenvorteil (H100 für $1,20–1,80 statt $4,50–5,50 bei AWS).
@@ -224,6 +266,37 @@ Sechs weitere RWA-Token, alle mit demselben Grundproblem in unterschiedlicher Au
 | **Quant** | GBTD mit HSBC/Barclays/Lloyds, ISO-Standardautor | **P/S ~277x**, **Beta 0,84**, 0,83 % Tagesvolumen → **0 %** |
 | **MANTRA** ⛔ | VARA-Lizenz, DAMAC $1 Mrd. | **Unaufgeklärter 92-%-Crash in einer Stunde.** Keine Fundamentaldaten → **0 %, abgeraten** |
 
+**20b. DePIN-Sammelposten: Filecoin, Helium, Livepeer, Peaq, io.net, Hivemapper** 🆕
+Ausführlich: [[02 DePIN – Token-Vergleich]]
+
+| Token | Stärke | Warum nicht ins Portfolio |
+|---|---|---|
+| **Filecoin** | **~32 % Speicher-Auslastung** (Bestwert im Compute/Storage-Bereich), FOC live mit >100 Teams, **Solstice-Proposal** als Tokenomics-Umbau | **Emission bis 2036**, MC/FDV 42 %, keine Umsatzzahlen, drei Zyklen Underperformance → **0–4 %** |
+| **Helium** | **Beste 10x-Mathematik im Vault** ($330 Mio. = ~6 % des Peaks), echte Konzernkunden (**AT&T, Telefónica**), Offload +80,5 % QoQ, 1,6 Mio. tägl. Nutzer | **Beta 1,15**, dünnste Liquidität ($0,99 Mio./Tag), widersprüchliche Umsatzzahlen → **0–3 %** |
+| **Livepeer** | Q1 2026 Allzeithoch: 134,4 Mio. Minuten (+71,9 % QoQ), AI-Video-Pivot funktioniert | **P/S ~60x** – Wachstum auf zu kleiner Basis ($1 Mio. Umsatz), Inflation ohne Buyback → **0–2 %** |
+| **Peaq** | **Beta 1,73**, deutsches Team, überzeugende Maschinenökonomie-These | **Kein relevantes DePIN-Projekt baut auf Peaq** – Helium, Grass, Hivemapper und Render laufen auf Solana. Keine Obergrenze, keine Zahlen → **0–2 %** |
+| **io.net** ⛔ | 12,5 % Tagesvolumen (guter Relativwert) | **6.720 aktive von 327.000 registrierten GPUs = 2 % Auslastung.** Drei CEOs in zwei Jahren, selbstberichtete Zahlen → **0 %** |
+| **Hivemapper** ⛔ | Nachvollziehbare Idee, $9,5 Mio. MC | **$77.836 Tagesvolumen, Beta 1,05** – faktisch nicht handelbar → **0 %** |
+
+**20c. Infrastructure-Sammelposten: Celestia, The Graph, Pyth, Arbitrum, Optimism, EigenLayer, Walrus** 🆕
+Ausführlich: [[02 Infrastructure – Token-Vergleich]]
+
+**Der Sektorbefund: Infrastruktur ist ein Rohstoffmarkt.** Celestia ist über 90 % billiger als Ethereum-Blobs – und Ethereum senkt seine Preise mit jedem Upgrade trotzdem weiter. **Acht von neun Infrastructure-Token im Vault haben keinen Wertabschöpfungs-Mechanismus.** Der neunte ist Chainlink.
+
+| Token | Stärke | Warum nicht ins Portfolio |
+|---|---|---|
+| **Pyth** | **Bessere Datenarchitektur als Chainlink** (Erstanbieter-Daten von Jane Street, Jump, CBOE), **Beta 1,69**, kleinere MC → mehr Hebel | **Kein Fee-Sharing** (LINK hat es seit 2025), MC/FDV 36 %, keine Umsatzzahlen. **Nur als Teiltausch gegen LINK** → 0–3 % |
+| **The Graph** | **MC/FDV 88,5 %**, 10x = nur 42 % des alten Peaks, unverzichtbare Infrastruktur | **Beta 1,33**, keine Umsatzzahlen, Query-Gebühren gehen an Indexer → 0–3 % |
+| **Celestia** | **Beta 1,78**, beste Liquidität (8,4 %), 10x = 78 % des Peaks | **P/S ~246x**, keine Supply-Obergrenze, ~8 % Inflation, **Ethereum drückt den Preis**, Forma-Abschaltung als Warnsignal → 0–3 % |
+| **Arbitrum** | Größter L2 nach TVL, gute Liquidität, harte Obergrenze | **Reiner Governance-Token.** Base-Problem → 0–3 % |
+| **EigenLayer** | **Beta 1,92** – zweithöchster Wert im Vault | **MC/FDV 14 %** – schlechtester Wert im Vault. 86 % Überhang zerstört den Beta-Vorteil → 0–2 % |
+| **Optimism** | Klügere Strategie als ARB (OP Stack als Standard), Beta 1,69 | **Base läuft auf dem OP Stack, zahlt an die Collective – nicht an OP-Halter.** 47 % Überhang + Förderausschüttungen → 0–2 % |
+| **Walrus** | Mysten-Labs-Team, modernste Speicherarchitektur, Beta 1,72 | **MC/FDV 25 %**, keine Nutzungszahlen, **implizite Doppelwette auf Sui** → 0–2 % |
+
+> [!important] Das Base-Problem – der schärfste Befund dieser Recherche
+> **Der erfolgreichste Layer-2 (Base, Coinbase) hat keinen eigenen Token.** Er muss keinen Token-Preis stützen, kann Gebühren beliebig senken und hat direkten Zugang zu Millionen verifizierter Nutzer.
+> **Wenn der Marktführer beweist, dass ein Produkt ohne Token funktioniert, ist das für alle Token in diesem Segment ein existenzielles Argument.** Dasselbe gilt für Alchemy/QuickNode gegen The Graph und AWS/Cloudflare gegen Walrus und Filecoin.
+
 **21. Hyperliquid (HYPE)** — *bestes Geschäftsmodell, schlechtester Einstiegspreis* 🆕
 Wahrscheinlich das beste Krypto-Unternehmen der Liste: **~$785 Mio.–1,0 Mrd. Protokollumsatz p. a., davon 97 % über den Assistance Fund in automatische HYPE-Rückkäufe** (>$1,3 Mrd. bis Mai 2026). 66–73 % Anteil am Perp-DEX-Volumen, $9,57 Mrd. Open Interest, kein Venture-Funding.
 Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/FDV 33 % – der schlechteste Wert des gesamten Vaults**, ~666 Mio. HYPE (67 %) stehen noch aus, monatlich am 6. Beta **1,35**, Token-Volumen nur **0,70 % der MC**. 10x = $223 Mrd. MC / $669 Mrd. FDV.
@@ -261,6 +334,11 @@ Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/F
 | **Pendle** 🆕 | 0 % | ⭐ **siehe Variante D – stärkster RWA-Kandidat** |
 | **Centrifuge** 🆕 | 0 % | ⭐ **siehe Variante D – höchstes Beta im Vault** |
 | **Maple / Ondo / Plume / Polymesh / Quant / MANTRA** 🆕 | 0 % | siehe [[03 RWA – Token-Vergleich]] |
+| **Grass** 🆕 | 0 % | ⭐ **siehe Variante E – bester DePIN-Kandidat** |
+| **Aethir** 🆕 | 0 % | ⭐ **siehe Variante E – nach Verifikation der Umsatzzahl** |
+| **Arweave** 🆕 | 0 % | siehe Variante E |
+| **Filecoin / Helium / Livepeer / Peaq / io.net / Hivemapper** 🆕 | 0 % | siehe [[02 DePIN – Token-Vergleich]] |
+| **Celestia / The Graph / Pyth / Arbitrum / Optimism / EigenLayer / Walrus** 🆕 | 0 % | siehe [[02 Infrastructure – Token-Vergleich]] |
 
 *AI-Block gesamt (Render + Fetch.ai + Akash): 27 %. Wer nur einen AI-Coin will: Render bei Fokus auf belegbare Nutzung, Fetch.ai bei Fokus auf Tokenomics und Handelbarkeit.*
 
@@ -340,6 +418,40 @@ Die Kürzung bei **Chainlink** ist bewusst: LINK war bisher die defensive RWA-Po
 
 *Erwartungswert: leicht höher als Variante A, weil Pendle das zweitbeste P/S im Vault mitbringt und Centrifuge den höchsten Beta-Hebel.*
 
+### Variante E – Mit RWA und DePIN 🆕
+
+Die DePIN-Recherche vom 10.08.2026 hat zwei Kandidaten hervorgebracht, die stark genug für eine Position sind: **Grass** (bester belegter Umsatzfall) und **Aethir** (P/S 0,5x, unter Vorbehalt). **Beide ersetzen Akash – sie ergänzen es nicht.**
+
+| Coin | Variante A | **Variante E** | Änderung |
+|---|---|---|---|
+| **Aptos** | 18 % | **16 %** | -2 |
+| **Kaspa** | 16 % | **14 %** | -2 |
+| **⭐ Pendle** 🆕 | 0 % | **9 %** | **+9** |
+| **Chainlink** | 14 % | **8 %** | **-6** |
+| **Render** | 11 % | **8 %** | -3 |
+| **Fetch.ai** | 11 % | **8 %** | -3 |
+| **Pump.fun** | 8 % | **8 %** | – |
+| **Cardano** | 10 % | **7 %** | -3 |
+| **⭐ Grass** 🆕 | 0 % | **6 %** | **+6** |
+| **⭐ Centrifuge** 🆕 | 0 % | **6 %** | **+6** |
+| **Sui** | 7 % | **5 %** | -2 |
+| **⭐ Aethir** 🆕 | 0 % | **5 %** | **+5** ⚠️ nur nach Verifikation |
+| **Akash** | 5 % | **0 %** | **-5** (ersetzt durch Grass und Aethir) |
+
+*Rationale:* **Grass** bringt einen belegten Umsatz mit P/S ~2,7x und Beta 1,74 – und besetzt mit der **Daten-Ebene** eine andere Stufe der AI-Kette als Render (Rendering/Compute) und Fetch.ai (Agenten). **Aethir** ersetzt Akash im GPU-Segment mit ungleich besseren Zahlen: 440.000+ Container gegen Ø 84 GPUs.
+
+> [!warning] Zwei Klumpenrisiken bewusst prüfen
+> **1. AI-/DePIN-Block:** Render 8 % + Fetch.ai 8 % + Grass 6 % + Aethir 5 % = **27 %.** Das ist viel für einen Narrativ-Komplex. Wer das reduzieren will, streicht Aethir (unverifizierte Zahlen) oder Fetch.ai (Ocean-Rechtsstreit).
+>
+> **2. RWA-Block:** Chainlink 8 % + Pendle 9 % + Centrifuge 6 % = **23 %** – plus indirekt Aptos (16 %), das faktisch eine der stärksten RWA-Chains ist. **Der RWA-Sektor ist im Kern eine Zinswette** (80 % des Werts in Staatsanleihen).
+>
+> **Zusammen sind ~50 % des Portfolios auf zwei Narrative konzentriert.** Das ist vertretbar, wenn es bewusst geschieht – aber es sollte nicht durch schrittweises Hinzufügen entstehen.
+
+> [!danger] Bedingung für Aethir
+> Die 5 % Aethir gelten **nur, wenn sich die $166-Mio.-ARR-Zahl als realisierter Protokollumsatz bestätigt.** Falls nicht: 0 %, und die 5 % gehen zu gleichen Teilen an Grass und Arweave.
+
+*Erwartungswert: höher als Variante A – Grass und Aethir bringen die günstigsten Umsatzmultiplikatoren des gesamten Vaults nach Pump.fun.*
+
 ---
 
 ## 5. Wichtige Grundsätze für die Umsetzung
@@ -397,6 +509,13 @@ Bei 10x-Wetten ist der häufigste Fehler nicht der Einstieg, sondern das Halten 
 | **Centrifuge** 🆕 | **Governance-Vorschläge zu Fee-Sharing/Buyback** | der eine Trigger, der die These dreht |
 | **Centrifuge** 🆕 | TVL (aktuell ~$1,7 Mrd.) und MC/TVL vs. Ondo | schließt sich die Lücke von 0,055 zu 0,49? |
 | **RWA-Sektor** 🆕 | **US-Zinsniveau** | 80 % des Sektorwerts sind Staatsanleihen – fallende Zinsen treffen alles |
+| **Grass** 🆕 | **Ausgang der Revenue-Capture-Abstimmung** (07.07.2026) | bei 50 % Buyback = 17,9 % Rendite auf die MC |
+| **Grass** 🆕 | FY-2026-Umsatz vs. Projektion $65–75 Mio. | H1 lag bei $18 Mio. |
+| **Grass** 🆕 | Rechtslage Web-Scraping / AI-Trainingsdaten | das ernsteste projektspezifische Risiko |
+| **Aethir** 🆕 | **$166-Mio.-ARR verifizieren** | realisierter Umsatz oder gebuchtes Bruttovolumen? |
+| **Aethir** 🆕 | Gibt es einen Buyback-Mechanismus? | ohne den erreicht der Umsatz den Token nie |
+| **Filecoin** 🆕 | **Solstice-Proposal** – angenommen und umgesetzt? | der Trigger, der FIL neu bewertbar macht |
+| **Akash** (Ausstieg prüfen) | Aktive Provider (58, Allzeittief) | fällt sie weiter, ist die Todesspirale bestätigt |
 | **JasmyCoin** 🆕 | **JasmyChain-Transaktionen & aktive Adressen** | keine öffentlichen Zahlen bis Q2 2027 = **These gescheitert** |
 | **JasmyCoin** 🆕 | Panasonic-Rollout → On-Chain-Aktivität | kommen weitere Hersteller dazu? |
 | **JasmyCoin** 🆕 | Apple-/My-Number-Story | **nur auf Bestätigung durch Apple oder die japanische Digital Agency reagieren** |
@@ -455,6 +574,20 @@ Von acht recherchierten RWA-Token haben **nur zwei einen funktionierenden Buybac
 **Der Präzedenzfall ist Chainlink:** sechs Jahre fundamental erfolgreich, als Investment enttäuschend – bis 2025 die Reserve kam. Genau in dieser Phase stehen heute Ondo, Centrifuge, Quant, Plume und Polymesh.
 **Regel:** Bei jedem neuen Kandidaten zuerst fragen, ob es einen Mechanismus gibt, der Protokollumsatz in Token-Nachfrage übersetzt – und wie hoch die Buyback-Rendite in Prozent der Market Cap ist. Unter 2 % ist symbolisch, über 10 % relevant. Details: [[01 RWA – Die Wertabschöpfungs-Frage]]
 
-**6. Bei Large Caps ist der Market-Cap-Test wichtiger als jede Chartanalyse.** *(neu, 10.08.2026)*
+**6. "Eigene Chain für X" ist sektorübergreifend die schwächste Kategorie.** *(neu, 10.08.2026, aus der DePIN-Recherche)*
+Im RWA-Bereich bauen **Plume, Polymesh, MANTRA und Canton** spezialisierte Chains – während BlackRock, Franklin Templeton und Ondo auf Ethereum und Solana deployen.
+Im DePIN-Bereich baut **Peaq** eine L1 für DePIN – während **Helium, Grass, Hivemapper und Render alle auf Solana laufen.** Kein einziges relevantes DePIN-Projekt im Vault nutzt Peaq.
+**Regel:** Bei jeder "Wir bauen die Chain für [Sektor]"-These zuerst prüfen, **wer tatsächlich darauf baut.** Wenn die Antwort "niemand Relevantes" lautet, ist die These unbelegt – unabhängig von der Technik.
+
+**7. Ein tokenloser Konkurrent schlägt in einem Rohstoffmarkt fast immer einen Token.** *(neu, 10.08.2026, aus der Infrastructure-Recherche)*
+**Base (Coinbase) ist der erfolgreichste Layer-2 – und hat keinen Token.** Er muss keinen Preis stützen, kann Gebühren beliebig senken und hat Millionen verifizierter Nutzer. Dasselbe Muster: Alchemy/QuickNode gegen The Graph, AWS/Cloudflare gegen Walrus und Filecoin, Ethereum selbst gegen Celestia.
+**Regel:** Bei jedem Infrastruktur-Token prüfen, ob es einen ernstzunehmenden **tokenlosen** Konkurrenten gibt. Wenn ja, ist der Preiskampf strukturell verloren – der Token ist dann Kostenfaktor, nicht Vorteil.
+
+**8. Günstige 10x-Mathematik ohne Beta ist wertlos.** *(neu, 10.08.2026)*
+**Helium** hat die günstigste 10x-Rechnung im gesamten Vault: $330 Mio. = nur ~6 % des alten ATH-Niveaus. **Und Beta 1,15.** Ein Coin, der sich kaum mit dem Markt bewegt, erreicht auch ein niedrig gelegenes Ziel nicht.
+Umgekehrt: **EigenLayer** hat mit 1,92 das zweitbeste Beta – und **MC/FDV 14 %**, was den Vorteil vollständig auffrisst.
+**Regel:** Die drei Kennzahlen **10x-Ziel relativ zum alten Peak**, **Beta** und **MC/FDV** immer zusammen lesen. Ein guter Wert bei nur einer davon reicht nicht.
+
+**9. Bei Large Caps ist der Market-Cap-Test wichtiger als jede Chartanalyse.** *(neu, 10.08.2026)*
 Die XRP-Recherche hat zwei prominente Analystenziele geliefert, die den Test nicht bestehen: **$48 (Ali Martinez)** entspräche einer Market Cap von **$3,1 Bio.** – mehr als der gesamte heutige Kryptomarkt von einem einzigen Asset. **$21–27 (Egrag Crypto)** wären $1,4–1,8 Bio. bzw. 60–77 % des Gesamtmarkts. Beide stammen aus reiner Chartmuster-Extrapolation.
 **Regel:** Jedes Kursziel für einen Top-20-Coin gegen die implizierte Market Cap **und** gegen den Gesamtmarkt prüfen. Ein Ziel, das ein Asset auf über 20 % des Gesamtmarkts hebt, ist keine Prognose, sondern eine gezeichnete Linie.

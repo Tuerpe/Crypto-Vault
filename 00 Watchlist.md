@@ -6,7 +6,7 @@
 
 - **01 Inbox** – Rohmaterial: Video-Zusammenfassungen, Artikel, Ideen, Links. Wird von Claude abgearbeitet und in die passenden Dateien eingepflegt.
 - **02 Coins** – Eine Datei pro Coin, angelegt erst sobald tatsächlich recherchiert wird. Struktur folgt der Vorlage in `04 Vorlagen`.
-- **03 Wissen** – Dauerhaftes Hintergrundwissen (z. B. Video-Zusammenfassungen), das noch nicht coin-spezifisch aufbereitet ist, aber als Quelle für die Coin-Dateien dient. Enthält seit 08/2026 den **Sektor-Wissensbereich [[00 RWA – Sektorüberblick|RWA]]**.
+- **03 Wissen** – Dauerhaftes Hintergrundwissen (z. B. Video-Zusammenfassungen), das noch nicht coin-spezifisch aufbereitet ist, aber als Quelle für die Coin-Dateien dient. Enthält seit 08/2026 die **Sektor-Wissensbereiche [[00 RWA – Sektorüberblick|RWA]]**, **[[00 DePIN – Sektorüberblick|DePIN]]** und **[[00 Infrastructure – Sektorüberblick|Infrastructure]]**.
 - **04 Vorlagen** – Die Recherchepunkte, nach denen jeder Coin bewertet wird.
 
 Neue Kandidaten/Infos einfach in `01 Inbox` ablegen – der Rest wird von hier aus einsortiert.
@@ -43,6 +43,22 @@ Stand der Marktdaten: Juni/Juli 2026
 | **Polymesh (POLYX)** 🆕 | Recherchiert | $42 Mio. | #406 | $0,03693 | -95,1 % | ⭐⭐ mittel | [[Polymesh (POLYX)]] |
 | **Quant (QNT)** 🆕 | Recherchiert | $831 Mio. | #79 | $68,87 | -83,8 % | ⭐ sehr niedrig | [[Quant (QNT)]] |
 | **MANTRA** 🆕 | Recherchiert | $25 Mio. | #519 | $0,00522 | -76,1 %‖ | ⛔ abgeraten | [[MANTRA (MANTRA)]] |
+| **Grass (GRASS)** 🆕 | Recherchiert | $196 Mio. | #158 | $0,2990 | -92,3 % | ⭐⭐⭐⭐ hoch | [[Grass (GRASS)]] |
+| **Aethir (ATH)** 🆕 | Recherchiert | $83 Mio. | #261 | $0,004113 | -94,0 % | ⭐⭐⭐⭐ hoch** | [[Aethir (ATH)]] |
+| **Arweave (AR)** 🆕 | Recherchiert | $118 Mio. | #219 | $1,798 | -98,2 % | ⭐⭐⭐ mittel | [[Arweave (AR)]] |
+| **Filecoin (FIL)** 🆕 | Recherchiert | $573 Mio. | #92 | $0,700 | **-99,7 %** | ⭐⭐⭐ mittel | [[Filecoin (FIL)]] |
+| **Helium (HNT)** 🆕 | Recherchiert | $33 Mio. | #450 | $0,1862 | -99,66 % | ⭐⭐⭐ mittel | [[Helium (HNT)]] |
+| **Celestia (TIA)** 🆕 | Recherchiert | $202 Mio. | #156 | $0,3232 | -98,45 % | ⭐⭐ niedrig-mittel | [[Celestia (TIA)]] |
+| **The Graph (GRT)** 🆕 | Recherchiert | $140 Mio. | #194 | $0,014666 | -99,45 % | ⭐⭐ niedrig-mittel | [[The Graph (GRT)]] |
+| **Pyth (PYTH)** 🆕 | Recherchiert | $112 Mio. | #227 | $0,030858 | -97,3 % | ⭐⭐ niedrig-mittel | [[Pyth Network (PYTH)]] |
+| **Arbitrum (ARB)** 🆕 | Recherchiert | $526 Mio. | #98 | $0,079571 | -96,7 % | ⭐⭐ niedrig | [[Arbitrum (ARB)]] |
+| **Livepeer (LPT)** 🆕 | Recherchiert | $62 Mio. | #310 | $1,2565 | -98,7 % | ⭐ niedrig | [[Livepeer (LPT)]] |
+| **EigenLayer (EIGEN)** 🆕 | Recherchiert | $43 Mio. | #375 | $0,175047 | -96,9 % | ⭐ niedrig | [[EigenLayer (EIGEN)]] |
+| **Optimism (OP)** 🆕 | Recherchiert | $208 Mio. | #155 | $0,09087 | -98,1 % | ⭐ niedrig | [[Optimism (OP)]] |
+| **Peaq (PEAQ)** 🆕 | Recherchiert | $46 Mio. | #392 | $0,02103 | -95,1 %†† | ⭐ niedrig | [[Peaq (PEAQ)]] |
+| **Walrus (WAL)** 🆕 | Recherchiert | $36 Mio. | #430 | $0,029097 | -96,2 % | ⭐ niedrig | [[Walrus (WAL)]] |
+| **io.net (IO)** 🆕 | Recherchiert | $47 Mio. | #361 | $0,1234 | -98,1 %†† | ⛔ abgeraten | [[io.net (IO)]] |
+| **Hivemapper (HONEY)** 🆕 | Recherchiert | $9,5 Mio. | #854 | $0,0016258 | -99,33 % | ⛔ nicht handelbar | [[Hivemapper (HONEY)]] |
 | **Bittensor (TAO)** | Recherchiert | $2,04 Mrd.† | #45 | $213,06 | -72,3 % | ⭐⭐⭐ hoch/riskant | [[Bittensor (TAO)]] |
 | Sui (SUI) | Recherchiert | $3,02 Mrd. | #38 | $0,750 | -86,0 % | ⭐⭐ mittel | [[Sui (SUI)]] |
 | Chainlink (LINK) | Recherchiert | $5,05 Mrd. | #24 | $8,05 | -84,8 % | ⭐⭐ mittel | [[Chainlink (LINK)]] |
@@ -67,6 +83,10 @@ Stand der Marktdaten: Juni/Juli 2026
 
 \# Die JTO-Market-Cap ist unsicher: Coinpaprika impliziert ~299 Mio. Circulating ($150,6 Mio. MC), die Vesting-Tracker ~507 Mio. ($255 Mio. MC) – **70 % Abweichung.** Vor einem Kauf auf DefiLlama verifizieren.
 Die 10x-Bewertung gilt **fundamental** (echte Umsätze, Marktführerschaft) – **portfoliotechnisch ist JTO wegen des Solana-Klumpenrisikos problematisch.** Siehe Kurzeinordnung.
+
+\*\* Aethirs 10x-Bewertung gilt **vorbehaltlich der Verifikation der $166-Mio.-ARR-Zahl.** Ohne Bestätigung: 0 %.
+
+†† ATH am **Launch-Tag** erreicht (Peaq 19.01.2025, io.net 12.06.2024) – als Bewertungsreferenz unbrauchbar.
 
 ‖ Bezogen auf den neuen MANTRA-Token nach der 1:4-Redenominierung (März 2026). Das Pre-Crash-Hoch lag bei ~$8,99 (OM, Feb. 2025) – **am 13.04.2025 fiel der Kurs in einer Stunde um 92 %.** Der Vorfall ist bis heute unaufgeklärt.
 
@@ -147,6 +167,42 @@ Von acht recherchierten RWA-Token haben **nur zwei einen funktionierenden Buybac
 
 **Portfolio-Konsequenz:** **Pendle 8 % + Centrifuge 6 %** als RWA-Allokation. Alles andere 0–4 %.
 ⚠️ Zusammen mit [[Chainlink (LINK)]] (14 %) ergäbe das **~28 % Sektorexposure** – vertretbar, aber bewusst zu entscheiden, weil der Sektor im Kern eine **Zinswette** ist (80 % des Werts liegen in Staatsanleihen).
+
+### Neu recherchiert am 10.08.2026 – DePIN & Infrastructure (16 Token)
+
+➡️ **Wissensbereiche: [[00 DePIN – Sektorüberblick]]** · [[01 DePIN – Die Auslastungs-Frage]] · [[02 DePIN – Token-Vergleich]]
+➡️ **[[00 Infrastructure – Sektorüberblick]]** · [[01 Infrastructure – Warum die Token nicht steigen]] · [[02 Infrastructure – Token-Vergleich]]
+
+**DePIN hat mehr echte Kundenumsätze als jeder andere Kryptosektor (~$150 Mio. allein im Januar 2026) – und die Token stehen trotzdem bei -90 bis -99 %.**
+
+#### Die drei Kaufkandidaten
+
+| Coin | Warum interessant | Warum vorsichtig |
+|---|---|---|
+| **Grass** ⭐ | Umsatz **$17 Mio. (2025) → $18 Mio. allein im H1 2026** (~7x YoY), Projektion $65–75 Mio. **P/S ~2,7x**, **Beta 1,74**, MC/FDV 65,5 %, 8,5 Mio. Nutzer. **Kein GPU-Projekt** → echte Diversifikation | **Rechtsrisiko beim Web-Scraping.** Ausgang der Revenue-Capture-Abstimmung (07.07.2026) unbekannt |
+| **Aethir** ⭐ | **P/S ~0,5x – günstigster Wert im gesamten Vault.** 440.000+ GPU-Container in 94 Ländern, **on-chain verifiziert** | **Die $166-Mio.-ARR-Zahl ist unverifiziert und trägt die gesamte These.** Kein Buyback, MC/FDV 48 % |
+| **Arweave** | **MC/FDV 99,5 %** – beste Angebotsseite des Sektors, null Inflation, 10x = nur ~37 % des alten Peaks, steuerlich sauber | **Keine veröffentlichten Nutzungszahlen.** Endowment-Modellrisiko |
+
+#### Die wichtigsten Absagen
+
+| Coin | Grund |
+|---|---|
+| **io.net** ⛔ | **6.720 aktive GPUs von 327.000 registrierten = 2 % Auslastung.** Drei CEOs in zwei Jahren, selbstberichtete Zahlen |
+| **Hivemapper** ⛔ | **$77.836 Tagesvolumen, Beta 1,05** – faktisch nicht handelbar |
+| **Peaq** | **Kein relevantes DePIN-Projekt baut darauf** – Helium, Grass, Hivemapper und Render laufen alle auf Solana |
+| **Arbitrum / Optimism** | **Base-Problem:** Der erfolgreichste Layer-2 hat keinen Token und kann Gebühren beliebig senken |
+| **EigenLayer** | Bestes Beta des Sektors (1,92) – aber **MC/FDV 14 %**, der schlechteste Wert im Vault |
+
+#### Drei sektorübergreifende Erkenntnisse
+
+**1. Die "eigene Chain für X"-These scheitert sektorübergreifend.** Peaq (DePIN) hat dasselbe Problem wie Plume, Polymesh und MANTRA (RWA): Die relevanten Projekte laufen woanders.
+
+**2. Infrastruktur ist ein Rohstoffmarkt.** Celestia ist 90 % billiger als Ethereum-Blobs – und Ethereum senkt seine Preise trotzdem weiter. **Ein Markt mit fallenden Preisen trägt keinen Token.**
+
+**3. Das Base-Problem.** Der erfolgreichste Layer-2 hat keinen Token. Wenn der Marktführer beweist, dass ein Produkt ohne Token funktioniert, ist das für alle Token im Segment existenziell.
+
+**Portfolio-Konsequenz:** **Grass 6 % + Aethir 4 % ersetzen Akash.** Bei Infrastructure: **keine zusätzliche Position** – Chainlink deckt den Sektor mit dem einzigen funktionierenden Buyback bereits ab.
+⚠️ Mit Grass und Aethir läge der **AI-/DePIN-Block bei ~32 %.** Ersetzen, nicht ergänzen.
 
 ## Marktkontext (Stand Juli 2026)
 
