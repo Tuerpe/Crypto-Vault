@@ -34,6 +34,7 @@ Stand der Marktdaten: Juni/Juli 2026
 | Akash (AKT) | Recherchiert | $177 Mio. | #174 | $0,598 | -94,2 % | ⭐⭐⭐ Lottoschein | [[Akash Network (AKT)]] |
 | **JasmyCoin (JASMY)** | Recherchiert | $203 Mio. | #159 | $0,004107 | -98,7 %¶ | ⭐⭐⭐ Lottoschein | [[JasmyCoin (JASMY)]] |
 | Pump.fun (PUMP) | Recherchiert | $791 Mio. | #83 | $0,00199 | -82,7 % | ⭐⭐⭐ hoch/riskant | [[Pump.fun (PUMP)]] |
+| **Jito (JTO)** | Recherchiert | $151–255 Mio.# | ~#175 | $0,504 | -90,5 % | ⭐⭐⭐⭐ hoch* | [[Jito (JTO)]] |
 | **Bittensor (TAO)** | Recherchiert | $2,04 Mrd.† | #45 | $213,06 | -72,3 % | ⭐⭐⭐ hoch/riskant | [[Bittensor (TAO)]] |
 | Sui (SUI) | Recherchiert | $3,02 Mrd. | #38 | $0,750 | -86,0 % | ⭐⭐ mittel | [[Sui (SUI)]] |
 | Chainlink (LINK) | Recherchiert | $5,05 Mrd. | #24 | $8,05 | -84,8 % | ⭐⭐ mittel | [[Chainlink (LINK)]] |
@@ -55,6 +56,9 @@ Stand der Marktdaten: Juni/Juli 2026
 § Der DOT-Rank ist geschätzt – das Rank- und Market-Cap-Feld bei Coinpaprika ist für DOT defekt (liefert MC = 0). Marktdaten-Stand: 09.08.2026.
 
 ¶ Das JASMY-ATH von $0,3245 (03.11.2021) stammt aus einer Zeit, in der nur ein Bruchteil der heutigen Supply zirkulierte – als Referenz unbrauchbar. Relevant ist der **Dezember-2024-Peak von $0,059 (MC >$2 Mrd.)** → tatsächlicher Abstand ~-93 %.
+
+\# Die JTO-Market-Cap ist unsicher: Coinpaprika impliziert ~299 Mio. Circulating ($150,6 Mio. MC), die Vesting-Tracker ~507 Mio. ($255 Mio. MC) – **70 % Abweichung.** Vor einem Kauf auf DefiLlama verifizieren.
+Die 10x-Bewertung gilt **fundamental** (echte Umsätze, Marktführerschaft) – **portfoliotechnisch ist JTO wegen des Solana-Klumpenrisikos problematisch.** Siehe Kurzeinordnung.
 
 ### Neu recherchiert am 28.07.2026 – Kurzeinordnung
 
@@ -101,6 +105,17 @@ Die fünf Neuzugänge fallen in eine gemeinsame Kategorie: **es sind überwiegen
 | **Dagegen** | **JasmyChain hat kein Entwickler-Ökosystem, keinen TVL, keine Transaktionshistorie.** Keinerlei bewertbare Fundamentaldaten – kein Umsatz, keine Nutzerzahlen. **Vier Jahre Kursverfall** trotz vollständig zirkulierender Supply (= reine Nachfrageschwäche, keine Verwässerungs-Ausrede). **Beta 1,29** – schwacher Marktbeta-Hebel. Liquidität nur 1,8 % der MC. **Die kursierende Apple-/My-Number-Story ist unbestätigt** |
 | **Konkurriert mit** | **Akash** – identische Portfolio-Rolle (kleinster Cap, höchster Hebel, schwächste Substanz). JASMY hat die besseren Tokenomics (0 % vs. 8,94 % Inflation), mehr Liquidität und den konkreteren Katalysator; **Akash das bessere Beta (1,67) und wenigstens messbare Nutzungszahlen** |
 | **Empfehlung** | **4–6 % – als Alternative zu Akash, nicht zusätzlich.** Abbruchbedingung: keine öffentlichen JasmyChain-Transaktionszahlen bis Q2 2027 |
+
+### Neu recherchiert am 10.08.2026 – Jito (JTO)
+
+**Qualitativ einer der stärksten Kandidaten des Vaults – und trotzdem problematisch, diesmal nicht wegen der Bewertung, sondern wegen der Korrelation.**
+
+| | |
+|---|---|
+| **Dafür** | **Echte, prüfbare Umsätze: $2,33 Mio. in Q1 2026** – nur Pump.fun und Hyperliquid haben das auch. **Klare Marktführerschaft: 53,4 % LST-Marktanteil (ATH), ~$2,92 Mrd. TVL, größtes Protokoll auf Solana.** BAM verdoppelte den Stake-Anteil in einem Quartal auf 28,1 %, Prognose +$15 Mio. Jahresumsatz. **Vesting-Ende 07.11.2026** – derselbe Katalysator-Typ wie bei Aptos. **JIP-38** schreibt JTO-Rückkäufe und Burns bis Q4 2027 fest. **Beta 1,68** – guter Bullrun-Hebel. **P/S 16–27x, bei BAM-Erfolg 6–11x** |
+| **Dagegen** | **⚠️ Drittes Solana-Investment.** Mit Pump.fun (8 %) und Render (11 %) hältst du bereits 19 % in Solana-abhängigen Positionen – und Jitos Tips stammen aus **demselben Handelsvolumen**, das Pump.fun erzeugt. Das ist keine Diversifikation. Der Buyback hängt **allein an JTX**, einer Plattform, die seit dem 14.07.2026 existiert und noch keine Volumenzahlen hat. Die bestehenden $9,3 Mio. Umsätze fließen **nicht** an Token-Halter. **Datenlage widersprüchlich** (Circulating Supply ±70 %, Vesting-Ende unklar) |
+| **Konkurriert mit** | **Pump.fun** – beide sind Wetten auf Solana-Aktivität. Pump.fun = Memecoin-Spekulation (zyklisch, fragil, **P/S 2,6x**), Jito = Solana-Infrastruktur (robuster, breiter, teurer) |
+| **Empfehlung** | **5–7 %, aber nur als Teiltausch gegen Pump.fun – nicht zusätzlich.** Meine Tendenz: **Pump.fun behalten** (bessere 10x-Asymmetrie), **JTO auf die Beobachtungsliste** mit Einstieg nach dem Vesting-Ende im November 2026, sobald JTX-Volumenzahlen vorliegen |
 
 ## Marktkontext (Stand Juli 2026)
 
