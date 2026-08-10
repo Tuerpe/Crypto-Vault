@@ -28,12 +28,15 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 | **Zcash** | $559,98 | $9,14 Mrd. | #13 | 77,8 % | **-24,7 %**‡ | **1,77** | 2,52 % | ~4 % |
 | **Solana** | $76,11 | $44,34 Mrd. | #7 | **~99 %** | -74,1 % | 1,57 | 1,86 % | ~3,7–4 % |
 | **Hyperliquid** | $66,93 | $22,35 Mrd. | #9 | **33 %** ❌ | **-12,9 %** ❌ | **1,35** ❌ | **0,70 %** ❌ | keine Emission |
+| **Polkadot** | $0,805 | $1,38 Mrd. | ~#55§ | **~81 %** | **-98,5 %** ⭐ | 1,49 | 2,7 % | **~3 %** (vorher 7–10 %) |
 
 \* Das FET-ATH ($3,47, März 2024) stammt aus der Zeit **vor** dem ASI-Merger, der die Supply verdreifacht hat. Relevante Referenz ist der Post-Merger-Peak (~$1,65, Dez. 2024) → tatsächlicher Abstand ~-83 %.
 
 † TAO-Circulating widersprüchlich (Coinpaprika ~9,6 Mio. vs. andere Quellen ~11,2 Mio.) → tatsächliche MC eher $2,3–2,4 Mrd.
 
 ‡ Das ZEC-ATH von $5.941,80 (29.10.2016) ist ein Launch-Tag-Artefakt. Relevante Referenz: $744,13 (07.11.2025).
+
+§ DOT-Rank geschätzt – Coinpaprikas Rank- und MC-Feld ist für DOT defekt (MC = 0). Marktdaten-Stand 09.08.2026.
 
 ---
 
@@ -43,6 +46,7 @@ Das ist die wichtigste Tabelle. **Ein 10x bei einem $5-Mrd.-Coin ist ein völlig
 
 | Coin | Aktuelle MC | MC bei 10x | ATH-MC (historisch) | 10x vs. altes ATH-MC |
 |---|---|---|---|---|
+| **Polkadot** | $1,38 Mrd. | **$14,1 Mrd.** | **~$54 Mrd. (Nov. 2021)** | ⭐ **nur 26 % des alten Peaks – Bestwert** |
 | **Akash** | $177 Mio. | **$1,8 Mrd.** | ~$1,3–1,9 Mrd. (2024) | ✅ **auf Höhe des alten Peaks** |
 | **Aptos** | $520 Mio. | **$6,3 Mrd.** | ~$7 Mrd. (Dez. 2024) | ✅ **unter dem alten Peak** |
 | **Cardano** | $6,27 Mrd. | $63 Mrd. | ~$95 Mrd. (2021) | ✅ unter dem alten Peak |
@@ -59,7 +63,9 @@ Das ist die wichtigste Tabelle. **Ein 10x bei einem $5-Mrd.-Coin ist ein völlig
 | **Canton** | $5,26 Mrd. | **$53 Mrd.** | $6,8 Mrd. (2026) | ❌ **7,8x über dem Peak** |
 | **Hyperliquid** | $22,35 Mrd. | **$223 Mrd.** (FDV $669 Mrd.) | ~$25 Mrd. (Juni 2026) | ❌ **~9x über dem Peak** |
 
-**Ergebnis:** Nur bei **Akash, Aptos und Cardano** liegt ein 10x auf oder unter einem Bewertungsniveau, das der Markt schon einmal bezahlt hat. Alles andere braucht ein neues Allzeithoch.
+**Ergebnis:** Nur bei **Polkadot, Akash, Aptos und Cardano** liegt ein 10x auf oder unter einem Bewertungsniveau, das der Markt schon einmal bezahlt hat. Alles andere braucht ein neues Allzeithoch.
+
+**Polkadot setzt sich mit Abstand an die Spitze dieser Tabelle:** 10x = $14,1 Mrd. gegen ein altes ATH-Niveau von ~$54 Mrd. – nur **26 %**. Kein anderer Coin im Vault braucht so wenig relativ zu dem, was der Markt ihm schon einmal zugestanden hat. **Diese Tabelle allein ist aber kein Kaufargument** – bei DOT stehen dem $250.000 Netzwerkumsatz gegen >$80 Mio. Ausgaben gegenüber. Siehe Tier-3-Einordnung.
 
 **Von den fünf Neuzugängen kommt nur Hedera in die vordere Hälfte dieser Tabelle** – mit 1,8x über dem Peak liegt es gleichauf mit Fetch.ai und besser als Pump.fun oder Chainlink. **Solana, Zcash und Hyperliquid landen am unteren Ende, Hyperliquid als schlechtester Wert der gesamten Liste.**
 
@@ -130,24 +136,29 @@ Aber die On-Chain-Ökonomie ist verheerend: **~$2.540 Netzwerkgebühren pro Tag*
 Die Enterprise-These ist seit 2018 dieselbe und hat in sieben Jahren keine Token-Nachfrage erzeugt.
 → ***Die bessere Version von Canton – in jeder Bewertungskennzahl.** Falls RWA/Enterprise ins Portfolio soll: HBAR statt Canton. Realistisch 3–5x.*
 
+**12. Polkadot (DOT)** — *beste 10x-Mathematik, schlechteste Trendindikatoren* 🆕
+**Die günstigste 10x-Rechnung des gesamten Vaults: 10x = $14,1 Mrd. = nur 26 % des alten ATH-Niveaus (~$54 Mrd., Nov. 2021).** Kein anderer Coin braucht so wenig relativ zu dem, was der Markt ihm schon einmal zugestanden hat. Dazu der Tokenomics-Umbau vom **14.03.2026**: harte Obergrenze bei **2,1 Mrd. DOT**, Emission von 120 Mio. auf 56,88 Mio. p. a. halbiert, **Inflation von 7–10 % auf ~3 %**, MC/FDV 81 %, keine Unlocks. Gavin Wood, bestes Chain-Framework der Branche, funktionierende On-Chain-Governance, Grayscale-ETF-Verfahren seit Februar 2026. **-98,5 % vom ATH – der tiefste Drawdown im Vault.**
+Aber die Ökonomie ist schlechter als bei Hedera: **~$250.000 Netzwerkumsatz gegen >$80 Mio. Ausgaben** (Verhältnis 1:320, P/S ~2.800x), TVL-Marktanteil von 3,5 % auf **1,8 %** gefallen, **DefiLlama-TVL ~$81 Mio.** gegen Cosmos $1,3 Mrd. Dazu eine öffentlich dokumentierte Ökosystem-Erosion: **Polkassembly eingestellt**, **Hyperbridge exploitet**, Ex-Insider-Vorwürfe zu Führung und Treasury (The Defiant, Mai 2026). **JAM hängt seit zwei Jahren im Testnet.** Beta nur **1,49**, zwei Zyklen massive Underperformance (2024/25 nur 21 % des alten ATH).
+→ ***Direkter Konkurrent zu Cardano** – gleiche Kategorie, gleiches Muster. DOT hat die bessere 10x-Mathematik und die niedrigere Inflation, **ADA den besseren TVL, 2,3x mehr Liquidität, 1,3 Mio. aktive Staker und den weiter fortgeschrittenen ETF.** Wenn nur eine dieser Positionen ins Portfolio soll: ADA. Realistisch 2,7–4x, Bull-Case 7,5–10x.*
+
 ### ❌ Tier 4 – passt nicht zum Ziel
 
-**12. Canton (CC)** — *gutes Projekt, falsches Portfolio*
+**13. Canton (CC)** — *gutes Projekt, falsches Portfolio*
 Beste Substanz der Liste (DTCC, Euroclear, BlackRock, echte Treasuries on-chain seit Juli 2026). Aber: MC **$5,26 Mrd. auf Rank #24**, nur **-23 % vom ATH** in einem Markt, der -53 % steht, **Beta 0,49** und **0,13 % Tagesvolumen** – die dünnste Liquidität bei der zweithöchsten Bewertung.
 10x würde **$53 Mrd.** bedeuten.
 → *Für ein 10x-Portfolio der schwächste Kandidat. Wenn du RWA willst, nimm Chainlink – oder Hedera für den Hebel.*
 
-**13. Zcash (ZEC)** — *das 10x ist bereits passiert* 🆕
+**14. Zcash (ZEC)** — *das 10x ist bereits passiert* 🆕
 Der stärkste der fünf Neuzugänge und trotzdem Tier 4. **30 % der Circulating Supply liegen im Shielded Pool** – der beste Nutzungsbeleg im gesamten Vault. Hartes 21-Mio.-Cap, keine VCs, kein Vesting, **Beta 1,77** (zweithöchster Wert). Ironwood/NU7 (Ende Juli 2026) verdreifacht den Shielded-Durchsatz, Project Tachyon arbeitet am formalen Beweis gegen unentdeckbare Fälschungsfehler, **Grayscale hat den ersten Privacy-Coin-ETF beantragt (ZCSH)**.
 Aber: ZEC stieg 2025 von ~$50 auf **$744 (+1.200 %)** und steht heute bei $560 – **MC $9,14 Mrd. ist ein Allzeithoch.** 10x = $91 Mrd. = 7,6x über dem Peak. Und: **Bybit hat ZEC delistet**, ebenso OKX teilweise und Bit2Me.
 → *Wertvoll als Absicherung gegen ein Überwachungs-/Regulierungsszenario, nicht als Renditetreiber. **Kaufzone eher $250–350.** Preis-Alarm setzen.*
 
-**14. Solana (SOL)** — *bester Coin, falsches Ziel* 🆕
+**15. Solana (SOL)** — *bester Coin, falsches Ziel* 🆕
 Die stärksten belegbaren Kennzahlen des gesamten Vaults: **$257 Mio. App-Umsatz in Q2 2026, neun Quartale in Folge #1 aller Chains**, $1,95 Bio. DEX-Volumen 2025, ~$14,85 Mrd. Stablecoins, Firedancer seit Dez. 2025 live, Alpenglow mit 150-ms-Finalität im Rollout, **MC/FDV ~99 % ohne jeden Unlock-Kalender**.
 Aber: **10x = $443 Mrd.** = 3,1x über dem Januar-2025-Peak. Keine einzige seriöse Prognose sieht SOL 2027 über ~$500. Dazu zwei versteckte Probleme: **Pump.fun stellte 36 % des Q1-2026-App-Umsatzes** (du hältst PUMP bereits – das ist eine Doppelposition), und die **DAT-Treasuries** (Forward Industries: $283 Mio. Verlust in Q1) sind ein neuer prozyklischer Verkäufer.
 → *Die Rolle "Qualitätsanker" ist mit Chainlink besetzt. 0 %, oder max. 5–8 % anstelle eines Teils von LINK.*
 
-**15. Hyperliquid (HYPE)** — *bestes Geschäftsmodell, schlechtester Einstiegspreis* 🆕
+**16. Hyperliquid (HYPE)** — *bestes Geschäftsmodell, schlechtester Einstiegspreis* 🆕
 Wahrscheinlich das beste Krypto-Unternehmen der Liste: **~$785 Mio.–1,0 Mrd. Protokollumsatz p. a., davon 97 % über den Assistance Fund in automatische HYPE-Rückkäufe** (>$1,3 Mrd. bis Mai 2026). 66–73 % Anteil am Perp-DEX-Volumen, $9,57 Mrd. Open Interest, kein Venture-Funding.
 Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/FDV 33 % – der schlechteste Wert des gesamten Vaults**, ~666 Mio. HYPE (67 %) stehen noch aus, monatlich am 6. Beta **1,35**, Token-Volumen nur **0,70 % der MC**. 10x = $223 Mrd. MC / $669 Mrd. FDV.
 → *Widerspricht der Portfolio-Grundthese ("billig in der Akkumulationsphase einsammeln") direkt. **Watchlist, nicht kaufen. Preis-Alarm bei $30.***
@@ -177,8 +188,11 @@ Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/F
 | **Zcash** 🆕 | 0 % | Watchlist, Kaufzone $250–350 |
 | **Solana** 🆕 | 0 % | Rolle mit Chainlink besetzt |
 | **Hyperliquid** 🆕 | 0 % | Watchlist, Preis-Alarm $30 |
+| **Polkadot** 🆕 | 0 % | Alternative zu Cardano, nicht zusätzlich |
 
 *AI-Block gesamt (Render + Fetch.ai + Akash): 27 %. Wer nur einen AI-Coin will: Render bei Fokus auf belegbare Nutzung, Fetch.ai bei Fokus auf Tokenomics und Handelbarkeit.*
+
+*Zu Polkadot: Die 10x-Mathematik ist die beste im Vault, aber DOT und ADA besetzen dieselbe Rolle (alter Large Cap mit Turnaround-Chance). Wer beide hält, verdoppelt dasselbe Risiko. **Wenn du DOT statt ADA willst: 10 % DOT, 0 % ADA.** Wenn du unbedingt beide willst: je 6 %, Rest proportional kürzen – ich halte das aber für die schlechtere Variante, weil ADA in allen Nachfrage-Kennzahlen vorn liegt.*
 
 > [!important] Warum keiner der fünf Neuzugänge in Variante A landet
 > **Drei von fünf (Solana, Hyperliquid, Zcash) scheitern an der Bewertung**, nicht an der Qualität. Es sind die drei besten Projekte, die in diesem Vault recherchiert wurden – und alle drei sind zu groß bzw. bereits gelaufen. Ein 10x-Portfolio verlangt Coins, die *unterhalb* dessen bewertet sind, was der Markt schon einmal bezahlt hat. Diese drei liegen 3,1x, 7,6x und 9x darüber.
@@ -267,6 +281,9 @@ Bei 10x-Wetten ist der häufigste Fehler nicht der Einstieg, sondern das Halten 
 | **Zcash** 🆕 | Grayscale ZCSH ETF – SEC-Entscheidung | Haupt-Katalysator |
 | **Solana** 🆕 | Quartals-App-Umsatz **ohne** Pump.fun | wächst er? |
 | **Hyperliquid** 🆕 | Marktanteil am Perp-DEX-Volumen | aktuell 66–73 % → **<40 % = These beschädigt** |
+| **Polkadot** 🆕 | **Coretime-Einnahmen pro Quartal** | decken sie die Treasury-Ausgaben? Einzige Kennzahl, die zählt |
+| **Polkadot** 🆕 | JAM-Mainnet (nicht Testnet) | **nicht live bis Q2 2027 = These gescheitert** |
+| **Polkadot** 🆕 | Treasury-Nettofluss & Runway | schrumpft weiter? |
 
 ### Preis-Alarme setzen
 
