@@ -1,6 +1,6 @@
 ---
 projekt: Arc
-traeger: Circle Internet Group (NYSE: CRCL)
+traeger: "Circle Internet Group (NYSE: CRCL)"
 ticker: ARC
 typ: Airdrop-Farming-Kandidat
 status: Testnet – Airdrop nicht bestätigt
