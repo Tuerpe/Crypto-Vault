@@ -6,7 +6,7 @@
 
 - **01 Inbox** – Rohmaterial: Video-Zusammenfassungen, Artikel, Ideen, Links. Wird von Claude abgearbeitet und in die passenden Dateien eingepflegt.
 - **02 Coins** – Eine Datei pro Coin, angelegt erst sobald tatsächlich recherchiert wird. Struktur folgt der Vorlage in `04 Vorlagen`.
-- **03 Wissen** – Dauerhaftes Hintergrundwissen (z. B. Video-Zusammenfassungen), das noch nicht coin-spezifisch aufbereitet ist, aber als Quelle für die Coin-Dateien dient. Enthält seit 08/2026 die **Sektor-Wissensbereiche [[00 RWA – Sektorüberblick|RWA]]**, **[[00 DePIN – Sektorüberblick|DePIN]]** und **[[00 Infrastructure – Sektorüberblick|Infrastructure]]**.
+- **03 Wissen** – Dauerhaftes Hintergrundwissen (z. B. Video-Zusammenfassungen), das noch nicht coin-spezifisch aufbereitet ist, aber als Quelle für die Coin-Dateien dient. Enthält seit 08/2026 die **Sektor-Wissensbereiche [[00 RWA – Sektorüberblick|RWA]]**, **[[00 DePIN – Sektorüberblick|DePIN]]**, **[[00 Infrastructure – Sektorüberblick|Infrastructure]]** und **[[00 Gaming – Sektorüberblick|Gaming]]**.
 - **04 Vorlagen** – Die Recherchepunkte, nach denen jeder Coin bewertet wird.
 
 Neue Kandidaten/Infos einfach in `01 Inbox` ablegen – der Rest wird von hier aus einsortiert.
@@ -59,6 +59,12 @@ Stand der Marktdaten: Juni/Juli 2026
 | **Walrus (WAL)** 🆕 | Recherchiert | $36 Mio. | #430 | $0,029097 | -96,2 % | ⭐ niedrig | [[Walrus (WAL)]] |
 | **io.net (IO)** 🆕 | Recherchiert | $47 Mio. | #361 | $0,1234 | -98,1 %†† | ⛔ abgeraten | [[io.net (IO)]] |
 | **Hivemapper (HONEY)** 🆕 | Recherchiert | $9,5 Mio. | #854 | $0,0016258 | -99,33 % | ⛔ nicht handelbar | [[Hivemapper (HONEY)]] |
+| **Ronin (RON)** 🆕 | Recherchiert | $39,9 Mio. | #406 | $0,05169 | -98,84 % | ⭐⭐⭐ mittel-hoch | [[Ronin (RON)]] |
+| **Illuvium (ILV)** 🆕 | Recherchiert | $25,8 Mio. | #510 | $3,1134 | -99,77 %‡‡ | ⭐⭐ mittel | [[Illuvium (ILV)]] |
+| **Immutable (IMX)** 🆕 | Recherchiert | $94,4 Mio. | #250 | $0,11203 | -97,03 % | ⭐⭐ niedrig-mittel | [[Immutable (IMX)]] |
+| **Beam (BEAM)** 🆕 | Recherchiert | $71,7 Mio. | #283 | $0,0013977 | -96,84 % | ⭐ niedrig | [[Beam (BEAM)]] |
+| **Axie Infinity (AXS)** 🆕 | Recherchiert | $206,7 Mio. | #174 | $1,1885 | -99,27 % | ⭐ niedrig | [[Axie Infinity (AXS)]] |
+| **The Sandbox (SAND)** 🆕 | Recherchiert | $108,2 Mio. | #230 | $0,040565 | -99,53 % | ⛔ Geschäft im Rückbau | [[The Sandbox (SAND)]] |
 | **Bittensor (TAO)** | Recherchiert | $2,04 Mrd.† | #45 | $213,06 | -72,3 % | ⭐⭐⭐ hoch/riskant | [[Bittensor (TAO)]] |
 | Sui (SUI) | Recherchiert | $3,02 Mrd. | #38 | $0,750 | -86,0 % | ⭐⭐ mittel | [[Sui (SUI)]] |
 | Chainlink (LINK) | Recherchiert | $5,05 Mrd. | #24 | $8,05 | -84,8 % | ⭐⭐ mittel | [[Chainlink (LINK)]] |
@@ -87,6 +93,8 @@ Die 10x-Bewertung gilt **fundamental** (echte Umsätze, Marktführerschaft) – 
 \*\* Aethirs 10x-Bewertung gilt **vorbehaltlich der Verifikation der $166-Mio.-ARR-Zahl.** Ohne Bestätigung: 0 %.
 
 †† ATH am **Launch-Tag** erreicht (Peaq 19.01.2025, io.net 12.06.2024) – als Bewertungsreferenz unbrauchbar.
+
+‡‡ Illuviums ATH ($1.376,73, 09.12.2021) stammt vom **ersten Handelstag** bei winzigem Float – ebenfalls unbrauchbar.
 
 ‖ Bezogen auf den neuen MANTRA-Token nach der 1:4-Redenominierung (März 2026). Das Pre-Crash-Hoch lag bei ~$8,99 (OM, Feb. 2025) – **am 13.04.2025 fiel der Kurs in einer Stunde um 92 %.** Der Vorfall ist bis heute unaufgeklärt.
 
@@ -203,6 +211,45 @@ Von acht recherchierten RWA-Token haben **nur zwei einen funktionierenden Buybac
 
 **Portfolio-Konsequenz:** **Grass 6 % + Aethir 4 % ersetzen Akash.** Bei Infrastructure: **keine zusätzliche Position** – Chainlink deckt den Sektor mit dem einzigen funktionierenden Buyback bereits ab.
 ⚠️ Mit Grass und Aethir läge der **AI-/DePIN-Block bei ~32 %.** Ersetzen, nicht ergänzen.
+
+### Neu recherchiert am 11.08.2026 – Gaming / GameFi (6 Token)
+
+➡️ **Wissensbereich: [[00 Gaming – Sektorüberblick]]** · [[01 Gaming – Warum Play-to-Earn gescheitert ist]] · [[02 Gaming – Token-Vergleich]]
+
+> [!danger] Der Sektorbefund ist härter als bei RWA, DePIN und Infrastructure
+> **93 % der GameFi-Projekte existieren 2026 nicht mehr.** 97 % der Token-Launches haben underperformt. Die Analysefirma **Caladan** spricht nach Auswertung von 2020 bis 2026 von einem **systemischen Kollaps**. Die Sektorfinanzierung fiel Ende 2025 um über 60 % im Jahresvergleich.
+> **Bei RWA wächst der Markt (+263 %), bei DePIN gibt es ~$150 Mio. echten Monatsumsatz. Bei Gaming ist die Nachfrageseite selbst weggebrochen.**
+
+#### Die einzige vertretbare Position
+
+| Coin | Warum interessant | Warum vorsichtig |
+|---|---|---|
+| **Ronin** ⭐ | **2,0 Mio. tägliche aktive Nutzer bei $39,9 Mio. Market Cap** – über Tron (1,8 Mio.) und Solana (1,2 Mio.). Solana wird pro Nutzer ~1.800x höher bewertet. **MC/FDV 77 %**, 10x = nur ~30 % des alten Peaks. Nicht mehr von Axie abhängig (Pixels, Lumiterra, Wildforest) | **Beta 1,33** (schwach), **DAU-Qualität unbelegt** (Farming-Problem), kein Buyback, Lazarus-Hack als Reputationslast |
+
+#### Mit einkalkuliertem Ausfall
+
+| Coin | Stärke | Schwäche |
+|---|---|---|
+| **Illuvium** | **90 Min. Ø Spielzeit bei 40.000 DAU** – einziger echter Engagement-Beleg im Sektor. **MC/FDV ~96 %**, **einziger Gaming-Token mit beschlossenem Revenue-Sharing**, Lamborghini-Kooperation | **Restrukturierung, Entlassungen, Kernbeitragende nehmen Gehaltskürzungen oder Token statt Lohn.** Nur $0,73 Mio. Tagesvolumen |
+| **Immutable** | **Beta 1,65** (bester Wert im Sektor), 7 der Top-10-Web3-Spiele, SEC-Verfahren eingestellt, Passport löst das Onboarding | **$2,6 Mio. wöchentliche Rewards = ~$135 Mio./Jahr bei $94,4 Mio. MC** – härtester Verwässerungsdruck im Vault. MC/FDV 42 % |
+
+#### Die Absagen
+
+| Coin | Grund |
+|---|---|
+| **The Sandbox** ⛔ | **Beide Gründer ausgeschieden, >50 % Belegschaft entlassen, Metaverse-Geschäft im Rückbau – Pivot zu einem Memecoin-Launchpad** in einen Markt, der um 80 % geschrumpft ist und von Pump.fun (75 % Anteil) dominiert wird |
+| **Axie Infinity** | **Doppelposition mit Ronin** (gleiche Firma) – und Ronin hat die besseren Zahlen. DAU -90 % vom Peak, ungeklärter Volumenausschlag (+1.397 %) |
+| **Beam** | **Keine Nutzungszahlen für 2026 verfügbar.** Keine Supply-Obergrenze, kein Buyback |
+
+#### Drei Erkenntnisse
+
+**1. Alle Gaming-Token haben günstige 10x-Mathematik (15–44 % des alten Peaks) – und das ist kein Kaufargument.** Es ist die mechanische Folge des Kollapses. **The Sandbox hat den besten Wert (15 %) und das schlechteste Geschäft.**
+
+**2. Engagement schlägt Nutzerzahl.** Illuviums 90 Minuten Ø Spielzeit sind aussagekräftiger als jede DAU-Zahl – **Farming-Bots spielen nicht 90 Minuten am Stück.**
+
+**3. Die strukturellen Blockaden sind nicht durch Tokenomics lösbar.** **Steam verbietet Blockchain-Spiele, Epic beschränkt sie** – der wichtigste PC-Vertriebskanal ist versperrt. Und die Zielgruppe lehnt NFTs mehrheitlich ab.
+
+**Portfolio-Konsequenz: Sektor auslassen – oder maximal eine Position (Ronin, 2–4 %).**
 
 ## Marktkontext (Stand Juli 2026)
 

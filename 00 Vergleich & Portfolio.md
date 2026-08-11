@@ -56,6 +56,12 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 | **EigenLayer** 🆕 | $0,175047 | $42,8 Mio. | #375 | **14 %** ❌❌ | -96,9 % | **1,92** ⭐⭐ | **9,7 %** ⭐ | keine Obergrenze |
 | **Walrus** 🆕 | $0,029097 | $36,4 Mio. | #430 | **25 %** ❌ | -96,2 % | **1,72** ⭐ | 6,8 % | – |
 | **Hivemapper** 🆕 | $0,0016258 | **$9,49 Mio.** | #854 | 58,4 % | -99,33 % | **1,05** ❌❌ | **0,8 %** ❌❌ | – |
+| **Axie Infinity** 🆕 | $1,1885 | $206,7 Mio. | #174 | 64 % ⚠️ | **-99,27 %** | 1,56 | **75,8 %** ⚠️§§ | – |
+| **The Sandbox** 🆕 | $0,040565 | $108,2 Mio. | #230 | **89 %** ⭐ | **-99,53 %** | 1,54 | 4,7 % | – |
+| **Immutable** 🆕 | $0,11203 | $94,4 Mio. | #250 | **42 %** ❌ | -97,03 % | **1,65** ⭐ | 4,4 % | **$135 Mio./Jahr Rewards** ❌❌ |
+| **Beam** 🆕 | $0,0013977 | $71,7 Mio. | #283 | 82 % ⭐ | -96,84 % | 1,45 | 4,0 % | keine Obergrenze |
+| **Ronin** 🆕 | $0,05169 | **$39,9 Mio.** | #406 | 77 % ⭐ | -98,84 % | **1,33** ❌ | **8,3 %** ⭐ | – |
+| **Illuvium** 🆕 | $3,1134 | **$25,8 Mio.** | #510 | **~96 %** ⭐⭐ | -99,77 %‡‡ | 1,49 | **2,8 %** ❌ | – |
 
 \* Das FET-ATH ($3,47, März 2024) stammt aus der Zeit **vor** dem ASI-Merger, der die Supply verdreifacht hat. Relevante Referenz ist der Post-Merger-Peak (~$1,65, Dez. 2024) → tatsächlicher Abstand ~-83 %.
 
@@ -73,6 +79,10 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 
 †† ATH am **Launch-Tag** erreicht (io.net 12.06.2024, Peaq 19.01.2025) – als Bewertungsreferenz unbrauchbar.
 
+‡‡ Illuviums ATH ($1.376,73, 09.12.2021) stammt vom ersten Handelstag bei winzigem Float – ebenfalls unbrauchbar.
+
+§§ AXS zeigte zum Erhebungszeitpunkt einen **ungeklärten Volumenausschlag von +1.397 %** (+25 % Kurs an einem Tag). Vor jeder Entscheidung klären.
+
 ‖ MANTRA-ATH bezogen auf den neuen Token nach 1:4-Redenominierung (März 2026). Pre-Crash-Hoch ~$8,99 (OM, Feb. 2025) – **am 13.04.2025 -92 % in einer Stunde, bis heute unaufgeklärt.**
 
 ---
@@ -87,7 +97,12 @@ Das ist die wichtigste Tabelle. **Ein 10x bei einem $5-Mrd.-Coin ist ein völlig
 | **JasmyCoin** | $202,9 Mio. | **$2,03 Mrd.** | **>$2 Mrd. (Dez. 2024)** | ✅ **auf Höhe des letzten Zyklus-Peaks** |
 | **Jito** | $151–255 Mio. | **$5,0 Mrd.** (bei voller Vestung) | MC ~$608 Mio. / **FDV ~$5,3 Mrd.** (Apr. 2024) | ✅ **~95 % der damaligen FDV** – aber 8,3x über der damaligen MC ⚠️ |
 | **Helium** 🆕 | $33,0 Mio. | **$330 Mio.** | ~$5,5 Mrd. (2021) | ⭐ **nur ~6 % des Peaks – Bestwert des Vaults** |
+| **The Sandbox** 🆕 | $108,2 Mio. | $1,16 Mrd. | ~$7,7 Mrd. (2021) | ⚠️ **~15 % – aber Geschäft aufgegeben** |
+| **Immutable** 🆕 | $94,4 Mio. | $1,06 Mrd. | ~$5,3 Mrd. (2024) | ✅ ~20 % des Peaks |
+| **Axie Infinity** 🆕 | $206,7 Mio. | $2,2 Mrd. | ~$9,9 Mrd. (2021) | ✅ ~22 % des Peaks |
+| **Ronin** 🆕 | $39,9 Mio. | **$450 Mio.** | ~$1,5 Mrd. (2024) | ✅ **~30 % des Peaks** |
 | **Arweave** 🆕 | $118,0 Mio. | **$1,18 Mrd.** | ~$3,2 Mrd. (2021) | ✅ **~37 % des Peaks** |
+| **Beam** 🆕 | $71,7 Mio. | $797 Mio. | ~$1,8 Mrd. (2024) | ✅ ~44 % des Peaks |
 | **The Graph** 🆕 | $140,0 Mio. | **$1,40 Mrd.** | ~$3,3 Mrd. (2021) | ✅ **~42 % des Peaks** |
 | **Polymesh** 🆕 | $42,3 Mio. | **$423 Mio.** | ~$680 Mio. (2024) | ✅ **nur 62 % des alten Peaks** |
 | **Celestia** 🆕 | $201,7 Mio. | $2,42 Mrd. | ~$3,1 Mrd. (2024) | ✅ ~78 % des Peaks |
@@ -117,6 +132,8 @@ Das ist die wichtigste Tabelle. **Ein 10x bei einem $5-Mrd.-Coin ist ein völlig
 
 **Helium führt die Tabelle jetzt an:** 10x = $330 Mio. gegen ein altes ATH-Niveau von ~$5,5 Mrd. – nur **~6 %.** Das ist der günstigste Wert im gesamten Vault. **Aber Beta 1,15** macht daraus keine gute Wette: Ein Coin, der sich kaum mit dem Markt bewegt, erreicht auch ein niedrig gelegenes Ziel nicht.
 **Das ist die Lehre aus dieser Tabelle: Günstige 10x-Mathematik ohne Beta ist wertlos.**
+
+**Der gesamte Gaming-Sektor bestätigt das noch deutlicher:** Alle sechs Gaming-Token liegen bei 15–44 % ihres alten Peaks – die günstigsten Werte der Tabelle nach Helium. **Das ist die mechanische Folge eines -97- bis -99,8-%-Kollapses, kein Hinweis auf Unterbewertung.** **The Sandbox** hat mit ~15 % den zweitbesten Wert der gesamten Tabelle – und ein Unternehmen, das seine Gründer verloren, über 50 % der Belegschaft entlassen und das Kerngeschäft aufgegeben hat.
 **Jito ist ein Sonderfall:** Wegen des winzigen Anfangs-Floats von 2024 führen MC- und FDV-Vergleich zu gegensätzlichen Ergebnissen. Gemessen an der damaligen FDV (~$5,3 Mrd.) liegt ein 10x knapp darunter; gemessen an der damaligen MC (~$608 Mio.) weit darüber. Bei Coins mit sehr niedrigem Startfloat ist die **FDV die ehrlichere Referenz** – die niedrige MC war ein Artefakt künstlicher Verknappung.
 
 **Polkadot setzt sich mit Abstand an die Spitze dieser Tabelle:** 10x = $14,1 Mrd. gegen ein altes ATH-Niveau von ~$54 Mrd. – nur **26 %**. Kein anderer Coin im Vault braucht so wenig relativ zu dem, was der Markt ihm schon einmal zugestanden hat. **Diese Tabelle allein ist aber kein Kaufargument** – bei DOT stehen dem $250.000 Netzwerkumsatz gegen >$80 Mio. Ausgaben gegenüber. Siehe Tier-3-Einordnung.
@@ -297,6 +314,25 @@ Ausführlich: [[02 Infrastructure – Token-Vergleich]]
 > **Der erfolgreichste Layer-2 (Base, Coinbase) hat keinen eigenen Token.** Er muss keinen Token-Preis stützen, kann Gebühren beliebig senken und hat direkten Zugang zu Millionen verifizierter Nutzer.
 > **Wenn der Marktführer beweist, dass ein Produkt ohne Token funktioniert, ist das für alle Token in diesem Segment ein existenzielles Argument.** Dasselbe gilt für Alchemy/QuickNode gegen The Graph und AWS/Cloudflare gegen Walrus und Filecoin.
 
+**20d. Gaming-Sektor: Ronin, Illuvium, Immutable, Beam, Axie, Sandbox** 🆕
+Ausführlich: [[02 Gaming – Token-Vergleich]] · [[01 Gaming – Warum Play-to-Earn gescheitert ist]]
+
+> [!danger] Der einzige Sektor im Vault, bei dem ich empfehle, die Kategorie auszulassen
+> **93 % der GameFi-Projekte existieren 2026 nicht mehr.** 97 % der Token-Launches haben underperformt, die Analysefirma Caladan spricht von einem **systemischen Kollaps**, die Sektorfinanzierung fiel Ende 2025 um über 60 %.
+> **Bei RWA wächst der Markt um 263 %. Bei DePIN gibt es ~$150 Mio. echten Monatsumsatz. Bei Gaming ist die Nachfrageseite selbst weggebrochen** – und die zwei strukturellen Blockaden sind nicht durch Tokenomics lösbar: **Steam verbietet Blockchain-Spiele, Epic beschränkt sie** (der wichtigste PC-Vertriebskanal ist versperrt), und die Zielgruppe lehnt NFTs mehrheitlich ab.
+
+| Token | Stärke | Warum nicht (oder nur klein) |
+|---|---|---|
+| **Ronin** ⭐ | **2,0 Mio. tägliche Nutzer bei $39,9 Mio. MC** – über Tron (1,8 Mio.) und Solana (1,2 Mio.). **Solana wird pro Nutzer ~1.800x höher bewertet.** MC/FDV 77 %, 10x = ~30 % des Peaks, nicht mehr von Axie abhängig | **Beta 1,33**, DAU-Qualität ohne Engagement-Daten unbelegt, kein Buyback, Lazarus-Hack → **2–4 %** |
+| **Illuvium** | **90 Min. Ø Spielzeit bei 40.000 DAU** – einziger echter Engagement-Beleg. **MC/FDV ~96 %**, **einziger Gaming-Token mit Revenue-Sharing**, Lamborghini-Kooperation | **Restrukturierung, Entlassungen, Kernteam nimmt Gehaltskürzungen oder Token statt Lohn.** $0,73 Mio. Tagesvolumen → **0–2 %** |
+| **Immutable** | **Beta 1,65** (bester im Sektor), 7 der Top-10-Web3-Spiele, SEC-Verfahren eingestellt, Passport löst das Onboarding | **$2,6 Mio. wöchentliche Rewards = ~$135 Mio./Jahr bei $94,4 Mio. MC** – härtester Verwässerungsdruck im Vault. MC/FDV 42 % → **0–2 %** |
+| **Beam** | MC/FDV 82 %, Avalanche-Anbindung | **Keine Nutzungszahlen für 2026.** Keine Supply-Obergrenze, kein Buyback → **0 %** |
+| **Axie Infinity** | $1,3 Mrd. kumulierter Umsatz, hohe Bekanntheit | **Doppelposition mit Ronin** (gleiche Firma) – Ronin hat die besseren Zahlen. **DAU -90 %**, ungeklärter Volumenausschlag (+1.397 %) → **0 %** |
+| **The Sandbox** ⛔ | MC/FDV 89 %, 10x = nur ~15 % des Peaks | **Beide Gründer ausgeschieden, >50 % Belegschaft entlassen, Metaverse-Geschäft im Rückbau, Pivot zum Memecoin-Launchpad** in einen um 80 % geschrumpften Markt → **0 %** |
+
+> [!important] Die methodische Lehre aus dem Gaming-Sektor
+> **Engagement schlägt Nutzerzahl.** Illuviums 90 Minuten durchschnittliche Spielzeit sind aussagekräftiger als jede DAU-Zahl – **Farming-Bots spielen nicht 90 Minuten am Stück.** Das ist die Gaming-Variante der DePIN-Auslastungsfrage: Gemeldete Aktivität ist nicht gleich echte Aktivität.
+
 **21. Hyperliquid (HYPE)** — *bestes Geschäftsmodell, schlechtester Einstiegspreis* 🆕
 Wahrscheinlich das beste Krypto-Unternehmen der Liste: **~$785 Mio.–1,0 Mrd. Protokollumsatz p. a., davon 97 % über den Assistance Fund in automatische HYPE-Rückkäufe** (>$1,3 Mrd. bis Mai 2026). 66–73 % Anteil am Perp-DEX-Volumen, $9,57 Mrd. Open Interest, kein Venture-Funding.
 Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/FDV 33 % – der schlechteste Wert des gesamten Vaults**, ~666 Mio. HYPE (67 %) stehen noch aus, monatlich am 6. Beta **1,35**, Token-Volumen nur **0,70 % der MC**. 10x = $223 Mrd. MC / $669 Mrd. FDV.
@@ -339,6 +375,8 @@ Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/F
 | **Arweave** 🆕 | 0 % | siehe Variante E |
 | **Filecoin / Helium / Livepeer / Peaq / io.net / Hivemapper** 🆕 | 0 % | siehe [[02 DePIN – Token-Vergleich]] |
 | **Celestia / The Graph / Pyth / Arbitrum / Optimism / EigenLayer / Walrus** 🆕 | 0 % | siehe [[02 Infrastructure – Token-Vergleich]] |
+| **Ronin** 🆕 | 0 % | einzige vertretbare Gaming-Position – 2–4 %, falls Sektor gewünscht |
+| **Illuvium / Immutable / Beam / Axie / Sandbox** 🆕 | 0 % | siehe [[02 Gaming – Token-Vergleich]] |
 
 *AI-Block gesamt (Render + Fetch.ai + Akash): 27 %. Wer nur einen AI-Coin will: Render bei Fokus auf belegbare Nutzung, Fetch.ai bei Fokus auf Tokenomics und Handelbarkeit.*
 
@@ -516,6 +554,9 @@ Bei 10x-Wetten ist der häufigste Fehler nicht der Einstieg, sondern das Halten 
 | **Aethir** 🆕 | Gibt es einen Buyback-Mechanismus? | ohne den erreicht der Umsatz den Token nie |
 | **Filecoin** 🆕 | **Solstice-Proposal** – angenommen und umgesetzt? | der Trigger, der FIL neu bewertbar macht |
 | **Akash** (Ausstieg prüfen) | Aktive Provider (58, Allzeittief) | fällt sie weiter, ist die Todesspirale bestätigt |
+| **Ronin** 🆕 | Tägliche aktive Nutzer (aktuell 2 Mio.) | **unter 500.000 bis Q2 2027 = These gescheitert** |
+| **Ronin** 🆕 | Gibt es einen Gebühren-Burn? | bei 2 Mio. DAU wäre er kursrelevant |
+| **Gaming-Sektor** 🆕 | Öffnen Steam oder Epic sich für Blockchain-Spiele? | die strukturelle Blockade – ohne sie bleibt der Vertriebskanal versperrt |
 | **JasmyCoin** 🆕 | **JasmyChain-Transaktionen & aktive Adressen** | keine öffentlichen Zahlen bis Q2 2027 = **These gescheitert** |
 | **JasmyCoin** 🆕 | Panasonic-Rollout → On-Chain-Aktivität | kommen weitere Hersteller dazu? |
 | **JasmyCoin** 🆕 | Apple-/My-Number-Story | **nur auf Bestätigung durch Apple oder die japanische Digital Agency reagieren** |
@@ -588,6 +629,14 @@ Im DePIN-Bereich baut **Peaq** eine L1 für DePIN – während **Helium, Grass, 
 Umgekehrt: **EigenLayer** hat mit 1,92 das zweitbeste Beta – und **MC/FDV 14 %**, was den Vorteil vollständig auffrisst.
 **Regel:** Die drei Kennzahlen **10x-Ziel relativ zum alten Peak**, **Beta** und **MC/FDV** immer zusammen lesen. Ein guter Wert bei nur einer davon reicht nicht.
 
-**9. Bei Large Caps ist der Market-Cap-Test wichtiger als jede Chartanalyse.** *(neu, 10.08.2026)*
+**9. Gemeldete Aktivität ist nicht echte Aktivität – in jedem Sektor.** *(neu, 11.08.2026, aus der Gaming-Recherche)*
+Das Muster wiederholt sich sektorübergreifend:
+- **DePIN:** io.net meldet **327.000 registrierte GPUs** – aktiv sind **6.720 (2 %)**
+- **Gaming:** Immutable meldet **660 signierte Spiele**, Beam **60+ Partnerspiele** – beides Vertriebszahlen, keine Nutzungszahlen
+- **RWA:** Plume meldet **280.000 Holder** – bei $600 Mio. TVL sind das ~$2.100 pro Adresse, also Retail-Größenordnung
+**Die Gegenprobe ist immer eine Qualitätskennzahl:** Filecoins **32 % Auslastung**, Illuviums **90 Min. Ø Spielzeit**, Grass' **berichteter Umsatz statt Nutzerzahl**.
+**Regel:** Bei jeder großen Zahl fragen, ob sie **Kapazität/Vertrieb** oder **tatsächliche Nutzung** misst. Wenn ein Projekt nur die erste Sorte kommuniziert, hat es die zweite vermutlich nicht.
+
+**10. Bei Large Caps ist der Market-Cap-Test wichtiger als jede Chartanalyse.** *(neu, 10.08.2026)*
 Die XRP-Recherche hat zwei prominente Analystenziele geliefert, die den Test nicht bestehen: **$48 (Ali Martinez)** entspräche einer Market Cap von **$3,1 Bio.** – mehr als der gesamte heutige Kryptomarkt von einem einzigen Asset. **$21–27 (Egrag Crypto)** wären $1,4–1,8 Bio. bzw. 60–77 % des Gesamtmarkts. Beide stammen aus reiner Chartmuster-Extrapolation.
 **Regel:** Jedes Kursziel für einen Top-20-Coin gegen die implizierte Market Cap **und** gegen den Gesamtmarkt prüfen. Ein Ziel, das ein Asset auf über 20 % des Gesamtmarkts hebt, ist keine Prognose, sondern eine gezeichnete Linie.
