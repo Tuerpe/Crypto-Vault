@@ -35,6 +35,7 @@ Stand der Marktdaten: Juni/Juli 2026
 | **JasmyCoin (JASMY)** | Recherchiert | $203 Mio. | #159 | $0,004107 | -98,7 %¶ | ⭐⭐⭐ Lottoschein | [[JasmyCoin (JASMY)]] |
 | Pump.fun (PUMP) | Recherchiert | $791 Mio. | #83 | $0,00199 | -82,7 % | ⭐⭐⭐ hoch/riskant | [[Pump.fun (PUMP)]] |
 | **Jito (JTO)** | Recherchiert | $151–255 Mio.# | ~#175 | $0,504 | -90,5 % | ⭐⭐⭐⭐ hoch* | [[Jito (JTO)]] |
+| **Aave (AAVE)** 🆕 | Recherchiert | $1,33 Mrd. | #52 | $86,37 | -87,0 % | ⭐⭐⭐⭐ mittel-hoch | [[Aave (AAVE)]] |
 | **Pendle (PENDLE)** 🆕 | Recherchiert | $226 Mio. | #149 | $1,379 | -81,7 % | ⭐⭐⭐⭐ hoch | [[Pendle (PENDLE)]] |
 | **Centrifuge (CFG)** 🆕 | Recherchiert | $94 Mio. | #250 | $0,1629 | -93,1 % | ⭐⭐⭐⭐ hoch | [[Centrifuge (CFG)]] |
 | **Maple (SYRUP)** 🆕 | Recherchiert | $181 Mio. | #166 | $0,1514 | -76,9 % | ⭐⭐⭐ mittel | [[Maple Finance (SYRUP)]] |
@@ -250,6 +251,21 @@ Von acht recherchierten RWA-Token haben **nur zwei einen funktionierenden Buybac
 **3. Die strukturellen Blockaden sind nicht durch Tokenomics lösbar.** **Steam verbietet Blockchain-Spiele, Epic beschränkt sie** – der wichtigste PC-Vertriebskanal ist versperrt. Und die Zielgruppe lehnt NFTs mehrheitlich ab.
 
 **Portfolio-Konsequenz: Sektor auslassen – oder maximal eine Position (Ronin, 2–4 %).**
+
+### Neu recherchiert am 17.08.2026 – Aave (DeFi)
+
+**Der qualitativ sauberste Fundamentalfall des gesamten Vaults – und der erste, der alle drei Prüfkriterien gleichzeitig erfüllt.**
+
+| | |
+|---|---|
+| **Dafür** | **~$402 Mio. annualisierter Umsatz bei $1,33 Mrd. Market Cap = P/S ~3,3x.** Das ist der **zweithöchste absolute Umsatz im Vault** nach Hyperliquid – und mehr als Pump.fun, Grass, Pendle, Maple, Chainlink und alle DePIN-Werte **zusammen**. **MC/FDV 96,4 %**, harte Obergrenze bei 16 Mio. **Aavenomics 3.0 (seit 27.06.2026): immutabler, nicht-diskretionärer Buyback** – die stärkste Ausgestaltung im Vault, per Governance nicht abschaltbar. **$14,49 Mrd. TVL** (größter Kreditmarkt in DeFi), **Horizon-RWA ~$540 Mio.** (größer als Plumes gesamter TVL). Sehr gute Liquidität (6,7 % der MC). **Über sechs Jahre ohne katastrophalen Ausfall** – durch Terra, FTX und mehrere Crashs |
+| **Dagegen** | **TVL -52 % vom Peak** ($30,25 Mrd. → $14,49 Mrd.) – bei einem Kreditprotokoll ist TVL die Umsatzbasis. **Buyback-Größenordnung ungeklärt:** beobachtet ~0,7 % Rendite, rechnerisches Potenzial 7,5–30 %. **Beta 1,53** – kein Hebel-Wert. Bad-Debt-Risiko. Morpho als ernsthafter Angreifer. 10x = 1,6x über dem alten ATH-MC |
+| **Vergleich** | **Aave vs. Chainlink:** Du hältst LINK mit 14 % als Qualitätsanker bei **P/S 67x** und ~1 % Buyback-Rendite. **Aave bietet dieselbe Logik bei P/S 3,3x**, besserem MC/FDV (96,4 % vs. 65 %) und einem stärkeren, immutablen Mechanismus |
+| **Empfehlung** | **8–10 % – anstelle eines Teils von Chainlink.** Realistisch ein 3–6x-Kandidat mit echtem 10x-Pfad |
+
+⚠️ **Vor einem Kauf klären:** Der Buyback-Widerspruch. Beobachtet werden ~292 AAVE/Tag (~$9,2 Mio./Jahr = 0,7 % der MC), das ältere diskretionäre System lief mit $250.000–1,75 Mio./Woche, und bei $402 Mio. Umsatz wären bis zu 30 % der Market Cap möglich. **Das entscheidet, ob AAVE eine gute oder eine außergewöhnliche Position ist.**
+
+> 💡 **Hinweis zur Struktur:** Aave ist der erste reine **DeFi**-Wert im Vault. Mit Pendle (Zinsmarkt) und Maple (institutionelles Lending) gibt es inzwischen drei DeFi-nahe Positionen ohne gemeinsame Sektoranalyse. Ein eigener DeFi-Wissensbereich analog zu RWA, DePIN, Infrastructure und Gaming wäre der nächste logische Schritt.
 
 ## Marktkontext (Stand Juli 2026)
 

@@ -32,6 +32,7 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 | **XRP** | $1,036 | **$64,81 Mrd.** | **#6** | ~62,5 % | -73,0 % | **1,26** ❌ | **0,90 %** ❌ | **0 %** |
 | **JasmyCoin** | $0,004107 | **$202,9 Mio.** | #159 | **98,8 %** ⭐ | -98,7 %¶ | **1,29** ❌ | 1,8 % ❌ | **0 %** ⭐ |
 | **Jito** | $0,504 | $151–255 Mio.# | ~#175 | **30–50,7 %** ❌ | -90,5 % | **1,68** ⭐ | 4,3–7,2 % | **0 %** ⭐ |
+| **Aave** 🆕 | $86,37 | $1,332 Mrd. | #52 | **96,4 %** ⭐⭐ | -87,0 % | 1,53 | **6,7 %** ⭐ | **0 %** ⭐ |
 | **Pendle** 🆕 | $1,379 | $225,8 Mio. | #149 | 63,4 % | -81,7 % | **1,61** | 2,9 % | **~2 %** |
 | **Centrifuge** 🆕 | $0,1629 | $94,0 Mio. | #250 | ~100 %⁑ | -93,1 % | **2,04** ⭐⭐ | 3,9 % | unklar ⚠️ |
 | **Maple** 🆕 | $0,1514 | $180,6 Mio. | #166 | **~99 %** ⭐ | -76,9 % | **1,29** ❌ | **1,3 %** ❌ | ~0 % |
@@ -110,6 +111,7 @@ Das ist die wichtigste Tabelle. **Ein 10x bei einem $5-Mrd.-Coin ist ein völlig
 | **Akash** | $177 Mio. | **$1,8 Mrd.** | ~$1,3–1,9 Mrd. (2024) | ✅ **auf Höhe des alten Peaks** |
 | **Aptos** | $520 Mio. | **$6,3 Mrd.** | ~$7 Mrd. (Dez. 2024) | ✅ **unter dem alten Peak** |
 | **Cardano** | $6,27 Mrd. | $63 Mrd. | ~$95 Mrd. (2021) | ✅ unter dem alten Peak |
+| **Aave** 🆕 | $1,332 Mrd. | **$13,8 Mrd.** | ~$8,6 Mrd. (2021) | ⚠️ 1,6x über dem Peak |
 | **Quant** 🆕 | $831,4 Mio. | $8,3 Mrd. | ~$5,1 Mrd. (2021) | ⚠️ 1,6x über dem Peak – **aber Beta 0,84** |
 | **Kaspa** | $805 Mio. | $8,4 Mrd. | ~$5 Mrd. (2024) | ⚠️ 1,7x über dem Peak |
 | **Pendle** 🆕 | $225,8 Mio. | $2,4 Mrd. | ~$1,1 Mrd. (2024) | ⚠️ 2,2x über dem Peak |
@@ -167,6 +169,13 @@ Nur **1,16 % Emission** bei **+279 % Burn-Wachstum** → auf dem Weg zur Deflati
 Nach Pump.fun das **zweitgünstigste Umsatzvielfache im gesamten Vault: P/S 5,6x** bei ~$40 Mio. Jahresumsatz und ~$5 Mrd. TVL. **50–60 % Marktanteil im DeFi-Zinshandel** mit selbstverstärkendem Liquiditätsvorteil. Entscheidend: Seit dem Wechsel von vePENDLE auf **sPENDLE fließen 80 % des Protokollumsatzes in Rückkäufe** – das sind **~$32 Mio. Kaufdruck auf $226 Mio. Market Cap = ~14 % Buyback-Rendite p. a.**, gegen nur ~2 % terminale Inflation. Netto **~12 % Kaufdruck pro Jahr.** MC/FDV 63,4 %, Beta 1,61, fünf Jahre ohne Sicherheitsvorfall. Chain-agnostisch: profitiert unabhängig davon, welcher RWA-Emittent gewinnt.
 Aber: **dünne Liquidität** ($6,47 Mio./Tag = 2,9 % der MC), zyklisches Kerngeschäft (hängt am DeFi-Renditeniveau), **ATH im April 2024 – früh im Zyklus**, Boros noch unbewiesen.
 → ***Der klar stärkste RWA-Kandidat.** 8–10 % als RWA-Kernposition **anstelle von Ondo.** Wichtigster Tracker: Gesamtumsatz über $60 Mio.*
+
+**3b. Aave (AAVE)** — *der sauberste Fundamentalfall des gesamten Vaults* 🆕
+**~$402 Mio. annualisierter Umsatz bei $1,33 Mrd. Market Cap = P/S ~3,3x.** Das ist der **zweithöchste absolute Umsatz im Vault** nach Hyperliquid ($785 Mio.) – und **mehr als Pump.fun, Grass, Pendle, Maple, Chainlink und alle DePIN-Werte zusammen.** Hyperliquid handelt dabei bei 29x, Aave bei 3,3x.
+Dazu die sauberste Kombination im Vault: **MC/FDV 96,4 %**, harte Obergrenze bei 16 Mio. Token, und seit dem **27.06.2026 Aavenomics 3.0 – ein immutabler, nicht-diskretionärer Buyback-Motor**, der Protokoll- und GHO-Einnahmen automatisch in Marktkäufe leitet. **Per Governance nicht abschaltbar** – anders als bei Pump.fun, das seine 100-%-Buyback-Politik im April 2026 einseitig geändert hat.
+Substanz: **$14,49 Mrd. TVL** (größter Kreditmarkt in DeFi), **Horizon-RWA ~$540 Mio.** (größer als Plumes gesamter TVL), GHO mit ~$598 Mio. Umlauf. **Sehr gute Liquidität** (6,7 % der MC, $88,7 Mio./Tag). **Über sechs Jahre ohne katastrophalen Protokollausfall** – durch Terra, FTX und mehrere Crashs. Im letzten Zyklus erreichte AAVE **60 % seines alten ATH** – deutlich besser als fast alles andere im Vault.
+Aber: **TVL -52 % vom Peak** ($30,25 Mrd. → $14,49 Mrd.) – bei einem Kreditprotokoll ist TVL die Umsatzbasis. **Die Buyback-Größenordnung ist ungeklärt:** beobachtet ~0,7 % Rendite, rechnerisches Potenzial 7,5–30 %. **Beta 1,53** – kein Hebel-Wert. Bad-Debt-Risiko wie bei Maple, nur größer. Morpho als ernsthafter Angreifer.
+→ ***8–10 % als Qualitätsposition – anstelle eines Teils von Chainlink.** Der Vergleich: LINK hältst du bei **P/S 67x** mit ~1 % Buyback-Rendite; **Aave bietet dieselbe Qualitätslogik bei P/S 3,3x**, besserem MC/FDV und stärkerem Mechanismus. Realistisch 3–6x mit echtem 10x-Pfad.*
 
 **4b. Grass (GRASS)** — *bester belegter Fall des DePIN-Sektors* 🆕
 Umsatz **$17 Mio. (2025) → $18 Mio. allein im H1 2026** – das ist **~7x gegenüber H1 2025**. Projektion FY 2026: **$65–75 Mio.** Daraus ein **P/S von ~2,7x** – nach Pump.fun (2,6x), Aethir (0,5x) und Pendle (5,6x) einer der günstigsten Werte im Vault. Dazu **Beta 1,74** (oberes Drittel), MC/FDV 65,5 %, harte Obergrenze und **8,5 Mio. Nutzer** – die größte DePIN-Nutzerbasis im Vault.
@@ -370,6 +379,7 @@ Aber: **-12,9 % vom ATH (16.06.2026) in einem Markt, der -52,6 % steht.** **MC/F
 | **Pendle** 🆕 | 0 % | ⭐ **siehe Variante D – stärkster RWA-Kandidat** |
 | **Centrifuge** 🆕 | 0 % | ⭐ **siehe Variante D – höchstes Beta im Vault** |
 | **Maple / Ondo / Plume / Polymesh / Quant / MANTRA** 🆕 | 0 % | siehe [[03 RWA – Token-Vergleich]] |
+| **Aave** 🆕 | 0 % | ⭐ **siehe Variante F – anstelle eines Teils von Chainlink** |
 | **Grass** 🆕 | 0 % | ⭐ **siehe Variante E – bester DePIN-Kandidat** |
 | **Aethir** 🆕 | 0 % | ⭐ **siehe Variante E – nach Verifikation der Umsatzzahl** |
 | **Arweave** 🆕 | 0 % | siehe Variante E |
@@ -490,6 +500,38 @@ Die DePIN-Recherche vom 10.08.2026 hat zwei Kandidaten hervorgebracht, die stark
 
 *Erwartungswert: höher als Variante A – Grass und Aethir bringen die günstigsten Umsatzmultiplikatoren des gesamten Vaults nach Pump.fun.*
 
+### Variante F – Mit Aave als Qualitätsanker 🆕
+
+Aave ist der erste Wert im Vault, der **alle drei Prüfkriterien gleichzeitig erfüllt**: hoher belegter Umsatz, sehr gutes MC/FDV **und** ein funktionierender, immutabler Buyback-Mechanismus. Er ersetzt einen Teil von Chainlink, das dieselbe Rolle bei **P/S 67x statt 3,3x** ausfüllt.
+
+| Coin | Variante E | **Variante F** | Änderung |
+|---|---|---|---|
+| **Aptos** | 16 % | **15 %** | -1 |
+| **Kaspa** | 14 % | **13 %** | -1 |
+| **⭐ Aave** 🆕 | 0 % | **9 %** | **+9** |
+| **Pendle** | 9 % | **8 %** | -1 |
+| **Pump.fun** | 8 % | **8 %** | – |
+| **Render** | 8 % | **7 %** | -1 |
+| **Fetch.ai** | 8 % | **7 %** | -1 |
+| **Grass** | 6 % | **6 %** | – |
+| **Centrifuge** | 6 % | **6 %** | – |
+| **Cardano** | 7 % | **6 %** | -1 |
+| **Chainlink** | 8 % | **5 %** | **-3** |
+| **Sui** | 5 % | **5 %** | – |
+| **Aethir** | 5 % | **5 %** | – ⚠️ nur nach Verifikation |
+
+*Rationale:* Chainlink war bisher der Qualitätsanker – chain-agnostisch, ETFs live, Reserve-Buyback. **Aave besetzt dieselbe Rolle mit deutlich besseren Kennzahlen:** $402 Mio. gegen $75 Mio. Umsatz, P/S 3,3x gegen 67x, MC/FDV 96,4 % gegen ~65 %, und ein **immutabler** statt eines diskretionären Buyback-Mechanismus. Chainlink bleibt mit 5 % drin, weil es der einzige chain-agnostische Wert ist, der unabhängig davon gewinnt, welche L1 sich durchsetzt.
+
+> [!warning] Sektor-Verteilung in Variante F
+> **DeFi/Zinsmarkt:** Aave 9 % + Pendle 8 % = **17 %**
+> **RWA:** Centrifuge 6 % + Chainlink 5 % = **11 %** (plus indirekt Aptos 15 %)
+> **AI/DePIN:** Render 7 % + Fetch.ai 7 % + Grass 6 % + Aethir 5 % = **25 %**
+> **L1s:** Aptos 15 % + Kaspa 13 % + Cardano 6 % + Sui 5 % = **39 %**
+>
+> Das ist ausgewogener als Variante E. **Der AI/DePIN-Block bleibt mit 25 % der größte Einzelrisikofaktor.**
+
+*Erwartungswert: etwas niedriger als Variante E beim Maximum (Aave hat Beta 1,53, nicht 1,74), dafür deutlich robuster – Aave hat mit $402 Mio. die belastbarste Umsatzbasis im gesamten Portfolio.*
+
 ---
 
 ## 5. Wichtige Grundsätze für die Umsetzung
@@ -542,6 +584,9 @@ Bei 10x-Wetten ist der häufigste Fehler nicht der Einstieg, sondern das Halten 
 | **Jito** 🆕 | **JTX-Handelsvolumen** | ohne Volumen kein Buyback – die gesamte JIP-38-These hängt daran |
 | **Jito** 🆕 | Tatsächlich verbrannte JTO-Menge (Rev Splitter) | on-chain nachvollziehbar |
 | **Jito** 🆕 | BAM-Stake-Anteil (aktuell 28,1 %) | erreicht Bruders $15-Mio.-Prognose? |
+| **Aave** 🆕 | **Wöchentliches Buyback-Volumen** | beobachtet ~0,7 % der MC, Potenzial 7,5–30 % – **der wichtigste offene Punkt** |
+| **Aave** 🆕 | TVL (aktuell $14,49 Mrd., -52 % vom Peak) | **stabilisiert er sich über $12 Mrd.?** |
+| **Aave** 🆕 | Annualisierter Umsatz (~$402 Mio.) | hält er $400 Mio. bei fallendem TVL? |
 | **Pendle** 🆕 | **Gesamtumsatz p. a.** (aktuell ~$40 Mio.) | **>$60 Mio. = These bestätigt** |
 | **Pendle** 🆕 | Boros-Handelsvolumen | entkoppelt der Umsatz sich vom TVL-Zyklus? |
 | **Centrifuge** 🆕 | **Governance-Vorschläge zu Fee-Sharing/Buyback** | der eine Trigger, der die These dreht |
