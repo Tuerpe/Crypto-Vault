@@ -33,6 +33,11 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 | **JasmyCoin** | $0,004107 | **$202,9 Mio.** | #159 | **98,8 %** ⭐ | -98,7 %¶ | **1,29** ❌ | 1,8 % ❌ | **0 %** ⭐ |
 | **Jito** | $0,504 | $151–255 Mio.# | ~#175 | **30–50,7 %** ❌ | -90,5 % | **1,68** ⭐ | 4,3–7,2 % | **0 %** ⭐ |
 | **Aave** 🆕 | $86,37 | $1,332 Mrd. | #52 | **96,4 %** ⭐⭐ | -87,0 % | 1,53 | **6,7 %** ⭐ | **0 %** ⭐ |
+| **Virtuals Protocol** 🆕 | $0,7321 | $474,8 Mio. | #114 | 64,9 % | -85,6 % | **2,29** ⭐⭐⭐ | **8,1 %** ⭐ | – |
+| **NEAR Protocol** 🆕 | $1,6071 | $2,09 Mrd. | #42 | keine Obergrenze ⚠️ | -92,1 % | 1,58 | **2,3 %** ❌ | **2,5 %** (halbiert) |
+| **Vana** 🆕 | ~$1,17 | ~$140 Mio.¤ | – | ~99 % ⚠️ | – | n. v. ⚠️ | ~18 % | – |
+| **Allora** 🆕 | ~$0,292 | ~$65,8 Mio.¤ | – | ~31 % ⚠️ | – | n. v. ⚠️ | **~172 %** ⚠️⚠️ | – |
+| **0G Labs** 🆕 | ~$0,142 | ~$33,3 Mio.¤ | ~#593 | **~21 %** ❌ | – | n. v. ⚠️ | ~16,7 % | – |
 | **Pendle** 🆕 | $1,379 | $225,8 Mio. | #149 | 63,4 % | -81,7 % | **1,61** | 2,9 % | **~2 %** |
 | **Centrifuge** 🆕 | $0,1629 | $94,0 Mio. | #250 | ~100 %⁑ | -93,1 % | **2,04** ⭐⭐ | 3,9 % | unklar ⚠️ |
 | **Maple** 🆕 | $0,1514 | $180,6 Mio. | #166 | **~99 %** ⭐ | -76,9 % | **1,29** ❌ | **1,3 %** ❌ | ~0 % |
@@ -83,6 +88,8 @@ Ziel: Portfolio aus Coins mit **realistischem 10x-Potenzial** bis zum nächsten 
 ‡‡ Illuviums ATH ($1.376,73, 09.12.2021) stammt vom ersten Handelstag bei winzigem Float – ebenfalls unbrauchbar.
 
 §§ AXS zeigte zum Erhebungszeitpunkt einen **ungeklärten Volumenausschlag von +1.397 %** (+25 % Kurs an einem Tag). Vor jeder Entscheidung klären.
+
+¤ Für Vana, Allora und 0G konnten die Marktdaten **nicht verifiziert** werden (kein Coinpaprika-Eintrag, widersprüchliche Sekundärquellen, kein Beta). Bei Vana weichen Coinbase und Binance um **Faktor 3,4** ab.
 
 ‖ MANTRA-ATH bezogen auf den neuen Token nach 1:4-Redenominierung (März 2026). Pre-Crash-Hoch ~$8,99 (OM, Feb. 2025) – **am 13.04.2025 -92 % in einer Stunde, bis heute unaufgeklärt.**
 
@@ -182,6 +189,11 @@ Umsatz **$17 Mio. (2025) → $18 Mio. allein im H1 2026** – das ist **~7x gege
 **Der strategische Punkt: Grass ist kein GPU-Projekt.** Es sitzt auf der Daten-Ebene der AI-Kette, nicht auf der Compute-Ebene. Im Portfolio, das bereits Render und Fetch.ai enthält, ist das echte Diversifikation statt Häufung.
 Aber: **Rechtsrisiko beim Web-Scraping** – das Geschäftsmodell beruht darauf, das offene Web über Privatanschlüsse abzurufen, und mehrere Rechtsstreitigkeiten zu AI-Trainingsdaten laufen. Kundenkonzentration unbekannt. **Der Ausgang der Revenue-Capture-Abstimmung vom 07.07.2026 ist ungeklärt** – bei 50 % Buyback läge die Rendite bei 17,9 % der MC, dem höchsten Wert im Vault.
 → ***Bester DePIN-Kandidat. 5–7 %, als Ersatz für Akash.***
+
+**4c. Virtuals Protocol (VIRTUAL)** — *höchstes Beta im gesamten Vault* 🆕
+**Beta 2,29** – der stärkste mechanische Hebel im Portfolio, vor Centrifuge (2,04), EigenLayer (1,92) und Pump.fun (1,89). Virtuals ist Launchpad und Marktplatz für **AI-Agenten**: über **17.000 Agenten** erstellt, **>$39,5 Mio. kumulierter Protokollumsatz**, und mit dem **Agent Commerce Protocol (ACP)** die konkreteste Antwort auf die Frage, warum Agenten überhaupt eine Blockchain brauchen – Smart-Contract-Escrow, kryptografische Verifikation, unabhängige Bewertungsphase. Protokollumsätze finanzieren **Rückkäufe und Burns**. MC/FDV 64,9 %, harte Obergrenze, gute Liquidität (8,1 %). **ATH im Januar 2025 – also im Zyklus-Top**, günstigeres Muster als bei Kaspa oder Render.
+Aber: **Strukturell ist Virtuals ein Launchpad** – eine Plattform, auf der jeder in Minuten einen Token mit Story startet, die an jeder Transaktion mitverdient. Die Ökonomie ist praktisch identisch mit **Pump.fun**, dessen Aktivität um 80 % in drei Monaten einbrach. "17.000 Agenten" ist außerdem eine Erstellungs-, keine Nutzungskennzahl. Buyback-Größenordnung unbelegt (~3,4 % im optimistischen Fall). **Beta 2,29 bedeutet auch den härtesten Drawdown im Portfolio.**
+→ ***3–5 %, aber nur als Tausch.** Virtuals überschneidet sich **doppelt**: mit Fetch.ai (Agenten) und mit Pump.fun (Launchpad-Ökonomie). **Der sauberste Tausch wäre gegen Fetch.ai** – höheres Beta, Buyback vorhanden, konkretere These; dafür schlechtere Liquidität. **Entscheidender Tracker: das ACP-Transaktionsvolumen zwischen Agenten** – das unterscheidet eine Ökonomie von einem Casino.*
 
 **5. Fetch.ai (FET)** — *beste Liquidität, ungelöstes Rechtsrisiko*
 Tokenomics auf Kaspa-Niveau (harte Obergrenze, MC/FDV 83–96 %, **kein Unlock-Kalender**) und die mit Abstand **beste Liquidität der Liste: 34 % der Market Cap pro Tag**. Echte Enterprise-Verbindungen – **Deutsche Telekom betreibt über T-Systems MMS Validatoren**, dazu Bosch, BMW, Festo und seit Januar 2026 Google Cloud/Gemini. Agent-Transaktionen +340 % YoY, 2,7 Mio. registrierte Agenten. ASI:Chain-Mainnet Ende 2026/Anfang 2027 – genau im Zyklusfenster.
@@ -341,6 +353,26 @@ Ausführlich: [[02 Gaming – Token-Vergleich]] · [[01 Gaming – Warum Play-to
 
 > [!important] Die methodische Lehre aus dem Gaming-Sektor
 > **Engagement schlägt Nutzerzahl.** Illuviums 90 Minuten durchschnittliche Spielzeit sind aussagekräftiger als jede DAU-Zahl – **Farming-Bots spielen nicht 90 Minuten am Stück.** Das ist die Gaming-Variante der DePIN-Auslastungsfrage: Gemeldete Aktivität ist nicht gleich echte Aktivität.
+
+**20e. AI-Sammelposten: NEAR, Vana, Allora, 0G Labs** 🆕
+Ausführlich: [[02 AI – Token-Vergleich]] · [[01 AI – Wo der Wert tatsächlich entsteht]]
+
+| Token | Stärke | Warum nicht ins Portfolio |
+|---|---|---|
+| **NEAR Protocol** | **>$20 Mrd. Intents-Volumen** (verdreifacht seit April 2026), Inflation 2026 halbiert (5 % → 2,5 %), **Intents Fee Switch in NEAR-Rückkäufe**, Fee-Abschöpfung 11,5 % → 30,5 %, Shade Agents | **P/S ~46x**, keine Supply-Obergrenze, nur 2,3 % Tagesvolumen. **Überschneidet sich mit Aptos (L1) und Fetch.ai (Agenten)** – ohne bei einem der beiden führend zu sein → **0–4 %** |
+| **Vana** | Inhaltlich die **sauberste Datenbeschaffung** – Nutzereinwilligung statt Web-Scraping, damit ohne Grass' Rechtsrisiko | **Marktdaten weichen zwischen Coinbase und Binance um Faktor 3,4 ab.** Keine Nutzungszahlen → **0 %** |
+| **Allora** | Inferenz-Ebene – konzeptionell die Stufe, auf der AI tatsächlich Geld verdient | **Handelsvolumen bei 172 % der Market Cap** (bisheriger Vault-Höchstwert: Axie mit 75,8 %), widersprüchliche Supply-Angaben → **0 %** |
+| **0G Labs** | AI-Chain mit Speicher, DA und Compute – technisch nachvollziehbar | **MC/FDV ~21 %**, Rohstoffproblem wie Celestia (P/S 246x), **kein relevantes AI-Projekt baut darauf** → **0 %** |
+
+> [!danger] ⚠️ Das AI-Klumpenrisiko – der wichtigste Befund des Sektorberichts
+> **In Variante F liegen bereits 25 % des Portfolios auf AI:** Render 7 % + Fetch.ai 7 % + Grass 6 % + Aethir 5 % – davon **12 % auf derselben Ebene** (Render und Aethir sind beide Rechenleistung).
+>
+> **AI-Token korrelieren untereinander stärker als mit dem Gesamtmarkt**, und ihre Betas liegen durchgehend hoch (1,57 bis 2,29). Das verstärkt Bewegungen in beide Richtungen.
+>
+> **Jeder der fünf Neuzugänge überschneidet sich mit einer bestehenden Position:**
+> Virtuals ↔ Fetch.ai *und* Pump.fun · NEAR ↔ Aptos *und* Fetch.ai · Vana ↔ Grass · 0G ↔ Celestia *und* Filecoin · Allora ↔ Bittensor
+>
+> **Empfehlung: 20 % Obergrenze für den AI-Block, maximal zwei Positionen pro Ebene.** Wer hier ergänzt statt tauscht, baut keine Diversifikation, sondern eine gehebelte Sektorwette mit dem Anschein von Streuung.
 
 **21. Hyperliquid (HYPE)** — *bestes Geschäftsmodell, schlechtester Einstiegspreis* 🆕
 Wahrscheinlich das beste Krypto-Unternehmen der Liste: **~$785 Mio.–1,0 Mrd. Protokollumsatz p. a., davon 97 % über den Assistance Fund in automatische HYPE-Rückkäufe** (>$1,3 Mrd. bis Mai 2026). 66–73 % Anteil am Perp-DEX-Volumen, $9,57 Mrd. Open Interest, kein Venture-Funding.

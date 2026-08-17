@@ -6,7 +6,7 @@
 
 - **01 Inbox** – Rohmaterial: Video-Zusammenfassungen, Artikel, Ideen, Links. Wird von Claude abgearbeitet und in die passenden Dateien eingepflegt.
 - **02 Coins** – Eine Datei pro Coin, angelegt erst sobald tatsächlich recherchiert wird. Struktur folgt der Vorlage in `04 Vorlagen`.
-- **03 Wissen** – Dauerhaftes Hintergrundwissen (z. B. Video-Zusammenfassungen), das noch nicht coin-spezifisch aufbereitet ist, aber als Quelle für die Coin-Dateien dient. Enthält seit 08/2026 die **Sektor-Wissensbereiche [[00 RWA – Sektorüberblick|RWA]]**, **[[00 DePIN – Sektorüberblick|DePIN]]**, **[[00 Infrastructure – Sektorüberblick|Infrastructure]]** und **[[00 Gaming – Sektorüberblick|Gaming]]**.
+- **03 Wissen** – Dauerhaftes Hintergrundwissen (z. B. Video-Zusammenfassungen), das noch nicht coin-spezifisch aufbereitet ist, aber als Quelle für die Coin-Dateien dient. Enthält seit 08/2026 die **Sektor-Wissensbereiche [[00 RWA – Sektorüberblick|RWA]]**, **[[00 DePIN – Sektorüberblick|DePIN]]**, **[[00 Infrastructure – Sektorüberblick|Infrastructure]]**, **[[00 Gaming – Sektorüberblick|Gaming]]** und **[[00 AI – Sektorüberblick|AI]]**.
 - **04 Vorlagen** – Die Recherchepunkte, nach denen jeder Coin bewertet wird.
 
 Neue Kandidaten/Infos einfach in `01 Inbox` ablegen – der Rest wird von hier aus einsortiert.
@@ -60,6 +60,11 @@ Stand der Marktdaten: Juni/Juli 2026
 | **Walrus (WAL)** 🆕 | Recherchiert | $36 Mio. | #430 | $0,029097 | -96,2 % | ⭐ niedrig | [[Walrus (WAL)]] |
 | **io.net (IO)** 🆕 | Recherchiert | $47 Mio. | #361 | $0,1234 | -98,1 %†† | ⛔ abgeraten | [[io.net (IO)]] |
 | **Hivemapper (HONEY)** 🆕 | Recherchiert | $9,5 Mio. | #854 | $0,0016258 | -99,33 % | ⛔ nicht handelbar | [[Hivemapper (HONEY)]] |
+| **Virtuals Protocol (VIRTUAL)** 🆕 | Recherchiert | $475 Mio. | #114 | $0,7321 | -85,6 % | ⭐⭐⭐⭐ hoch (Hebel) | [[Virtuals Protocol (VIRTUAL)]] |
+| **NEAR Protocol (NEAR)** 🆕 | Recherchiert | $2,09 Mrd. | #42 | $1,6071 | -92,1 % | ⭐⭐ niedrig-mittel | [[NEAR Protocol (NEAR)]] |
+| **Vana (VANA)** 🆕 | Recherchiert | ~$140 Mio.¤ | – | ~$1,17 | – | ⭐ Datenlage unsicher | [[Vana (VANA)]] |
+| **Allora (ALLO)** 🆕 | Recherchiert | ~$65,8 Mio.¤ | – | ~$0,292 | – | ⭐ Datenlage unsicher | [[Allora (ALLO)]] |
+| **0G Labs (0G)** 🆕 | Recherchiert | ~$33,3 Mio.¤ | ~#593 | ~$0,142 | – | ⛔ nicht empfohlen | [[0G Labs (0G)]] |
 | **Ronin (RON)** 🆕 | Recherchiert | $39,9 Mio. | #406 | $0,05169 | -98,84 % | ⭐⭐⭐ mittel-hoch | [[Ronin (RON)]] |
 | **Illuvium (ILV)** 🆕 | Recherchiert | $25,8 Mio. | #510 | $3,1134 | -99,77 %‡‡ | ⭐⭐ mittel | [[Illuvium (ILV)]] |
 | **Immutable (IMX)** 🆕 | Recherchiert | $94,4 Mio. | #250 | $0,11203 | -97,03 % | ⭐⭐ niedrig-mittel | [[Immutable (IMX)]] |
@@ -96,6 +101,8 @@ Die 10x-Bewertung gilt **fundamental** (echte Umsätze, Marktführerschaft) – 
 †† ATH am **Launch-Tag** erreicht (Peaq 19.01.2025, io.net 12.06.2024) – als Bewertungsreferenz unbrauchbar.
 
 ‡‡ Illuviums ATH ($1.376,73, 09.12.2021) stammt vom **ersten Handelstag** bei winzigem Float – ebenfalls unbrauchbar.
+
+¤ Für Vana, Allora und 0G konnten die Marktdaten **nicht verifiziert** werden: kein Coinpaprika-Eintrag, widersprüchliche Sekundärquellen, kein ermittelbares Beta. Bei Vana weichen Coinbase und Binance um **Faktor 3,4** ab, bei Allora liegt das Handelsvolumen bei **172 % der Market Cap**. Vor jeder Positionierung selbst prüfen.
 
 ‖ Bezogen auf den neuen MANTRA-Token nach der 1:4-Redenominierung (März 2026). Das Pre-Crash-Hoch lag bei ~$8,99 (OM, Feb. 2025) – **am 13.04.2025 fiel der Kurs in einer Stunde um 92 %.** Der Vorfall ist bis heute unaufgeklärt.
 
@@ -266,6 +273,43 @@ Von acht recherchierten RWA-Token haben **nur zwei einen funktionierenden Buybac
 ⚠️ **Vor einem Kauf klären:** Der Buyback-Widerspruch. Beobachtet werden ~292 AAVE/Tag (~$9,2 Mio./Jahr = 0,7 % der MC), das ältere diskretionäre System lief mit $250.000–1,75 Mio./Woche, und bei $402 Mio. Umsatz wären bis zu 30 % der Market Cap möglich. **Das entscheidet, ob AAVE eine gute oder eine außergewöhnliche Position ist.**
 
 > 💡 **Hinweis zur Struktur:** Aave ist der erste reine **DeFi**-Wert im Vault. Mit Pendle (Zinsmarkt) und Maple (institutionelles Lending) gibt es inzwischen drei DeFi-nahe Positionen ohne gemeinsame Sektoranalyse. Ein eigener DeFi-Wissensbereich analog zu RWA, DePIN, Infrastructure und Gaming wäre der nächste logische Schritt.
+
+### Neu recherchiert am 17.08.2026 – AI-Infrastruktur (Sektorbericht + 5 Token)
+
+➡️ **Wissensbereich: [[00 AI – Sektorüberblick]]** · [[01 AI – Wo der Wert tatsächlich entsteht]] · [[02 AI – Token-Vergleich]]
+
+**Der Sektor liegt bei ~$25 Mrd. und wächst – von jedem Venture-Dollar in Kryptofirmen gingen 2025 vierzig Cent an AI-nahe Projekte (Vorjahr: 18 Cent). On-chain laufen über 20.000 autonome Agenten, +300 % gegenüber Q4 2025.**
+
+#### Die Wertschöpfungskette – und wo dein Portfolio steht
+
+| Ebene | Besetzung | Token im Vault |
+|---|---|---|
+| **1. Rechenleistung** | ❌ **überfüllt** – konkurriert gegen AWS, CoreWeave, Lambda | Aethir, Render, Akash, io.net |
+| **2. Daten** | ⭐ **kaum besetzt** | **Grass**, Vana |
+| **3. Speicher** | ⚠️ Rohstoffmarkt | Filecoin, 0G |
+| **4. Modelle/Inferenz** | ⚠️ Bittensor dominiert | Bittensor, Allora, Livepeer |
+| **5. Agenten** | ⭐ wenig besetzt | Fetch.ai, **Virtuals** |
+| **6. Abwicklung** | ⭐ jung | NEAR, Virtuals ACP |
+
+#### Die Neuzugänge
+
+| Coin | Kernbefund | Empfehlung |
+|---|---|---|
+| **Virtuals Protocol** ⭐ | **Beta 2,29 – höchster Wert im gesamten Vault.** ACP liefert die konkreteste Antwort, warum Agenten eine Blockchain brauchen (Escrow, Verifikation, Bewertung). >17.000 Agenten, >$39,5 Mio. kumulierter Umsatz, Buyback vorhanden. **Aber strukturell ein Launchpad** mit Pump.fun-Zyklizität | **3–5 %, nur als Tausch** |
+| **NEAR Protocol** | **>$20 Mrd. Intents-Volumen**, Inflation 2026 halbiert (5 % → 2,5 %), **Intents Fee Switch in NEAR-Rückkäufe**, Fee-Abschöpfung 11,5 % → 30,5 % | **0–4 %** – P/S ~46x, überschneidet sich mit Aptos und Fetch.ai |
+| **Vana** | Sauberste Datenbeschaffung (Nutzereinwilligung statt Scraping) | **0 %** – Marktdaten weichen um Faktor 3,4 ab |
+| **Allora** | Inferenz-Netzwerk, konzeptionell interessant | **0 %** – Volumen bei 172 % der MC |
+| **0G Labs** | AI-Chain mit Speicher, DA, Compute | **0 %** – MC/FDV 21 %, niemand baut darauf |
+
+#### ⚠️ Der wichtigste Befund: Klumpenrisiko
+
+**In Variante F liegen bereits 25 % des Portfolios auf AI** (Render 7 % + Fetch.ai 7 % + Grass 6 % + Aethir 5 %) – davon **12 % auf derselben Ebene** (Render + Aethir, beide Rechenleistung).
+
+**Jeder der fünf Neuzugänge überschneidet sich mit einer bestehenden Position:** Virtuals ↔ Fetch.ai *und* Pump.fun · NEAR ↔ Aptos *und* Fetch.ai · Vana ↔ Grass · 0G ↔ Celestia *und* Filecoin · Allora ↔ Bittensor.
+
+**Das ist kein Mangel der Neuzugänge – es zeigt, dass der Vault den AI-Bereich bereits gut abdeckt.**
+
+**Empfehlung: 20 % Obergrenze für den AI-Block, maximal zwei Positionen pro Ebene.** Wer Virtuals aufnehmen will, tauscht es am saubersten gegen Fetch.ai (höheres Beta, Buyback vorhanden, ACP als konkrete These – dafür schlechtere Liquidität).
 
 ## Marktkontext (Stand Juli 2026)
 
